@@ -1,0 +1,8002 @@
+{
+  "('WEB', 'BAT', 'TELESCOPE', 'WATER', 'MOUSE', 'BERLIN', 'JAM', 'CLUB', 'IRON', 'TUBE', 'IVORY', 'BEAR')": {
+    "words": [
+      "WEB",
+      "BAT",
+      "TELESCOPE",
+      "WATER",
+      "MOUSE",
+      "BERLIN",
+      "JAM",
+      "CLUB",
+      "IRON",
+      "TUBE",
+      "IVORY",
+      "BEAR"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.9722222222222222,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('PAN', 'WASHINGTON', 'TOKYO', 'KETCHUP', 'KID', 'EMBASSY', 'SPIKE', 'ALPS', 'EUROPE', 'CAR', 'FORK', 'MILLIONAIRE')": {
+    "words": [
+      "PAN",
+      "WASHINGTON",
+      "TOKYO",
+      "KETCHUP",
+      "KID",
+      "EMBASSY",
+      "SPIKE",
+      "ALPS",
+      "EUROPE",
+      "CAR",
+      "FORK",
+      "MILLIONAIRE"
+    ],
+    "human_on_gpt": 0.9666666666666666,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.6666666666666667,
+    "gpt_on_human": 1.0
+  },
+  "('MILLIONAIRE', 'PLATYPUS', 'FENCE', 'SPRING', 'WATER', 'AMERICA', 'LUCK', 'LONDON', 'NOVEL', 'DECK', 'ICE', 'CLOAK')": {
+    "words": [
+      "MILLIONAIRE",
+      "PLATYPUS",
+      "FENCE",
+      "SPRING",
+      "WATER",
+      "AMERICA",
+      "LUCK",
+      "LONDON",
+      "NOVEL",
+      "DECK",
+      "ICE",
+      "CLOAK"
+    ],
+    "human_on_gpt": 0.8148148148148148,
+    "human_on_human": 0.6666666666666667,
+    "gpt_on_gpt": 0.7037037037037037,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('CRICKET', 'PAN', 'FENCE', 'STRAW', 'EYE', 'GRACE', 'VAN', 'GLASS', 'BOLT', 'MATCH', 'HORN', 'CYCLE')": {
+    "words": [
+      "CRICKET",
+      "PAN",
+      "FENCE",
+      "STRAW",
+      "EYE",
+      "GRACE",
+      "VAN",
+      "GLASS",
+      "BOLT",
+      "MATCH",
+      "HORN",
+      "CYCLE"
+    ],
+    "human_on_gpt": 0.9166666666666666,
+    "human_on_human": 0.9666666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.7
+  },
+  "('SPRING', 'CRASH', 'CELL', 'TICK', 'FENCE', 'SLUG', 'SATELLITE', 'HEAD', 'TEACHER', 'MAIL', 'DINOSAUR', 'EGYPT')": {
+    "words": [
+      "SPRING",
+      "CRASH",
+      "CELL",
+      "TICK",
+      "FENCE",
+      "SLUG",
+      "SATELLITE",
+      "HEAD",
+      "TEACHER",
+      "MAIL",
+      "DINOSAUR",
+      "EGYPT"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8333333333333333,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.5
+  },
+  "('KNIGHT', 'MINE', 'BERRY', 'TRIANGLE', 'GOLD', 'POST', 'BOLT', 'GROUND', 'LIMOUSINE', 'BRIDGE', 'LINE', 'APPLE')": {
+    "words": [
+      "KNIGHT",
+      "MINE",
+      "BERRY",
+      "TRIANGLE",
+      "GOLD",
+      "POST",
+      "BOLT",
+      "GROUND",
+      "LIMOUSINE",
+      "BRIDGE",
+      "LINE",
+      "APPLE"
+    ],
+    "human_on_gpt": 0.75,
+    "human_on_human": 0.9230769230769229,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('KEY', 'ANGEL', 'SPELL', 'PIPE', 'CROSS', 'ORGAN', 'HAND', 'BARK', 'AGENT', 'POLE', 'WORM', 'FLUTE')": {
+    "words": [
+      "KEY",
+      "ANGEL",
+      "SPELL",
+      "PIPE",
+      "CROSS",
+      "ORGAN",
+      "HAND",
+      "BARK",
+      "AGENT",
+      "POLE",
+      "WORM",
+      "FLUTE"
+    ],
+    "human_on_gpt": 0.7,
+    "human_on_human": 0.5,
+    "gpt_on_gpt": 0.7666666666666667,
+    "gpt_on_human": 0.41666666666666663
+  },
+  "('CELL', 'SCIENTIST', 'EAGLE', 'CZECH', 'LAB', 'BOOT', 'KANGAROO', 'GREEN', 'CHEST', 'MUG', 'LOG', 'SUPERHERO')": {
+    "words": [
+      "CELL",
+      "SCIENTIST",
+      "EAGLE",
+      "CZECH",
+      "LAB",
+      "BOOT",
+      "KANGAROO",
+      "GREEN",
+      "CHEST",
+      "MUG",
+      "LOG",
+      "SUPERHERO"
+    ],
+    "human_on_gpt": 0.875,
+    "human_on_human": 0.7,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('APPLE', 'DISEASE', 'PLATYPUS', 'MILLIONAIRE', 'MARBLE', 'KEY', 'BACK', 'BERLIN', 'PAN', 'GLASS', 'PIRATE', 'BOTTLE')": {
+    "words": [
+      "APPLE",
+      "DISEASE",
+      "PLATYPUS",
+      "MILLIONAIRE",
+      "MARBLE",
+      "KEY",
+      "BACK",
+      "BERLIN",
+      "PAN",
+      "GLASS",
+      "PIRATE",
+      "BOTTLE"
+    ],
+    "human_on_gpt": 0.8571428571428571,
+    "human_on_human": 0.7878787878787878,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.909090909090909
+  },
+  "('ALPS', 'RAY', 'NEEDLE', 'WASHINGTON', 'TAP', 'SHADOW', 'SNOW', 'SHOP', 'ICE CREAM', 'SPRING', 'SWING', 'BRUSH')": {
+    "words": [
+      "ALPS",
+      "RAY",
+      "NEEDLE",
+      "WASHINGTON",
+      "TAP",
+      "SHADOW",
+      "SNOW",
+      "SHOP",
+      "ICE CREAM",
+      "SPRING",
+      "SWING",
+      "BRUSH"
+    ],
+    "human_on_gpt": 0.9166666666666666,
+    "human_on_human": 0.8148148148148148,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.7037037037037037
+  },
+  "('AZTEC', 'CRASH', 'DISEASE', 'STAR', 'DWARF', 'BRIDGE', 'PAN', 'THIEF', 'MERCURY', 'ROOT', 'PARACHUTE', 'ROME')": {
+    "words": [
+      "AZTEC",
+      "CRASH",
+      "DISEASE",
+      "STAR",
+      "DWARF",
+      "BRIDGE",
+      "PAN",
+      "THIEF",
+      "MERCURY",
+      "ROOT",
+      "PARACHUTE",
+      "ROME"
+    ],
+    "human_on_gpt": 0.619047619047619,
+    "human_on_human": 0.8125,
+    "gpt_on_gpt": 0.7619047619047619,
+    "gpt_on_human": 1.0
+  },
+  "('FENCE', 'MEXICO', 'SNOW', 'TRIP', 'LINE', 'BUCK', 'BOLT', 'BOMB', 'BOTTLE', 'AMBULANCE', 'PIRATE', 'NEW YORK')": {
+    "words": [
+      "FENCE",
+      "MEXICO",
+      "SNOW",
+      "TRIP",
+      "LINE",
+      "BUCK",
+      "BOLT",
+      "BOMB",
+      "BOTTLE",
+      "AMBULANCE",
+      "PIRATE",
+      "NEW YORK"
+    ],
+    "human_on_gpt": 0.7777777777777778,
+    "human_on_human": 0.8333333333333331,
+    "gpt_on_gpt": 0.7037037037037037,
+    "gpt_on_human": 1.0
+  },
+  "('WELL', 'FAN', 'POISON', 'MODEL', 'BERRY', 'POLICE', 'BILL', 'BUCK', 'LASER', 'TOOTH', 'PART', 'LEAD')": {
+    "words": [
+      "WELL",
+      "FAN",
+      "POISON",
+      "MODEL",
+      "BERRY",
+      "POLICE",
+      "BILL",
+      "BUCK",
+      "LASER",
+      "TOOTH",
+      "PART",
+      "LEAD"
+    ],
+    "human_on_gpt": 0.7083333333333333,
+    "human_on_human": 0.6111111111111112,
+    "gpt_on_gpt": 0.9583333333333333,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('TORCH', 'SPACE', 'ATLANTIS', 'LION', 'CAR', 'ANTARCTICA', 'BUFFALO', 'LIGHT', 'BOX', 'CHARGE', 'AZTEC', 'WASHINGTON')": {
+    "words": [
+      "TORCH",
+      "SPACE",
+      "ATLANTIS",
+      "LION",
+      "CAR",
+      "ANTARCTICA",
+      "BUFFALO",
+      "LIGHT",
+      "BOX",
+      "CHARGE",
+      "AZTEC",
+      "WASHINGTON"
+    ],
+    "human_on_gpt": 0.6666666666666665,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('ROBOT', 'KNIGHT', 'AUSTRALIA', 'HELICOPTER', 'TEACHER', 'OIL', 'WAR', 'FAIR', 'SEAL', 'ENGINE', 'FIELD', 'CAST')": {
+    "words": [
+      "ROBOT",
+      "KNIGHT",
+      "AUSTRALIA",
+      "HELICOPTER",
+      "TEACHER",
+      "OIL",
+      "WAR",
+      "FAIR",
+      "SEAL",
+      "ENGINE",
+      "FIELD",
+      "CAST"
+    ],
+    "human_on_gpt": 0.875,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('PARACHUTE', 'LONDON', 'STAR', 'FLUTE', 'POLICE', 'CAPITAL', 'FIGHTER', 'CLUB', 'BAND', 'GRASS', 'STRAW', 'TEACHER')": {
+    "words": [
+      "PARACHUTE",
+      "LONDON",
+      "STAR",
+      "FLUTE",
+      "POLICE",
+      "CAPITAL",
+      "FIGHTER",
+      "CLUB",
+      "BAND",
+      "GRASS",
+      "STRAW",
+      "TEACHER"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.8888888888888888,
+    "gpt_on_human": 1.0
+  },
+  "('KING', 'PARK', 'PLATYPUS', 'CIRCLE', 'SKYSCRAPER', 'POISON', 'FLUTE', 'MICROSCOPE', 'ALIEN', 'MOUTH', 'GHOST', 'CRICKET')": {
+    "words": [
+      "KING",
+      "PARK",
+      "PLATYPUS",
+      "CIRCLE",
+      "SKYSCRAPER",
+      "POISON",
+      "FLUTE",
+      "MICROSCOPE",
+      "ALIEN",
+      "MOUTH",
+      "GHOST",
+      "CRICKET"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7037037037037037,
+    "gpt_on_gpt": 0.888888888888889,
+    "gpt_on_human": 1.0
+  },
+  "('SNOW', 'SCALE', 'SPY', 'WIND', 'ALIEN', 'BERLIN', 'PAN', 'GENIUS', 'AUSTRALIA', 'CELL', 'PLOT', 'IVORY')": {
+    "words": [
+      "SNOW",
+      "SCALE",
+      "SPY",
+      "WIND",
+      "ALIEN",
+      "BERLIN",
+      "PAN",
+      "GENIUS",
+      "AUSTRALIA",
+      "CELL",
+      "PLOT",
+      "IVORY"
+    ],
+    "human_on_gpt": 0.8,
+    "human_on_human": 0.696969696969697,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('DUCK', 'BEAT', 'CAST', 'HORSESHOE', 'HORSE', 'LASER', 'LEPRECHAUN', 'CHINA', 'BELL', 'BED', 'TURKEY', 'AZTEC')": {
+    "words": [
+      "DUCK",
+      "BEAT",
+      "CAST",
+      "HORSESHOE",
+      "HORSE",
+      "LASER",
+      "LEPRECHAUN",
+      "CHINA",
+      "BELL",
+      "BED",
+      "TURKEY",
+      "AZTEC"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('DAY', 'FAN', 'BRIDGE', 'MINE', 'DANCE', 'COURT', 'GROUND', 'BED', 'STREAM', 'LASER', 'SHOP', 'GAME')": {
+    "words": [
+      "DAY",
+      "FAN",
+      "BRIDGE",
+      "MINE",
+      "DANCE",
+      "COURT",
+      "GROUND",
+      "BED",
+      "STREAM",
+      "LASER",
+      "SHOP",
+      "GAME"
+    ],
+    "human_on_gpt": 0.606060606060606,
+    "human_on_human": 0.696969696969697,
+    "gpt_on_gpt": 0.6666666666666667,
+    "gpt_on_human": 0.696969696969697
+  },
+  "('SOUL', 'PITCH', 'HELICOPTER', 'BERMUDA', 'CHAIR', 'FOREST', 'KANGAROO', 'DROP', 'MUG', 'SPRING', 'LOG', 'BOOT')": {
+    "words": [
+      "SOUL",
+      "PITCH",
+      "HELICOPTER",
+      "BERMUDA",
+      "CHAIR",
+      "FOREST",
+      "KANGAROO",
+      "DROP",
+      "MUG",
+      "SPRING",
+      "LOG",
+      "BOOT"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.9629629629629629,
+    "gpt_on_gpt": 0.9444444444444443,
+    "gpt_on_human": 1.0
+  },
+  "('CHINA', 'ORGAN', 'OLYMPUS', 'YARD', 'SOUND', 'FAIR', 'PORT', 'MARCH', 'ROOT', 'HOSPITAL', 'FIRE', 'TOOTH')": {
+    "words": [
+      "CHINA",
+      "ORGAN",
+      "OLYMPUS",
+      "YARD",
+      "SOUND",
+      "FAIR",
+      "PORT",
+      "MARCH",
+      "ROOT",
+      "HOSPITAL",
+      "FIRE",
+      "TOOTH"
+    ],
+    "human_on_gpt": 0.611111111111111,
+    "human_on_human": 0.9333333333333332,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('PRESS', 'SUPERHERO', 'ROW', 'GOLD', 'DOCTOR', 'GIANT', 'EAGLE', 'UNICORN', 'LAWYER', 'COMPOUND', 'PLAY', 'STRIKE')": {
+    "words": [
+      "PRESS",
+      "SUPERHERO",
+      "ROW",
+      "GOLD",
+      "DOCTOR",
+      "GIANT",
+      "EAGLE",
+      "UNICORN",
+      "LAWYER",
+      "COMPOUND",
+      "PLAY",
+      "STRIKE"
+    ],
+    "human_on_gpt": 0.8888888888888888,
+    "human_on_human": 0.4444444444444444,
+    "gpt_on_gpt": 0.7037037037037037,
+    "gpt_on_human": 0.611111111111111
+  },
+  "('AMAZON', 'ICE', 'MICROSCOPE', 'CRICKET', 'MUG', 'ARM', 'CAP', 'DECK', 'BANK', 'AFRICA', 'PRESS', 'POISON')": {
+    "words": [
+      "AMAZON",
+      "ICE",
+      "MICROSCOPE",
+      "CRICKET",
+      "MUG",
+      "ARM",
+      "CAP",
+      "DECK",
+      "BANK",
+      "AFRICA",
+      "PRESS",
+      "POISON"
+    ],
+    "human_on_gpt": 0.5,
+    "human_on_human": 0.8958333333333333,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('OIL', 'KNIGHT', 'AUSTRALIA', 'SEAL', 'PITCH', 'DECK', 'FISH', 'STADIUM', 'LIGHT', 'GREEN', 'PALM', 'COMPOUND')": {
+    "words": [
+      "OIL",
+      "KNIGHT",
+      "AUSTRALIA",
+      "SEAL",
+      "PITCH",
+      "DECK",
+      "FISH",
+      "STADIUM",
+      "LIGHT",
+      "GREEN",
+      "PALM",
+      "COMPOUND"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7575757575757575,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.8181818181818182
+  },
+  "('NUT', 'SCREEN', 'TEMPLE', 'SEAL', 'SHAKESPEARE', 'PANTS', 'PIN', 'GLOVE', 'HOOD', 'LIMOUSINE', 'OLYMPUS', 'SHARK')": {
+    "words": [
+      "NUT",
+      "SCREEN",
+      "TEMPLE",
+      "SEAL",
+      "SHAKESPEARE",
+      "PANTS",
+      "PIN",
+      "GLOVE",
+      "HOOD",
+      "LIMOUSINE",
+      "OLYMPUS",
+      "SHARK"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.8518518518518517,
+    "gpt_on_gpt": 0.8888888888888888,
+    "gpt_on_human": 0.7037037037037037
+  },
+  "('PUMPKIN', 'ALIEN', 'MOON', 'BERMUDA', 'EUROPE', 'REVOLUTION', 'BEIJING', 'BEACH', 'NOVEL', 'KIWI', 'RACKET', 'GOLD')": {
+    "words": [
+      "PUMPKIN",
+      "ALIEN",
+      "MOON",
+      "BERMUDA",
+      "EUROPE",
+      "REVOLUTION",
+      "BEIJING",
+      "BEACH",
+      "NOVEL",
+      "KIWI",
+      "RACKET",
+      "GOLD"
+    ],
+    "human_on_gpt": 0.9333333333333332,
+    "human_on_human": 0.9629629629629629,
+    "gpt_on_gpt": 0.7999999999999999,
+    "gpt_on_human": 0.9629629629629629
+  },
+  "('ANGEL', 'STATE', 'SCHOOL', 'COMIC', 'HONEY', 'BATTERY', 'PUMPKIN', 'GERMANY', 'HEART', 'COLD', 'KEY', 'ORANGE')": {
+    "words": [
+      "ANGEL",
+      "STATE",
+      "SCHOOL",
+      "COMIC",
+      "HONEY",
+      "BATTERY",
+      "PUMPKIN",
+      "GERMANY",
+      "HEART",
+      "COLD",
+      "KEY",
+      "ORANGE"
+    ],
+    "human_on_gpt": 0.8333333333333334,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.9259259259259258
+  },
+  "('MOUSE', 'SHOT', 'STRIKE', 'SHADOW', 'PUMPKIN', 'PHOENIX', 'HOLE', 'HOOD', 'TRIANGLE', 'CHANGE', 'WAR', 'PARK')": {
+    "words": [
+      "MOUSE",
+      "SHOT",
+      "STRIKE",
+      "SHADOW",
+      "PUMPKIN",
+      "PHOENIX",
+      "HOLE",
+      "HOOD",
+      "TRIANGLE",
+      "CHANGE",
+      "WAR",
+      "PARK"
+    ],
+    "human_on_gpt": 0.2,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.3333333333333333,
+    "gpt_on_human": 1.0
+  },
+  "('BACK', 'BOND', 'ORGAN', 'MOLE', 'PALM', 'CAP', 'DRAFT', 'CAST', 'BOX', 'CODE', 'SNOW', 'CARROT')": {
+    "words": [
+      "BACK",
+      "BOND",
+      "ORGAN",
+      "MOLE",
+      "PALM",
+      "CAP",
+      "DRAFT",
+      "CAST",
+      "BOX",
+      "CODE",
+      "SNOW",
+      "CARROT"
+    ],
+    "human_on_gpt": 0.5277777777777778,
+    "human_on_human": 0.611111111111111,
+    "gpt_on_gpt": 0.8333333333333334,
+    "gpt_on_human": 0.27777777777777773
+  },
+  "('THEATER', 'TOOTH', 'HAND', 'HOLLYWOOD', 'ORGAN', 'LINE', 'BEACH', 'FENCE', 'POST', 'SPRING', 'PITCH', 'DATE')": {
+    "words": [
+      "THEATER",
+      "TOOTH",
+      "HAND",
+      "HOLLYWOOD",
+      "ORGAN",
+      "LINE",
+      "BEACH",
+      "FENCE",
+      "POST",
+      "SPRING",
+      "PITCH",
+      "DATE"
+    ],
+    "human_on_gpt": 0.7499999999999999,
+    "human_on_human": 0.8,
+    "gpt_on_gpt": 0.7499999999999999,
+    "gpt_on_human": 0.4
+  },
+  "('SPOT', 'RACKET', 'PLANE', 'THIEF', 'SPELL', 'MAPLE', 'PLASTIC', 'LASER', 'POST', 'BEIJING', 'NIGHT', 'CLUB')": {
+    "words": [
+      "SPOT",
+      "RACKET",
+      "PLANE",
+      "THIEF",
+      "SPELL",
+      "MAPLE",
+      "PLASTIC",
+      "LASER",
+      "POST",
+      "BEIJING",
+      "NIGHT",
+      "CLUB"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7575757575757577,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.696969696969697
+  },
+  "('FACE', 'SNOWMAN', 'STAFF', 'CARROT', 'PLOT', 'FENCE', 'SPY', 'MICROSCOPE', 'POINT', 'AFRICA', 'DRAFT', 'SOLDIER')": {
+    "words": [
+      "FACE",
+      "SNOWMAN",
+      "STAFF",
+      "CARROT",
+      "PLOT",
+      "FENCE",
+      "SPY",
+      "MICROSCOPE",
+      "POINT",
+      "AFRICA",
+      "DRAFT",
+      "SOLDIER"
+    ],
+    "human_on_gpt": 0.8333333333333334,
+    "human_on_human": 0.9523809523809524,
+    "gpt_on_gpt": 0.5555555555555556,
+    "gpt_on_human": 1.0
+  },
+  "('BEIJING', 'VACUUM', 'CRICKET', 'TAG', 'WIND', 'PLOT', 'WITCH', 'PORT', 'CRANE', 'SQUARE', 'HOTEL', 'SLUG')": {
+    "words": [
+      "BEIJING",
+      "VACUUM",
+      "CRICKET",
+      "TAG",
+      "WIND",
+      "PLOT",
+      "WITCH",
+      "PORT",
+      "CRANE",
+      "SQUARE",
+      "HOTEL",
+      "SLUG"
+    ],
+    "human_on_gpt": 0.8333333333333333,
+    "human_on_human": 0.9761904761904762,
+    "gpt_on_gpt": 0.7499999999999999,
+    "gpt_on_human": 1.0
+  },
+  "('THEATER', 'MOUNT', 'WHIP', 'DRESS', 'SOUND', 'BOOT', 'PLAY', 'AFRICA', 'SHAKESPEARE', 'COTTON', 'PIN', 'MICROSCOPE')": {
+    "words": [
+      "THEATER",
+      "MOUNT",
+      "WHIP",
+      "DRESS",
+      "SOUND",
+      "BOOT",
+      "PLAY",
+      "AFRICA",
+      "SHAKESPEARE",
+      "COTTON",
+      "PIN",
+      "MICROSCOPE"
+    ],
+    "human_on_gpt": 0.9333333333333332,
+    "human_on_human": 0.5641025641025641,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.7179487179487178
+  },
+  "('AMBULANCE', 'KING', 'SCORPION', 'BILL', 'SPRING', 'COMIC', 'WEB', 'SOUL', 'SHAKESPEARE', 'BELT', 'PENGUIN', 'DAY')": {
+    "words": [
+      "AMBULANCE",
+      "KING",
+      "SCORPION",
+      "BILL",
+      "SPRING",
+      "COMIC",
+      "WEB",
+      "SOUL",
+      "SHAKESPEARE",
+      "BELT",
+      "PENGUIN",
+      "DAY"
+    ],
+    "human_on_gpt": 0.7142857142857143,
+    "human_on_human": 0.515151515151515,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('IVORY', 'PIE', 'TRACK', 'WATCH', 'COLD', 'POINT', 'PIN', 'COTTON', 'SKYSCRAPER', 'CANADA', 'BARK', 'FORCE')": {
+    "words": [
+      "IVORY",
+      "PIE",
+      "TRACK",
+      "WATCH",
+      "COLD",
+      "POINT",
+      "PIN",
+      "COTTON",
+      "SKYSCRAPER",
+      "CANADA",
+      "BARK",
+      "FORCE"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.8518518518518517,
+    "gpt_on_gpt": 0.7499999999999999,
+    "gpt_on_human": 0.9629629629629629
+  },
+  "('MEXICO', 'PALM', 'LASER', 'OPERA', 'SLUG', 'GROUND', 'ALPS', 'BEIJING', 'MODEL', 'DINOSAUR', 'SHOT', 'JACK')": {
+    "words": [
+      "MEXICO",
+      "PALM",
+      "LASER",
+      "OPERA",
+      "SLUG",
+      "GROUND",
+      "ALPS",
+      "BEIJING",
+      "MODEL",
+      "DINOSAUR",
+      "SHOT",
+      "JACK"
+    ],
+    "human_on_gpt": 0.9047619047619048,
+    "human_on_human": 0.7777777777777778,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.8518518518518517
+  },
+  "('UNDERTAKER', 'HORSE', 'MINE', 'SCORPION', 'SLUG', 'SNOWMAN', 'TRAIN', 'GHOST', 'BUCK', 'BAT', 'JUPITER', 'REVOLUTION')": {
+    "words": [
+      "UNDERTAKER",
+      "HORSE",
+      "MINE",
+      "SCORPION",
+      "SLUG",
+      "SNOWMAN",
+      "TRAIN",
+      "GHOST",
+      "BUCK",
+      "BAT",
+      "JUPITER",
+      "REVOLUTION"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8333333333333333,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('MOLE', 'PLASTIC', 'COTTON', 'SPY', 'LOCK', 'POISON', 'CHEST', 'SCREEN', 'TEMPLE', 'GRACE', 'JUPITER', 'MAPLE')": {
+    "words": [
+      "MOLE",
+      "PLASTIC",
+      "COTTON",
+      "SPY",
+      "LOCK",
+      "POISON",
+      "CHEST",
+      "SCREEN",
+      "TEMPLE",
+      "GRACE",
+      "JUPITER",
+      "MAPLE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8888888888888888,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('BAT', 'STAFF', 'PYRAMID', 'BOARD', 'LEMON', 'AZTEC', 'SATELLITE', 'SPINE', 'OPERA', 'OIL', 'THIEF', 'NURSE')": {
+    "words": [
+      "BAT",
+      "STAFF",
+      "PYRAMID",
+      "BOARD",
+      "LEMON",
+      "AZTEC",
+      "SATELLITE",
+      "SPINE",
+      "OPERA",
+      "OIL",
+      "THIEF",
+      "NURSE"
+    ],
+    "human_on_gpt": 0.49999999999999994,
+    "human_on_human": 0.6923076923076923,
+    "gpt_on_gpt": 0.9444444444444443,
+    "gpt_on_human": 0.9487179487179487
+  },
+  "('BOOT', 'PLASTIC', 'PLATE', 'BERRY', 'MERCURY', 'PALM', 'BALL', 'BOTTLE', 'KIWI', 'WELL', 'CRANE', 'ROW')": {
+    "words": [
+      "BOOT",
+      "PLASTIC",
+      "PLATE",
+      "BERRY",
+      "MERCURY",
+      "PALM",
+      "BALL",
+      "BOTTLE",
+      "KIWI",
+      "WELL",
+      "CRANE",
+      "ROW"
+    ],
+    "human_on_gpt": 0.5238095238095238,
+    "human_on_human": 0.47222222222222215,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.5277777777777777
+  },
+  "('GLOVE', 'DOG', 'SATELLITE', 'WASHINGTON', 'BUCK', 'CHINA', 'YARD', 'GHOST', 'MICROSCOPE', 'TRUNK', 'FISH', 'DUCK')": {
+    "words": [
+      "GLOVE",
+      "DOG",
+      "SATELLITE",
+      "WASHINGTON",
+      "BUCK",
+      "CHINA",
+      "YARD",
+      "GHOST",
+      "MICROSCOPE",
+      "TRUNK",
+      "FISH",
+      "DUCK"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.8333333333333333,
+    "gpt_on_gpt": 0.7499999999999999,
+    "gpt_on_human": 1.0
+  },
+  "('HELICOPTER', 'CHICK', 'FORCE', 'FAN', 'LEMON', 'CYCLE', 'SPRING', 'TEMPLE', 'GRASS', 'PLASTIC', 'TAP', 'CHOCOLATE')": {
+    "words": [
+      "HELICOPTER",
+      "CHICK",
+      "FORCE",
+      "FAN",
+      "LEMON",
+      "CYCLE",
+      "SPRING",
+      "TEMPLE",
+      "GRASS",
+      "PLASTIC",
+      "TAP",
+      "CHOCOLATE"
+    ],
+    "human_on_gpt": 0.9166666666666666,
+    "human_on_human": 0.7916666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('TRUNK', 'SCUBA DIVER', 'BILL', 'PANTS', 'STOCK', 'PISTOL', 'MOUSE', 'CELL', 'DWARF', 'SPINE', 'LOCK', 'PAN')": {
+    "words": [
+      "TRUNK",
+      "SCUBA DIVER",
+      "BILL",
+      "PANTS",
+      "STOCK",
+      "PISTOL",
+      "MOUSE",
+      "CELL",
+      "DWARF",
+      "SPINE",
+      "LOCK",
+      "PAN"
+    ],
+    "human_on_gpt": 0.7142857142857143,
+    "human_on_human": 0.9230769230769229,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.8205128205128205
+  },
+  "('FISH', 'WATCH', 'POISON', 'RULER', 'MOON', 'PLOT', 'CAT', 'WHALE', 'WHIP', 'WORM', 'THUMB', 'TIE')": {
+    "words": [
+      "FISH",
+      "WATCH",
+      "POISON",
+      "RULER",
+      "MOON",
+      "PLOT",
+      "CAT",
+      "WHALE",
+      "WHIP",
+      "WORM",
+      "THUMB",
+      "TIE"
+    ],
+    "human_on_gpt": 0.8666666666666666,
+    "human_on_human": 0.9259259259259258,
+    "gpt_on_gpt": 0.7333333333333332,
+    "gpt_on_human": 0.7777777777777778
+  },
+  "('GHOST', 'PLOT', 'HEAD', 'KETCHUP', 'DEGREE', 'QUEEN', 'TRIP', 'FLUTE', 'SOUND', 'HOSPITAL', 'BILL', 'PRESS')": {
+    "words": [
+      "GHOST",
+      "PLOT",
+      "HEAD",
+      "KETCHUP",
+      "DEGREE",
+      "QUEEN",
+      "TRIP",
+      "FLUTE",
+      "SOUND",
+      "HOSPITAL",
+      "BILL",
+      "PRESS"
+    ],
+    "human_on_gpt": 0.6,
+    "human_on_human": 0.738095238095238,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('FILE', 'WIND', 'TAP', 'QUEEN', 'THUMB', 'THIEF', 'SPY', 'SHARK', 'STRIKE', 'BOX', 'FILM', 'BUGLE')": {
+    "words": [
+      "FILE",
+      "WIND",
+      "TAP",
+      "QUEEN",
+      "THUMB",
+      "THIEF",
+      "SPY",
+      "SHARK",
+      "STRIKE",
+      "BOX",
+      "FILM",
+      "BUGLE"
+    ],
+    "human_on_gpt": 0.8333333333333334,
+    "human_on_human": 0.8095238095238094,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('LEAD', 'PILOT', 'FAIR', 'BERRY', 'PLATYPUS', 'LOCK', 'HEAD', 'COLD', 'NIGHT', 'GRACE', 'NAIL', 'THIEF')": {
+    "words": [
+      "LEAD",
+      "PILOT",
+      "FAIR",
+      "BERRY",
+      "PLATYPUS",
+      "LOCK",
+      "HEAD",
+      "COLD",
+      "NIGHT",
+      "GRACE",
+      "NAIL",
+      "THIEF"
+    ],
+    "human_on_gpt": 0.8888888888888888,
+    "human_on_human": 0.7575757575757577,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('DWARF', 'TOWER', 'PLAY', 'BAND', 'FISH', 'FOOT', 'OLYMPUS', 'BEAR', 'STICK', 'MEXICO', 'LUCK', 'LOCK')": {
+    "words": [
+      "DWARF",
+      "TOWER",
+      "PLAY",
+      "BAND",
+      "FISH",
+      "FOOT",
+      "OLYMPUS",
+      "BEAR",
+      "STICK",
+      "MEXICO",
+      "LUCK",
+      "LOCK"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.9722222222222222,
+    "gpt_on_gpt": 0.8333333333333333,
+    "gpt_on_human": 1.0
+  },
+  "('HOOK', 'FISH', 'LEAD', 'MISSILE', 'HEART', 'POINT', 'HOLLYWOOD', 'WASHINGTON', 'AUSTRALIA', 'BUFFALO', 'AMAZON', 'RACKET')": {
+    "words": [
+      "HOOK",
+      "FISH",
+      "LEAD",
+      "MISSILE",
+      "HEART",
+      "POINT",
+      "HOLLYWOOD",
+      "WASHINGTON",
+      "AUSTRALIA",
+      "BUFFALO",
+      "AMAZON",
+      "RACKET"
+    ],
+    "human_on_gpt": 0.6333333333333333,
+    "human_on_human": 0.8333333333333333,
+    "gpt_on_gpt": 0.6666666666666667,
+    "gpt_on_human": 1.0
+  },
+  "('BUGLE', 'TUBE', 'SCALE', 'PORT', 'HAWK', 'CHANGE', 'PIANO', 'APPLE', 'FORK', 'CHOCOLATE', 'CHURCH', 'HOOK')": {
+    "words": [
+      "BUGLE",
+      "TUBE",
+      "SCALE",
+      "PORT",
+      "HAWK",
+      "CHANGE",
+      "PIANO",
+      "APPLE",
+      "FORK",
+      "CHOCOLATE",
+      "CHURCH",
+      "HOOK"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('SEAL', 'ROW', 'DATE', 'JET', 'BAR', 'WASHER', 'SQUARE', 'TABLET', 'LOCH NESS', 'DWARF', 'WIND', 'EYE')": {
+    "words": [
+      "SEAL",
+      "ROW",
+      "DATE",
+      "JET",
+      "BAR",
+      "WASHER",
+      "SQUARE",
+      "TABLET",
+      "LOCH NESS",
+      "DWARF",
+      "WIND",
+      "EYE"
+    ],
+    "human_on_gpt": 0.7777777777777778,
+    "human_on_human": 0.3333333333333333,
+    "gpt_on_gpt": 0.8333333333333334,
+    "gpt_on_human": 0.3333333333333333
+  },
+  "('CALF', 'DICE', 'LION', 'TOWER', 'STATE', 'DROP', 'AUSTRALIA', 'MOON', 'PHOENIX', 'ORANGE', 'BATTERY', 'SCHOOL')": {
+    "words": [
+      "CALF",
+      "DICE",
+      "LION",
+      "TOWER",
+      "STATE",
+      "DROP",
+      "AUSTRALIA",
+      "MOON",
+      "PHOENIX",
+      "ORANGE",
+      "BATTERY",
+      "SCHOOL"
+    ],
+    "human_on_gpt": 0.9166666666666666,
+    "human_on_human": 0.8888888888888888,
+    "gpt_on_gpt": 0.9583333333333333,
+    "gpt_on_human": 0.9444444444444445
+  },
+  "('MINT', 'ANTARCTICA', 'JAM', 'NOTE', 'OIL', 'THIEF', 'BALL', 'NOVEL', 'CHAIR', 'IVORY', 'CARD', 'SUIT')": {
+    "words": [
+      "MINT",
+      "ANTARCTICA",
+      "JAM",
+      "NOTE",
+      "OIL",
+      "THIEF",
+      "BALL",
+      "NOVEL",
+      "CHAIR",
+      "IVORY",
+      "CARD",
+      "SUIT"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8333333333333334,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('CARROT', 'SHIP', 'CENTER', 'HOTEL', 'SPINE', 'NEW YORK', 'CAT', 'IRON', 'CAPITAL', 'GAME', 'CHARGE', 'PASS')": {
+    "words": [
+      "CARROT",
+      "SHIP",
+      "CENTER",
+      "HOTEL",
+      "SPINE",
+      "NEW YORK",
+      "CAT",
+      "IRON",
+      "CAPITAL",
+      "GAME",
+      "CHARGE",
+      "PASS"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.5897435897435896,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6923076923076923
+  },
+  "('LINK', 'SPIKE', 'LEAD', 'MASS', 'CONCERT', 'BOX', 'IVORY', 'TOWER', 'SERVER', 'BOTTLE', 'GRACE', 'MOUNT')": {
+    "words": [
+      "LINK",
+      "SPIKE",
+      "LEAD",
+      "MASS",
+      "CONCERT",
+      "BOX",
+      "IVORY",
+      "TOWER",
+      "SERVER",
+      "BOTTLE",
+      "GRACE",
+      "MOUNT"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7916666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.7083333333333333
+  },
+  "('CHEST', 'WATER', 'TICK', 'HORSESHOE', 'WHALE', 'MOUSE', 'TOKYO', 'HEART', 'CZECH', 'OCTOPUS', 'TORCH', 'CHANGE')": {
+    "words": [
+      "CHEST",
+      "WATER",
+      "TICK",
+      "HORSESHOE",
+      "WHALE",
+      "MOUSE",
+      "TOKYO",
+      "HEART",
+      "CZECH",
+      "OCTOPUS",
+      "TORCH",
+      "CHANGE"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('MICROSCOPE', 'ROBIN', 'GHOST', 'OCTOPUS', 'BEACH', 'KING', 'PASTE', 'MATCH', 'PIRATE', 'COVER', 'SPINE', 'FOOT')": {
+    "words": [
+      "MICROSCOPE",
+      "ROBIN",
+      "GHOST",
+      "OCTOPUS",
+      "BEACH",
+      "KING",
+      "PASTE",
+      "MATCH",
+      "PIRATE",
+      "COVER",
+      "SPINE",
+      "FOOT"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.6888888888888889,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6888888888888888
+  },
+  "('SHADOW', 'SEAL', 'WAVE', 'GHOST', 'POINT', 'TABLET', 'ORANGE', 'MOUSE', 'KING', 'REVOLUTION', 'THUMB', 'HOOK')": {
+    "words": [
+      "SHADOW",
+      "SEAL",
+      "WAVE",
+      "GHOST",
+      "POINT",
+      "TABLET",
+      "ORANGE",
+      "MOUSE",
+      "KING",
+      "REVOLUTION",
+      "THUMB",
+      "HOOK"
+    ],
+    "human_on_gpt": 0.9333333333333332,
+    "human_on_human": 0.5555555555555556,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('RING', 'TICK', 'VACUUM', 'RAY', 'NAIL', 'HOOD', 'ATLANTIS', 'PAPER', 'FALL', 'SUPERHERO', 'SOCK', 'CHAIR')": {
+    "words": [
+      "RING",
+      "TICK",
+      "VACUUM",
+      "RAY",
+      "NAIL",
+      "HOOD",
+      "ATLANTIS",
+      "PAPER",
+      "FALL",
+      "SUPERHERO",
+      "SOCK",
+      "CHAIR"
+    ],
+    "human_on_gpt": 0.7999999999999999,
+    "human_on_human": 0.8484848484848485,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.9696969696969696
+  },
+  "('ENGLAND', 'PHOENIX', 'CHOCOLATE', 'PIT', 'SQUARE', 'TOOTH', 'BOOT', 'FENCE', 'FIELD', 'DATE', 'VAN', 'SPOT')": {
+    "words": [
+      "ENGLAND",
+      "PHOENIX",
+      "CHOCOLATE",
+      "PIT",
+      "SQUARE",
+      "TOOTH",
+      "BOOT",
+      "FENCE",
+      "FIELD",
+      "DATE",
+      "VAN",
+      "SPOT"
+    ],
+    "human_on_gpt": 0.47619047619047616,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.9722222222222222
+  },
+  "('CENTAUR', 'MOUTH', 'MAIL', 'AMAZON', 'NOVEL', 'COMPOUND', 'NOTE', 'BUG', 'CONTRACT', 'FOOT', 'HOOK', 'LIMOUSINE')": {
+    "words": [
+      "CENTAUR",
+      "MOUTH",
+      "MAIL",
+      "AMAZON",
+      "NOVEL",
+      "COMPOUND",
+      "NOTE",
+      "BUG",
+      "CONTRACT",
+      "FOOT",
+      "HOOK",
+      "LIMOUSINE"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.8070175438596491,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.982456140350877
+  },
+  "('HOLLYWOOD', 'GERMANY', 'PLANE', 'UNDERTAKER', 'BUG', 'DANCE', 'CLIFF', 'PALM', 'NOVEL', 'SPRING', 'MOON', 'AZTEC')": {
+    "words": [
+      "HOLLYWOOD",
+      "GERMANY",
+      "PLANE",
+      "UNDERTAKER",
+      "BUG",
+      "DANCE",
+      "CLIFF",
+      "PALM",
+      "NOVEL",
+      "SPRING",
+      "MOON",
+      "AZTEC"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8974358974358972,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6923076923076923
+  },
+  "('BUFFALO', 'MICROSCOPE', 'DEGREE', 'BOMB', 'GREEN', 'PIRATE', 'CANADA', 'DRAGON', 'BED', 'ROBIN', 'STAFF', 'COMIC')": {
+    "words": [
+      "BUFFALO",
+      "MICROSCOPE",
+      "DEGREE",
+      "BOMB",
+      "GREEN",
+      "PIRATE",
+      "CANADA",
+      "DRAGON",
+      "BED",
+      "ROBIN",
+      "STAFF",
+      "COMIC"
+    ],
+    "human_on_gpt": 0.9259259259259258,
+    "human_on_human": 0.8787878787878788,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.9393939393939393
+  },
+  "('MARBLE', 'MISSILE', 'SHOT', 'CROSS', 'COURT', 'BERLIN', 'JET', 'DEATH', 'BILL', 'TORCH', 'HELICOPTER', 'DEGREE')": {
+    "words": [
+      "MARBLE",
+      "MISSILE",
+      "SHOT",
+      "CROSS",
+      "COURT",
+      "BERLIN",
+      "JET",
+      "DEATH",
+      "BILL",
+      "TORCH",
+      "HELICOPTER",
+      "DEGREE"
+    ],
+    "human_on_gpt": 0.9333333333333332,
+    "human_on_human": 0.9666666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('SKYSCRAPER', 'AGENT', 'SPRING', 'CELL', 'ALIEN', 'CROSS', 'ROUND', 'SCORPION', 'SEAL', 'SLUG', 'CHINA', 'PLATYPUS')": {
+    "words": [
+      "SKYSCRAPER",
+      "AGENT",
+      "SPRING",
+      "CELL",
+      "ALIEN",
+      "CROSS",
+      "ROUND",
+      "SCORPION",
+      "SEAL",
+      "SLUG",
+      "CHINA",
+      "PLATYPUS"
+    ],
+    "human_on_gpt": 0.7777777777777778,
+    "human_on_human": 0.5333333333333334,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('WAKE', 'BEACH', 'CHAIR', 'PIE', 'CLUB', 'THIEF', 'SATELLITE', 'CAT', 'CONTRACT', 'KIWI', 'LEAD', 'WORM')": {
+    "words": [
+      "WAKE",
+      "BEACH",
+      "CHAIR",
+      "PIE",
+      "CLUB",
+      "THIEF",
+      "SATELLITE",
+      "CAT",
+      "CONTRACT",
+      "KIWI",
+      "LEAD",
+      "WORM"
+    ],
+    "human_on_gpt": 0.6666666666666667,
+    "human_on_human": 0.7333333333333333,
+    "gpt_on_gpt": 0.7333333333333332,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('WATCH', 'LITTER', 'KING', 'WHALE', 'POUND', 'FILE', 'BOW', 'PANTS', 'TRIANGLE', 'CZECH', 'IVORY', 'COOK')": {
+    "words": [
+      "WATCH",
+      "LITTER",
+      "KING",
+      "WHALE",
+      "POUND",
+      "FILE",
+      "BOW",
+      "PANTS",
+      "TRIANGLE",
+      "CZECH",
+      "IVORY",
+      "COOK"
+    ],
+    "human_on_gpt": 0.5714285714285714,
+    "human_on_human": 0.9166666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.7083333333333333
+  },
+  "('PLASTIC', 'SCALE', 'KEY', 'KNIFE', 'REVOLUTION', 'ROCK', 'CHINA', 'PIANO', 'SHOP', 'SUPERHERO', 'IVORY', 'PLANE')": {
+    "words": [
+      "PLASTIC",
+      "SCALE",
+      "KEY",
+      "KNIFE",
+      "REVOLUTION",
+      "ROCK",
+      "CHINA",
+      "PIANO",
+      "SHOP",
+      "SUPERHERO",
+      "IVORY",
+      "PLANE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7777777777777778,
+    "gpt_on_gpt": 0.818181818181818,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('BLOCK', 'BOOM', 'BUTTON', 'PRINCESS', 'NEEDLE', 'PIT', 'TEMPLE', 'AGENT', 'SHOP', 'DANCE', 'PAPER', 'NINJA')": {
+    "words": [
+      "BLOCK",
+      "BOOM",
+      "BUTTON",
+      "PRINCESS",
+      "NEEDLE",
+      "PIT",
+      "TEMPLE",
+      "AGENT",
+      "SHOP",
+      "DANCE",
+      "PAPER",
+      "NINJA"
+    ],
+    "human_on_gpt": 0.75,
+    "human_on_human": 0.6666666666666667,
+    "gpt_on_gpt": 0.7499999999999999,
+    "gpt_on_human": 0.7
+  },
+  "('BALL', 'DINOSAUR', 'DOG', 'FISH', 'SKYSCRAPER', 'GRASS', 'PILOT', 'BOMB', 'VAN', 'DEGREE', 'PIE', 'NAIL')": {
+    "words": [
+      "BALL",
+      "DINOSAUR",
+      "DOG",
+      "FISH",
+      "SKYSCRAPER",
+      "GRASS",
+      "PILOT",
+      "BOMB",
+      "VAN",
+      "DEGREE",
+      "PIE",
+      "NAIL"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('KETCHUP', 'POINT', 'TRIANGLE', 'STREAM', 'TOKYO', 'FAIR', 'BUGLE', 'MAIL', 'SCALE', 'SHIP', 'BERLIN', 'TRUNK')": {
+    "words": [
+      "KETCHUP",
+      "POINT",
+      "TRIANGLE",
+      "STREAM",
+      "TOKYO",
+      "FAIR",
+      "BUGLE",
+      "MAIL",
+      "SCALE",
+      "SHIP",
+      "BERLIN",
+      "TRUNK"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('NUT', 'KEY', 'STAR', 'CAP', 'HOTEL', 'ICE CREAM', 'AUSTRALIA', 'FORK', 'FISH', 'LEMON', 'UNICORN', 'TEACHER')": {
+    "words": [
+      "NUT",
+      "KEY",
+      "STAR",
+      "CAP",
+      "HOTEL",
+      "ICE CREAM",
+      "AUSTRALIA",
+      "FORK",
+      "FISH",
+      "LEMON",
+      "UNICORN",
+      "TEACHER"
+    ],
+    "human_on_gpt": 0.619047619047619,
+    "human_on_human": 0.625,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('PILOT', 'CLIFF', 'BUCK', 'HOSPITAL', 'FALL', 'CHAIR', 'HOTEL', 'DEATH', 'CLOAK', 'OLIVE', 'VACUUM', 'MAMMOTH')": {
+    "words": [
+      "PILOT",
+      "CLIFF",
+      "BUCK",
+      "HOSPITAL",
+      "FALL",
+      "CHAIR",
+      "HOTEL",
+      "DEATH",
+      "CLOAK",
+      "OLIVE",
+      "VACUUM",
+      "MAMMOTH"
+    ],
+    "human_on_gpt": 0.7333333333333333,
+    "human_on_human": 0.6296296296296297,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.3333333333333333
+  },
+  "('TRACK', 'GROUND', 'CHEST', 'SPACE', 'CASINO', 'VET', 'HOLE', 'FISH', 'PISTOL', 'QUEEN', 'GERMANY', 'PANTS')": {
+    "words": [
+      "TRACK",
+      "GROUND",
+      "CHEST",
+      "SPACE",
+      "CASINO",
+      "VET",
+      "HOLE",
+      "FISH",
+      "PISTOL",
+      "QUEEN",
+      "GERMANY",
+      "PANTS"
+    ],
+    "human_on_gpt": 0.8095238095238094,
+    "human_on_human": 0.9583333333333333,
+    "gpt_on_gpt": 0.7142857142857143,
+    "gpt_on_human": 0.7083333333333333
+  },
+  "('BACK', 'BEAR', 'BUFFALO', 'MASS', 'SHARK', 'SHIP', 'SWING', 'CRASH', 'SHADOW', 'STATE', 'HOOD', 'MOUTH')": {
+    "words": [
+      "BACK",
+      "BEAR",
+      "BUFFALO",
+      "MASS",
+      "SHARK",
+      "SHIP",
+      "SWING",
+      "CRASH",
+      "SHADOW",
+      "STATE",
+      "HOOD",
+      "MOUTH"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.2777777777777778,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.3333333333333333
+  },
+  "('BAR', 'WELL', 'FLY', 'WALL', 'FIGURE', 'PLATE', 'THIEF', 'BOTTLE', 'BEAR', 'CROSS', 'LASER', 'JUPITER')": {
+    "words": [
+      "BAR",
+      "WELL",
+      "FLY",
+      "WALL",
+      "FIGURE",
+      "PLATE",
+      "THIEF",
+      "BOTTLE",
+      "BEAR",
+      "CROSS",
+      "LASER",
+      "JUPITER"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.7575757575757577,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('CAP', 'ARM', 'CHEST', 'FAIR', 'SWITCH', 'POOL', 'PRINCESS', 'RACKET', 'SATELLITE', 'OLYMPUS', 'STOCK', 'SLIP')": {
+    "words": [
+      "CAP",
+      "ARM",
+      "CHEST",
+      "FAIR",
+      "SWITCH",
+      "POOL",
+      "PRINCESS",
+      "RACKET",
+      "SATELLITE",
+      "OLYMPUS",
+      "STOCK",
+      "SLIP"
+    ],
+    "human_on_gpt": 0.9047619047619048,
+    "human_on_human": 0.611111111111111,
+    "gpt_on_gpt": 0.7142857142857143,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('SCHOOL', 'CONDUCTOR', 'DATE', 'BAND', 'SQUARE', 'CLIFF', 'TRUNK', 'LAWYER', 'EAGLE', 'EGYPT', 'LEMON', 'COTTON')": {
+    "words": [
+      "SCHOOL",
+      "CONDUCTOR",
+      "DATE",
+      "BAND",
+      "SQUARE",
+      "CLIFF",
+      "TRUNK",
+      "LAWYER",
+      "EAGLE",
+      "EGYPT",
+      "LEMON",
+      "COTTON"
+    ],
+    "human_on_gpt": 0.4444444444444444,
+    "human_on_human": 0.7142857142857143,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6904761904761905
+  },
+  "('COPPER', 'DECK', 'ORANGE', 'WATER', 'CELL', 'FIELD', 'SHOP', 'CRASH', 'ORGAN', 'WHIP', 'FILE', 'CLUB')": {
+    "words": [
+      "COPPER",
+      "DECK",
+      "ORANGE",
+      "WATER",
+      "CELL",
+      "FIELD",
+      "SHOP",
+      "CRASH",
+      "ORGAN",
+      "WHIP",
+      "FILE",
+      "CLUB"
+    ],
+    "human_on_gpt": 0.8666666666666666,
+    "human_on_human": 0.7777777777777777,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.7222222222222222
+  },
+  "('DRESS', 'COURT', 'PIE', 'CHINA', 'IVORY', 'MEXICO', 'SHAKESPEARE', 'SPINE', 'EYE', 'MINE', 'HOLE', 'CAT')": {
+    "words": [
+      "DRESS",
+      "COURT",
+      "PIE",
+      "CHINA",
+      "IVORY",
+      "MEXICO",
+      "SHAKESPEARE",
+      "SPINE",
+      "EYE",
+      "MINE",
+      "HOLE",
+      "CAT"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.8974358974358976,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6923076923076923
+  },
+  "('BOOM', 'POINT', 'FRANCE', 'CRICKET', 'ARM', 'OIL', 'GREEN', 'ROBIN', 'SHIP', 'TOKYO', 'ROULETTE', 'PITCH')": {
+    "words": [
+      "BOOM",
+      "POINT",
+      "FRANCE",
+      "CRICKET",
+      "ARM",
+      "OIL",
+      "GREEN",
+      "ROBIN",
+      "SHIP",
+      "TOKYO",
+      "ROULETTE",
+      "PITCH"
+    ],
+    "human_on_gpt": 0.7999999999999999,
+    "human_on_human": 0.7333333333333333,
+    "gpt_on_gpt": 0.9333333333333332,
+    "gpt_on_human": 1.0
+  },
+  "('BED', 'ROBOT', 'WASHINGTON', 'JAM', 'SPRING', 'LITTER', 'ROCK', 'FACE', 'BERRY', 'ICE', 'TRAIN', 'STAFF')": {
+    "words": [
+      "BED",
+      "ROBOT",
+      "WASHINGTON",
+      "JAM",
+      "SPRING",
+      "LITTER",
+      "ROCK",
+      "FACE",
+      "BERRY",
+      "ICE",
+      "TRAIN",
+      "STAFF"
+    ],
+    "human_on_gpt": 0.5925925925925926,
+    "human_on_human": 0.8571428571428571,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('LIMOUSINE', 'BUG', 'HIMALAYAS', 'DECK', 'KING', 'NOVEL', 'PORT', 'CAT', 'FORK', 'FACE', 'AZTEC', 'WHIP')": {
+    "words": [
+      "LIMOUSINE",
+      "BUG",
+      "HIMALAYAS",
+      "DECK",
+      "KING",
+      "NOVEL",
+      "PORT",
+      "CAT",
+      "FORK",
+      "FACE",
+      "AZTEC",
+      "WHIP"
+    ],
+    "human_on_gpt": 0.7142857142857143,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.619047619047619,
+    "gpt_on_human": 0.875
+  },
+  "('PLATE', 'PALM', 'MOON', 'PYRAMID', 'ROW', 'GIANT', 'SPIDER', 'COMPOUND', 'HOSPITAL', 'BERMUDA', 'CLUB', 'PENGUIN')": {
+    "words": [
+      "PLATE",
+      "PALM",
+      "MOON",
+      "PYRAMID",
+      "ROW",
+      "GIANT",
+      "SPIDER",
+      "COMPOUND",
+      "HOSPITAL",
+      "BERMUDA",
+      "CLUB",
+      "PENGUIN"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.6333333333333333,
+    "gpt_on_gpt": 0.7777777777777777,
+    "gpt_on_human": 0.7333333333333333
+  },
+  "('DRESS', 'SCALE', 'BERRY', 'ENGLAND', 'DINOSAUR', 'ARM', 'CHANGE', 'NINJA', 'COTTON', 'NOTE', 'PAN', 'TEACHER')": {
+    "words": [
+      "DRESS",
+      "SCALE",
+      "BERRY",
+      "ENGLAND",
+      "DINOSAUR",
+      "ARM",
+      "CHANGE",
+      "NINJA",
+      "COTTON",
+      "NOTE",
+      "PAN",
+      "TEACHER"
+    ],
+    "human_on_gpt": 0.7407407407407408,
+    "human_on_human": 0.9523809523809523,
+    "gpt_on_gpt": 0.9259259259259258,
+    "gpt_on_human": 1.0
+  },
+  "('PLAY', 'GLOVE', 'NINJA', 'DROP', 'LASER', 'GREEN', 'ANTARCTICA', 'SPIKE', 'CIRCLE', 'JET', 'LAP', 'BOW')": {
+    "words": [
+      "PLAY",
+      "GLOVE",
+      "NINJA",
+      "DROP",
+      "LASER",
+      "GREEN",
+      "ANTARCTICA",
+      "SPIKE",
+      "CIRCLE",
+      "JET",
+      "LAP",
+      "BOW"
+    ],
+    "human_on_gpt": 0.5238095238095238,
+    "human_on_human": 0.5454545454545454,
+    "gpt_on_gpt": 0.09523809523809523,
+    "gpt_on_human": 0.9393939393939393
+  },
+  "('PIT', 'SWITCH', 'DANCE', 'MAPLE', 'BOMB', 'BLOCK', 'RULER', 'DISEASE', 'STOCK', 'PENGUIN', 'OPERA', 'WATER')": {
+    "words": [
+      "PIT",
+      "SWITCH",
+      "DANCE",
+      "MAPLE",
+      "BOMB",
+      "BLOCK",
+      "RULER",
+      "DISEASE",
+      "STOCK",
+      "PENGUIN",
+      "OPERA",
+      "WATER"
+    ],
+    "human_on_gpt": 0.4666666666666666,
+    "human_on_human": 0.8611111111111112,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('BOX', 'ALPS', 'CRANE', 'PISTOL', 'HORN', 'SPOT', 'HOOK', 'CRASH', 'MOON', 'SHOP', 'MAPLE', 'POISON')": {
+    "words": [
+      "BOX",
+      "ALPS",
+      "CRANE",
+      "PISTOL",
+      "HORN",
+      "SPOT",
+      "HOOK",
+      "CRASH",
+      "MOON",
+      "SHOP",
+      "MAPLE",
+      "POISON"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.8571428571428571,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('SNOW', 'SPACE', 'MINT', 'CHOCOLATE', 'ICE CREAM', 'ROUND', 'BRUSH', 'PHOENIX', 'PARK', 'VET', 'HAWK', 'KNIGHT')": {
+    "words": [
+      "SNOW",
+      "SPACE",
+      "MINT",
+      "CHOCOLATE",
+      "ICE CREAM",
+      "ROUND",
+      "BRUSH",
+      "PHOENIX",
+      "PARK",
+      "VET",
+      "HAWK",
+      "KNIGHT"
+    ],
+    "human_on_gpt": 0.7948717948717946,
+    "human_on_human": 0.7916666666666666,
+    "gpt_on_gpt": 0.7435897435897435,
+    "gpt_on_human": 0.75
+  },
+  "('NAIL', 'FLUTE', 'SOLDIER', 'FACE', 'PART', 'MOUTH', 'PARK', 'RING', 'PUPIL', 'GLOVE', 'DANCE', 'WIND')": {
+    "words": [
+      "NAIL",
+      "FLUTE",
+      "SOLDIER",
+      "FACE",
+      "PART",
+      "MOUTH",
+      "PARK",
+      "RING",
+      "PUPIL",
+      "GLOVE",
+      "DANCE",
+      "WIND"
+    ],
+    "human_on_gpt": 0.5555555555555555,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.8888888888888888,
+    "gpt_on_human": 0.7777777777777777
+  },
+  "('PYRAMID', 'BUTTON', 'PLOT', 'FAN', 'GAME', 'FALL', 'HAM', 'DWARF', 'PLAY', 'WITCH', 'DUCK', 'SPOT')": {
+    "words": [
+      "PYRAMID",
+      "BUTTON",
+      "PLOT",
+      "FAN",
+      "GAME",
+      "FALL",
+      "HAM",
+      "DWARF",
+      "PLAY",
+      "WITCH",
+      "DUCK",
+      "SPOT"
+    ],
+    "human_on_gpt": 0.6666666666666667,
+    "human_on_human": 0.8666666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.8666666666666666
+  },
+  "('DEATH', 'LOCK', 'MOUNT', 'KETCHUP', 'GAS', 'HELICOPTER', 'PRINCESS', 'COMPOUND', 'NURSE', 'FISH', 'BEAR', 'SPACE')": {
+    "words": [
+      "DEATH",
+      "LOCK",
+      "MOUNT",
+      "KETCHUP",
+      "GAS",
+      "HELICOPTER",
+      "PRINCESS",
+      "COMPOUND",
+      "NURSE",
+      "FISH",
+      "BEAR",
+      "SPACE"
+    ],
+    "human_on_gpt": 0.5925925925925926,
+    "human_on_human": 0.7037037037037037,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('RAY', 'OIL', 'DANCE', 'BAT', 'LAB', 'KING', 'CAST', 'HAWK', 'STRING', 'HORN', 'SATURN', 'HOLE')": {
+    "words": [
+      "RAY",
+      "OIL",
+      "DANCE",
+      "BAT",
+      "LAB",
+      "KING",
+      "CAST",
+      "HAWK",
+      "STRING",
+      "HORN",
+      "SATURN",
+      "HOLE"
+    ],
+    "human_on_gpt": 0.75,
+    "human_on_human": 0.7435897435897435,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6923076923076923
+  },
+  "('POUND', 'LIFE', 'NAIL', 'VAN', 'TOKYO', 'SCALE', 'CIRCLE', 'SHOT', 'CAST', 'KEY', 'CARD', 'RACKET')": {
+    "words": [
+      "POUND",
+      "LIFE",
+      "NAIL",
+      "VAN",
+      "TOKYO",
+      "SCALE",
+      "CIRCLE",
+      "SHOT",
+      "CAST",
+      "KEY",
+      "CARD",
+      "RACKET"
+    ],
+    "human_on_gpt": 0.7333333333333332,
+    "human_on_human": 0.6944444444444445,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6944444444444445
+  },
+  "('DINOSAUR', 'BUGLE', 'BED', 'FISH', 'POLE', 'LOG', 'OIL', 'BEAR', 'PIANO', 'HOOK', 'EUROPE', 'LUCK')": {
+    "words": [
+      "DINOSAUR",
+      "BUGLE",
+      "BED",
+      "FISH",
+      "POLE",
+      "LOG",
+      "OIL",
+      "BEAR",
+      "PIANO",
+      "HOOK",
+      "EUROPE",
+      "LUCK"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.6666666666666667,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('DRESS', 'SUPERHERO', 'NURSE', 'SUIT', 'CROWN', 'JACK', 'PLAY', 'SCIENTIST', 'TRUNK', 'FILM', 'CANADA', 'HOTEL')": {
+    "words": [
+      "DRESS",
+      "SUPERHERO",
+      "NURSE",
+      "SUIT",
+      "CROWN",
+      "JACK",
+      "PLAY",
+      "SCIENTIST",
+      "TRUNK",
+      "FILM",
+      "CANADA",
+      "HOTEL"
+    ],
+    "human_on_gpt": 0.9583333333333333,
+    "human_on_human": 0.7575757575757577,
+    "gpt_on_gpt": 0.7083333333333333,
+    "gpt_on_human": 0.787878787878788
+  },
+  "('WIND', 'PUPIL', 'LEPRECHAUN', 'SHOE', 'EUROPE', 'DRAFT', 'OCTOPUS', 'KANGAROO', 'KID', 'STICK', 'BAR', 'OPERA')": {
+    "words": [
+      "WIND",
+      "PUPIL",
+      "LEPRECHAUN",
+      "SHOE",
+      "EUROPE",
+      "DRAFT",
+      "OCTOPUS",
+      "KANGAROO",
+      "KID",
+      "STICK",
+      "BAR",
+      "OPERA"
+    ],
+    "human_on_gpt": 0.8888888888888888,
+    "human_on_human": 0.8333333333333333,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.9285714285714285
+  },
+  "('SEAL', 'CHINA', 'FAIR', 'BARK', 'PRESS', 'LION', 'SPINE', 'SPOT', 'MODEL', 'FOREST', 'BAR', 'SCREEN')": {
+    "words": [
+      "SEAL",
+      "CHINA",
+      "FAIR",
+      "BARK",
+      "PRESS",
+      "LION",
+      "SPINE",
+      "SPOT",
+      "MODEL",
+      "FOREST",
+      "BAR",
+      "SCREEN"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.8333333333333333,
+    "gpt_on_gpt": 0.8666666666666666,
+    "gpt_on_human": 0.6875
+  },
+  "('STRING', 'GERMANY', 'OLIVE', 'POST', 'POISON', 'YARD', 'LINE', 'HAND', 'IVORY', 'HORN', 'WITCH', 'UNDERTAKER')": {
+    "words": [
+      "STRING",
+      "GERMANY",
+      "OLIVE",
+      "POST",
+      "POISON",
+      "YARD",
+      "LINE",
+      "HAND",
+      "IVORY",
+      "HORN",
+      "WITCH",
+      "UNDERTAKER"
+    ],
+    "human_on_gpt": 0.606060606060606,
+    "human_on_human": 0.6923076923076923,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.8717948717948717
+  },
+  "('ALPS', 'CODE', 'QUEEN', 'PASS', 'BERMUDA', 'GENIUS', 'THUMB', 'MINT', 'NINJA', 'MAPLE', 'LAWYER', 'HORSE')": {
+    "words": [
+      "ALPS",
+      "CODE",
+      "QUEEN",
+      "PASS",
+      "BERMUDA",
+      "GENIUS",
+      "THUMB",
+      "MINT",
+      "NINJA",
+      "MAPLE",
+      "LAWYER",
+      "HORSE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.5833333333333333,
+    "gpt_on_gpt": 0.5,
+    "gpt_on_human": 0.638888888888889
+  },
+  "('PASS', 'FILM', 'SUIT', 'MICROSCOPE', 'CELL', 'FORCE', 'CHURCH', 'NEW YORK', 'CAR', 'RAY', 'TOKYO', 'PENGUIN')": {
+    "words": [
+      "PASS",
+      "FILM",
+      "SUIT",
+      "MICROSCOPE",
+      "CELL",
+      "FORCE",
+      "CHURCH",
+      "NEW YORK",
+      "CAR",
+      "RAY",
+      "TOKYO",
+      "PENGUIN"
+    ],
+    "human_on_gpt": 0.8571428571428571,
+    "human_on_human": 0.7407407407407408,
+    "gpt_on_gpt": 0.7142857142857143,
+    "gpt_on_human": 0.8888888888888888
+  },
+  "('PLOT', 'MOUNT', 'BUTTON', 'LEMON', 'PLATYPUS', 'HAND', 'THIEF', 'BUGLE', 'YARD', 'STAR', 'ROBIN', 'STAFF')": {
+    "words": [
+      "PLOT",
+      "MOUNT",
+      "BUTTON",
+      "LEMON",
+      "PLATYPUS",
+      "HAND",
+      "THIEF",
+      "BUGLE",
+      "YARD",
+      "STAR",
+      "ROBIN",
+      "STAFF"
+    ],
+    "human_on_gpt": 0.5999999999999999,
+    "human_on_human": 0.696969696969697,
+    "gpt_on_gpt": 0.5999999999999999,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('KNIFE', 'OIL', 'SMUGGLER', 'RACKET', 'FISH', 'PISTOL', 'SCUBA DIVER', 'PIT', 'PART', 'DOCTOR', 'LAB', 'OLIVE')": {
+    "words": [
+      "KNIFE",
+      "OIL",
+      "SMUGGLER",
+      "RACKET",
+      "FISH",
+      "PISTOL",
+      "SCUBA DIVER",
+      "PIT",
+      "PART",
+      "DOCTOR",
+      "LAB",
+      "OLIVE"
+    ],
+    "human_on_gpt": 0.7407407407407408,
+    "human_on_human": 0.9523809523809523,
+    "gpt_on_gpt": 0.8888888888888888,
+    "gpt_on_human": 1.0
+  },
+  "('LIFE', 'GOLD', 'TIME', 'CROSS', 'BELT', 'PIT', 'COLD', 'GREEN', 'ORGAN', 'VET', 'UNDERTAKER', 'ROSE')": {
+    "words": [
+      "LIFE",
+      "GOLD",
+      "TIME",
+      "CROSS",
+      "BELT",
+      "PIT",
+      "COLD",
+      "GREEN",
+      "ORGAN",
+      "VET",
+      "UNDERTAKER",
+      "ROSE"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.888888888888889,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('DUCK', 'BOOT', 'SOLDIER', 'FIGHTER', 'EUROPE', 'TRACK', 'SHAKESPEARE', 'PIE', 'WELL', 'TRUNK', 'HOOD', 'WHALE')": {
+    "words": [
+      "DUCK",
+      "BOOT",
+      "SOLDIER",
+      "FIGHTER",
+      "EUROPE",
+      "TRACK",
+      "SHAKESPEARE",
+      "PIE",
+      "WELL",
+      "TRUNK",
+      "HOOD",
+      "WHALE"
+    ],
+    "human_on_gpt": 0.9583333333333333,
+    "human_on_human": 0.7142857142857142,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.7142857142857143
+  },
+  "('OLYMPUS', 'MOLE', 'LINK', 'THIEF', 'CARD', 'CHECK', 'HONEY', 'MEXICO', 'HOOD', 'DECK', 'LAB', 'SOUND')": {
+    "words": [
+      "OLYMPUS",
+      "MOLE",
+      "LINK",
+      "THIEF",
+      "CARD",
+      "CHECK",
+      "HONEY",
+      "MEXICO",
+      "HOOD",
+      "DECK",
+      "LAB",
+      "SOUND"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('STRIKE', 'BAND', 'MAMMOTH', 'CAP', 'CAT', 'CODE', 'WATER', 'NURSE', 'RACKET', 'SNOW', 'OLYMPUS', 'CAR')": {
+    "words": [
+      "STRIKE",
+      "BAND",
+      "MAMMOTH",
+      "CAP",
+      "CAT",
+      "CODE",
+      "WATER",
+      "NURSE",
+      "RACKET",
+      "SNOW",
+      "OLYMPUS",
+      "CAR"
+    ],
+    "human_on_gpt": 0.5925925925925926,
+    "human_on_human": 0.6923076923076922,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('DEGREE', 'SHAKESPEARE', 'CARD', 'PIPE', 'TELESCOPE', 'AIR', 'SLUG', 'BED', 'STREAM', 'HAWK', 'LAWYER', 'DECK')": {
+    "words": [
+      "DEGREE",
+      "SHAKESPEARE",
+      "CARD",
+      "PIPE",
+      "TELESCOPE",
+      "AIR",
+      "SLUG",
+      "BED",
+      "STREAM",
+      "HAWK",
+      "LAWYER",
+      "DECK"
+    ],
+    "human_on_gpt": 0.619047619047619,
+    "human_on_human": 0.9090909090909091,
+    "gpt_on_gpt": 0.619047619047619,
+    "gpt_on_human": 0.6060606060606061
+  },
+  "('BOOM', 'CHAIR', 'LINK', 'LITTER', 'PIE', 'HELICOPTER', 'PAN', 'SCIENTIST', 'SUIT', 'OIL', 'SHARK', 'SHADOW')": {
+    "words": [
+      "BOOM",
+      "CHAIR",
+      "LINK",
+      "LITTER",
+      "PIE",
+      "HELICOPTER",
+      "PAN",
+      "SCIENTIST",
+      "SUIT",
+      "OIL",
+      "SHARK",
+      "SHADOW"
+    ],
+    "human_on_gpt": 0.5185185185185185,
+    "human_on_human": 0.4074074074074074,
+    "gpt_on_gpt": 0.4074074074074074,
+    "gpt_on_human": 0.3333333333333333
+  },
+  "('FOREST', 'ORGAN', 'FAN', 'POLICE', 'KANGAROO', 'MAPLE', 'CROSS', 'ROOT', 'SINK', 'STICK', 'RACKET', 'CONDUCTOR')": {
+    "words": [
+      "FOREST",
+      "ORGAN",
+      "FAN",
+      "POLICE",
+      "KANGAROO",
+      "MAPLE",
+      "CROSS",
+      "ROOT",
+      "SINK",
+      "STICK",
+      "RACKET",
+      "CONDUCTOR"
+    ],
+    "human_on_gpt": 0.8333333333333333,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.9583333333333333,
+    "gpt_on_human": 0.8571428571428571
+  },
+  "('NUT', 'STREAM', 'BOND', 'DIAMOND', 'BOOM', 'VET', 'EUROPE', 'NEEDLE', 'SEAL', 'DANCE', 'GRACE', 'FIGHTER')": {
+    "words": [
+      "NUT",
+      "STREAM",
+      "BOND",
+      "DIAMOND",
+      "BOOM",
+      "VET",
+      "EUROPE",
+      "NEEDLE",
+      "SEAL",
+      "DANCE",
+      "GRACE",
+      "FIGHTER"
+    ],
+    "human_on_gpt": 0.5000000000000001,
+    "human_on_human": 0.7142857142857144,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('HAND', 'KID', 'SLIP', 'PIANO', 'ENGLAND', 'WATCH', 'GERMANY', 'BOND', 'LION', 'PHOENIX', 'LIMOUSINE', 'WALL')": {
+    "words": [
+      "HAND",
+      "KID",
+      "SLIP",
+      "PIANO",
+      "ENGLAND",
+      "WATCH",
+      "GERMANY",
+      "BOND",
+      "LION",
+      "PHOENIX",
+      "LIMOUSINE",
+      "WALL"
+    ],
+    "human_on_gpt": 0.8095238095238094,
+    "human_on_human": 0.9583333333333333,
+    "gpt_on_gpt": 0.7142857142857143,
+    "gpt_on_human": 1.0
+  },
+  "('PLANE', 'POINT', 'SCUBA DIVER', 'KING', 'CASINO', 'STRIKE', 'FOOT', 'GIANT', 'CONCERT', 'MATCH', 'TEACHER', 'PIE')": {
+    "words": [
+      "PLANE",
+      "POINT",
+      "SCUBA DIVER",
+      "KING",
+      "CASINO",
+      "STRIKE",
+      "FOOT",
+      "GIANT",
+      "CONCERT",
+      "MATCH",
+      "TEACHER",
+      "PIE"
+    ],
+    "human_on_gpt": 0.7333333333333332,
+    "human_on_human": 0.9166666666666665,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.75
+  },
+  "('BOMB', 'WAKE', 'ROSE', 'SLUG', 'DRILL', 'TOKYO', 'PAPER', 'UNDERTAKER', 'STRIKE', 'TELESCOPE', 'KID', 'STADIUM')": {
+    "words": [
+      "BOMB",
+      "WAKE",
+      "ROSE",
+      "SLUG",
+      "DRILL",
+      "TOKYO",
+      "PAPER",
+      "UNDERTAKER",
+      "STRIKE",
+      "TELESCOPE",
+      "KID",
+      "STADIUM"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.875,
+    "gpt_on_gpt": 0.7222222222222222,
+    "gpt_on_human": 0.7083333333333333
+  },
+  "('STICK', 'LION', 'ORANGE', 'CAR', 'KING', 'PIN', 'GRACE', 'CAT', 'HEAD', 'PRINCESS', 'TELESCOPE', 'ENGINE')": {
+    "words": [
+      "STICK",
+      "LION",
+      "ORANGE",
+      "CAR",
+      "KING",
+      "PIN",
+      "GRACE",
+      "CAT",
+      "HEAD",
+      "PRINCESS",
+      "TELESCOPE",
+      "ENGINE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7407407407407408,
+    "gpt_on_gpt": 0.8888888888888888,
+    "gpt_on_human": 0.7407407407407408
+  },
+  "('BEIJING', 'UNDERTAKER', 'STREAM', 'CODE', 'BOARD', 'BOX', 'CANADA', 'FORK', 'BERLIN', 'HOOD', 'RULER', 'KING')": {
+    "words": [
+      "BEIJING",
+      "UNDERTAKER",
+      "STREAM",
+      "CODE",
+      "BOARD",
+      "BOX",
+      "CANADA",
+      "FORK",
+      "BERLIN",
+      "HOOD",
+      "RULER",
+      "KING"
+    ],
+    "human_on_gpt": 0.8571428571428571,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.7619047619047619,
+    "gpt_on_human": 1.0
+  },
+  "('CELL', 'MEXICO', 'NAIL', 'LIMOUSINE', 'DRAGON', 'PALM', 'TRIANGLE', 'ROBOT', 'BAR', 'MOUNT', 'TOOTH', 'SCREEN')": {
+    "words": [
+      "CELL",
+      "MEXICO",
+      "NAIL",
+      "LIMOUSINE",
+      "DRAGON",
+      "PALM",
+      "TRIANGLE",
+      "ROBOT",
+      "BAR",
+      "MOUNT",
+      "TOOTH",
+      "SCREEN"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7333333333333333,
+    "gpt_on_gpt": 0.9583333333333333,
+    "gpt_on_human": 0.6333333333333334
+  },
+  "('WAVE', 'DAY', 'CRICKET', 'PLANE', 'SCIENTIST', 'PUMPKIN', 'STOCK', 'POISON', 'CARD', 'LONDON', 'SATURN', 'STATE')": {
+    "words": [
+      "WAVE",
+      "DAY",
+      "CRICKET",
+      "PLANE",
+      "SCIENTIST",
+      "PUMPKIN",
+      "STOCK",
+      "POISON",
+      "CARD",
+      "LONDON",
+      "SATURN",
+      "STATE"
+    ],
+    "human_on_gpt": 0.3333333333333333,
+    "human_on_human": 0.5333333333333334,
+    "gpt_on_gpt": 0.5555555555555555,
+    "gpt_on_human": 0.3666666666666667
+  },
+  "('NEW YORK', 'VACUUM', 'DEATH', 'BOARD', 'CONCERT', 'CONTRACT', 'ATLANTIS', 'SPINE', 'NUT', 'AGENT', 'STATE', 'GREEN')": {
+    "words": [
+      "NEW YORK",
+      "VACUUM",
+      "DEATH",
+      "BOARD",
+      "CONCERT",
+      "CONTRACT",
+      "ATLANTIS",
+      "SPINE",
+      "NUT",
+      "AGENT",
+      "STATE",
+      "GREEN"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.9629629629629629,
+    "gpt_on_gpt": 0.7333333333333332,
+    "gpt_on_human": 1.0
+  },
+  "('DROP', 'DECK', 'DWARF', 'SHOP', 'BUCK', 'CALF', 'CZECH', 'WAVE', 'HOOD', 'PYRAMID', 'COMPOUND', 'HONEY')": {
+    "words": [
+      "DROP",
+      "DECK",
+      "DWARF",
+      "SHOP",
+      "BUCK",
+      "CALF",
+      "CZECH",
+      "WAVE",
+      "HOOD",
+      "PYRAMID",
+      "COMPOUND",
+      "HONEY"
+    ],
+    "human_on_gpt": 0.619047619047619,
+    "human_on_human": 0.4666666666666667,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.5999999999999999
+  },
+  "('PLAY', 'ROCK', 'WATER', 'NIGHT', 'HORSE', 'GLASS', 'FIGURE', 'PENGUIN', 'SCORPION', 'AMERICA', 'CHAIR', 'GHOST')": {
+    "words": [
+      "PLAY",
+      "ROCK",
+      "WATER",
+      "NIGHT",
+      "HORSE",
+      "GLASS",
+      "FIGURE",
+      "PENGUIN",
+      "SCORPION",
+      "AMERICA",
+      "CHAIR",
+      "GHOST"
+    ],
+    "human_on_gpt": 0.9583333333333333,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('HELICOPTER', 'BEAR', 'KETCHUP', 'ROULETTE', 'TABLET', 'AMAZON', 'BERMUDA', 'STRAW', 'GHOST', 'OCTOPUS', 'FOOT', 'SPOT')": {
+    "words": [
+      "HELICOPTER",
+      "BEAR",
+      "KETCHUP",
+      "ROULETTE",
+      "TABLET",
+      "AMAZON",
+      "BERMUDA",
+      "STRAW",
+      "GHOST",
+      "OCTOPUS",
+      "FOOT",
+      "SPOT"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8666666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('CANADA', 'JAM', 'PLASTIC', 'NURSE', 'CONDUCTOR', 'PANTS', 'BEACH', 'WASHINGTON', 'CENTAUR', 'AUSTRALIA', 'PASTE', 'CHOCOLATE')": {
+    "words": [
+      "CANADA",
+      "JAM",
+      "PLASTIC",
+      "NURSE",
+      "CONDUCTOR",
+      "PANTS",
+      "BEACH",
+      "WASHINGTON",
+      "CENTAUR",
+      "AUSTRALIA",
+      "PASTE",
+      "CHOCOLATE"
+    ],
+    "human_on_gpt": 0.8888888888888888,
+    "human_on_human": 0.9722222222222222,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('COOK', 'MOSCOW', 'ROULETTE', 'IRON', 'ICE', 'WAVE', 'SLUG', 'OLIVE', 'DEGREE', 'LINK', 'AGENT', 'BOTTLE')": {
+    "words": [
+      "COOK",
+      "MOSCOW",
+      "ROULETTE",
+      "IRON",
+      "ICE",
+      "WAVE",
+      "SLUG",
+      "OLIVE",
+      "DEGREE",
+      "LINK",
+      "AGENT",
+      "BOTTLE"
+    ],
+    "human_on_gpt": 0.625,
+    "human_on_human": 0.5238095238095238,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6428571428571429
+  },
+  "('HORSE', 'BEACH', 'CANADA', 'LUCK', 'RING', 'FORCE', 'TRIANGLE', 'STICK', 'SCORPION', 'CHOCOLATE', 'SOCK', 'IVORY')": {
+    "words": [
+      "HORSE",
+      "BEACH",
+      "CANADA",
+      "LUCK",
+      "RING",
+      "FORCE",
+      "TRIANGLE",
+      "STICK",
+      "SCORPION",
+      "CHOCOLATE",
+      "SOCK",
+      "IVORY"
+    ],
+    "human_on_gpt": 0.6363636363636365,
+    "human_on_human": 0.7179487179487182,
+    "gpt_on_gpt": 0.6666666666666667,
+    "gpt_on_human": 0.4358974358974358
+  },
+  "('AUSTRALIA', 'TURKEY', 'KID', 'SWITCH', 'TAG', 'LIMOUSINE', 'MOLE', 'PRESS', 'DIAMOND', 'KANGAROO', 'LEPRECHAUN', 'HAWK')": {
+    "words": [
+      "AUSTRALIA",
+      "TURKEY",
+      "KID",
+      "SWITCH",
+      "TAG",
+      "LIMOUSINE",
+      "MOLE",
+      "PRESS",
+      "DIAMOND",
+      "KANGAROO",
+      "LEPRECHAUN",
+      "HAWK"
+    ],
+    "human_on_gpt": 0.8333333333333333,
+    "human_on_human": 0.8095238095238094,
+    "gpt_on_gpt": 0.9583333333333333,
+    "gpt_on_human": 0.7142857142857143
+  },
+  "('TRUNK', 'LAP', 'JACK', 'EGYPT', 'VAN', 'STICK', 'DRILL', 'SCORPION', 'AIR', 'DINOSAUR', 'PRESS', 'SPACE')": {
+    "words": [
+      "TRUNK",
+      "LAP",
+      "JACK",
+      "EGYPT",
+      "VAN",
+      "STICK",
+      "DRILL",
+      "SCORPION",
+      "AIR",
+      "DINOSAUR",
+      "PRESS",
+      "SPACE"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.7777777777777777,
+    "gpt_on_gpt": 0.9444444444444443,
+    "gpt_on_human": 1.0
+  },
+  "('LIFE', 'ALIEN', 'FIRE', 'COMPOUND', 'CIRCLE', 'HIMALAYAS', 'CRANE', 'HAWK', 'IRON', 'BED', 'HOOK', 'OIL')": {
+    "words": [
+      "LIFE",
+      "ALIEN",
+      "FIRE",
+      "COMPOUND",
+      "CIRCLE",
+      "HIMALAYAS",
+      "CRANE",
+      "HAWK",
+      "IRON",
+      "BED",
+      "HOOK",
+      "OIL"
+    ],
+    "human_on_gpt": 0.6333333333333333,
+    "human_on_human": 0.7333333333333332,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666665
+  },
+  "('BEACH', 'HOLE', 'DOCTOR', 'MOUSE', 'STICK', 'FISH', 'BOARD', 'WITCH', 'WHALE', 'LIMOUSINE', 'OCTOPUS', 'DWARF')": {
+    "words": [
+      "BEACH",
+      "HOLE",
+      "DOCTOR",
+      "MOUSE",
+      "STICK",
+      "FISH",
+      "BOARD",
+      "WITCH",
+      "WHALE",
+      "LIMOUSINE",
+      "OCTOPUS",
+      "DWARF"
+    ],
+    "human_on_gpt": 0.7222222222222222,
+    "human_on_human": 0.8055555555555554,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.9444444444444443
+  },
+  "('STRING', 'POST', 'BERRY', 'TORCH', 'PARACHUTE', 'LINK', 'BOND', 'COMIC', 'MODEL', 'AMERICA', 'LAP', 'SCHOOL')": {
+    "words": [
+      "STRING",
+      "POST",
+      "BERRY",
+      "TORCH",
+      "PARACHUTE",
+      "LINK",
+      "BOND",
+      "COMIC",
+      "MODEL",
+      "AMERICA",
+      "LAP",
+      "SCHOOL"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.8809523809523808,
+    "gpt_on_gpt": 0.9333333333333332,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('TRUNK', 'DWARF', 'DICE', 'AUSTRALIA', 'ORANGE', 'RING', 'AGENT', 'OIL', 'CAP', 'LIFE', 'CHEST', 'SMUGGLER')": {
+    "words": [
+      "TRUNK",
+      "DWARF",
+      "DICE",
+      "AUSTRALIA",
+      "ORANGE",
+      "RING",
+      "AGENT",
+      "OIL",
+      "CAP",
+      "LIFE",
+      "CHEST",
+      "SMUGGLER"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.7083333333333333,
+    "gpt_on_gpt": 0.8333333333333334,
+    "gpt_on_human": 0.75
+  },
+  "('KANGAROO', 'MASS', 'SOLDIER', 'SUB', 'COMPOUND', 'BACK', 'DINOSAUR', 'DICE', 'GENIUS', 'KING', 'ROCK', 'TEMPLE')": {
+    "words": [
+      "KANGAROO",
+      "MASS",
+      "SOLDIER",
+      "SUB",
+      "COMPOUND",
+      "BACK",
+      "DINOSAUR",
+      "DICE",
+      "GENIUS",
+      "KING",
+      "ROCK",
+      "TEMPLE"
+    ],
+    "human_on_gpt": 0.5714285714285714,
+    "human_on_human": 0.75,
+    "gpt_on_gpt": 0.619047619047619,
+    "gpt_on_human": 0.7083333333333333
+  },
+  "('STAR', 'BEACH', 'GOLD', 'AZTEC', 'TOWER', 'SUIT', 'LOCH NESS', 'POUND', 'POISON', 'POOL', 'DOG', 'GRASS')": {
+    "words": [
+      "STAR",
+      "BEACH",
+      "GOLD",
+      "AZTEC",
+      "TOWER",
+      "SUIT",
+      "LOCH NESS",
+      "POUND",
+      "POISON",
+      "POOL",
+      "DOG",
+      "GRASS"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.9444444444444443,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('CAST', 'PIANO', 'ORGAN', 'MAMMOTH', 'CHEST', 'NURSE', 'PRESS', 'BERLIN', 'PASS', 'PIT', 'COPPER', 'KANGAROO')": {
+    "words": [
+      "CAST",
+      "PIANO",
+      "ORGAN",
+      "MAMMOTH",
+      "CHEST",
+      "NURSE",
+      "PRESS",
+      "BERLIN",
+      "PASS",
+      "PIT",
+      "COPPER",
+      "KANGAROO"
+    ],
+    "human_on_gpt": 0.9166666666666666,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.7083333333333333,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('SOUL', 'COLD', 'MAMMOTH', 'STOCK', 'CANADA', 'GOLD', 'DINOSAUR', 'HOLE', 'WATER', 'RABBIT', 'MILLIONAIRE', 'MINT')": {
+    "words": [
+      "SOUL",
+      "COLD",
+      "MAMMOTH",
+      "STOCK",
+      "CANADA",
+      "GOLD",
+      "DINOSAUR",
+      "HOLE",
+      "WATER",
+      "RABBIT",
+      "MILLIONAIRE",
+      "MINT"
+    ],
+    "human_on_gpt": 0.5333333333333333,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('MEXICO', 'WALL', 'LAWYER', 'PIRATE', 'FOREST', 'ROBIN', 'DRILL', 'WIND', 'ICE CREAM', 'DEATH', 'MOSCOW', 'MERCURY')": {
+    "words": [
+      "MEXICO",
+      "WALL",
+      "LAWYER",
+      "PIRATE",
+      "FOREST",
+      "ROBIN",
+      "DRILL",
+      "WIND",
+      "ICE CREAM",
+      "DEATH",
+      "MOSCOW",
+      "MERCURY"
+    ],
+    "human_on_gpt": 0.7037037037037037,
+    "human_on_human": 0.9166666666666666,
+    "gpt_on_gpt": 0.9629629629629629,
+    "gpt_on_human": 0.9583333333333333
+  },
+  "('BAR', 'BOLT', 'DOG', 'POINT', 'ENGLAND', 'LAP', 'LINK', 'POOL', 'PITCH', 'TUBE', 'CZECH', 'PAN')": {
+    "words": [
+      "BAR",
+      "BOLT",
+      "DOG",
+      "POINT",
+      "ENGLAND",
+      "LAP",
+      "LINK",
+      "POOL",
+      "PITCH",
+      "TUBE",
+      "CZECH",
+      "PAN"
+    ],
+    "human_on_gpt": 0.8333333333333333,
+    "human_on_human": 0.9166666666666666,
+    "gpt_on_gpt": 0.4583333333333333,
+    "gpt_on_human": 1.0
+  },
+  "('BLOCK', 'PIE', 'BELT', 'POISON', 'COTTON', 'PASTE', 'SPOT', 'VAN', 'CHINA', 'IRON', 'PRESS', 'CANADA')": {
+    "words": [
+      "BLOCK",
+      "PIE",
+      "BELT",
+      "POISON",
+      "COTTON",
+      "PASTE",
+      "SPOT",
+      "VAN",
+      "CHINA",
+      "IRON",
+      "PRESS",
+      "CANADA"
+    ],
+    "human_on_gpt": 0.8,
+    "human_on_human": 0.7777777777777777,
+    "gpt_on_gpt": 0.9333333333333332,
+    "gpt_on_human": 0.9722222222222222
+  },
+  "('HOLLYWOOD', 'DRAFT', 'FRANCE', 'CASINO', 'CHOCOLATE', 'CHICK', 'FACE', 'WATER', 'LUCK', 'COVER', 'PIPE', 'CAP')": {
+    "words": [
+      "HOLLYWOOD",
+      "DRAFT",
+      "FRANCE",
+      "CASINO",
+      "CHOCOLATE",
+      "CHICK",
+      "FACE",
+      "WATER",
+      "LUCK",
+      "COVER",
+      "PIPE",
+      "CAP"
+    ],
+    "human_on_gpt": 0.75,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('COMIC', 'BUCK', 'JAM', 'PIE', 'THIEF', 'LOCK', 'DUCK', 'GOLD', 'GAS', 'SLUG', 'TAIL', 'MOON')": {
+    "words": [
+      "COMIC",
+      "BUCK",
+      "JAM",
+      "PIE",
+      "THIEF",
+      "LOCK",
+      "DUCK",
+      "GOLD",
+      "GAS",
+      "SLUG",
+      "TAIL",
+      "MOON"
+    ],
+    "human_on_gpt": 0.8888888888888888,
+    "human_on_human": 0.9,
+    "gpt_on_gpt": 0.8888888888888888,
+    "gpt_on_human": 1.0
+  },
+  "('COVER', 'MOUSE', 'PLANE', 'LOG', 'BAND', 'TAG', 'FIRE', 'TAP', 'TABLET', 'KIWI', 'STATE', 'KETCHUP')": {
+    "words": [
+      "COVER",
+      "MOUSE",
+      "PLANE",
+      "LOG",
+      "BAND",
+      "TAG",
+      "FIRE",
+      "TAP",
+      "TABLET",
+      "KIWI",
+      "STATE",
+      "KETCHUP"
+    ],
+    "human_on_gpt": 0.7619047619047619,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('POISON', 'LOG', 'APPLE', 'LAWYER', 'ROULETTE', 'OCTOPUS', 'CENTER', 'LEMON', 'ORGAN', 'SLUG', 'DRAGON', 'CAT')": {
+    "words": [
+      "POISON",
+      "LOG",
+      "APPLE",
+      "LAWYER",
+      "ROULETTE",
+      "OCTOPUS",
+      "CENTER",
+      "LEMON",
+      "ORGAN",
+      "SLUG",
+      "DRAGON",
+      "CAT"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8888888888888888,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('FORK', 'LITTER', 'PLANE', 'GREEN', 'GRACE', 'STRING', 'WAVE', 'WALL', 'BAR', 'NIGHT', 'LIGHT', 'LINK')": {
+    "words": [
+      "FORK",
+      "LITTER",
+      "PLANE",
+      "GREEN",
+      "GRACE",
+      "STRING",
+      "WAVE",
+      "WALL",
+      "BAR",
+      "NIGHT",
+      "LIGHT",
+      "LINK"
+    ],
+    "human_on_gpt": 0.42857142857142855,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.7619047619047619,
+    "gpt_on_human": 1.0
+  },
+  "('GROUND', 'POLE', 'OLYMPUS', 'DUCK', 'DANCE', 'FORK', 'COTTON', 'CLUB', 'NET', 'AUSTRALIA', 'TAIL', 'WATER')": {
+    "words": [
+      "GROUND",
+      "POLE",
+      "OLYMPUS",
+      "DUCK",
+      "DANCE",
+      "FORK",
+      "COTTON",
+      "CLUB",
+      "NET",
+      "AUSTRALIA",
+      "TAIL",
+      "WATER"
+    ],
+    "human_on_gpt": 0.8333333333333334,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.7777777777777777,
+    "gpt_on_human": 1.0
+  },
+  "('GIANT', 'DUCK', 'CHARGE', 'WATER', 'BERMUDA', 'FOREST', 'LIFE', 'WORM', 'PISTOL', 'POINT', 'OLIVE', 'PITCH')": {
+    "words": [
+      "GIANT",
+      "DUCK",
+      "CHARGE",
+      "WATER",
+      "BERMUDA",
+      "FOREST",
+      "LIFE",
+      "WORM",
+      "PISTOL",
+      "POINT",
+      "OLIVE",
+      "PITCH"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('STRAW', 'CLIFF', 'SINK', 'STRING', 'POST', 'WELL', 'OCTOPUS', 'YARD', 'DECK', 'MERCURY', 'ROME', 'CLUB')": {
+    "words": [
+      "STRAW",
+      "CLIFF",
+      "SINK",
+      "STRING",
+      "POST",
+      "WELL",
+      "OCTOPUS",
+      "YARD",
+      "DECK",
+      "MERCURY",
+      "ROME",
+      "CLUB"
+    ],
+    "human_on_gpt": 0.7333333333333333,
+    "human_on_human": 0.7037037037037037,
+    "gpt_on_gpt": 0.7333333333333332,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('PARACHUTE', 'SATURN', 'BERMUDA', 'TURKEY', 'NET', 'CHICK', 'MODEL', 'FILM', 'BOMB', 'NOVEL', 'SPOT', 'BALL')": {
+    "words": [
+      "PARACHUTE",
+      "SATURN",
+      "BERMUDA",
+      "TURKEY",
+      "NET",
+      "CHICK",
+      "MODEL",
+      "FILM",
+      "BOMB",
+      "NOVEL",
+      "SPOT",
+      "BALL"
+    ],
+    "human_on_gpt": 0.5833333333333334,
+    "human_on_human": 0.7878787878787878,
+    "gpt_on_gpt": 0.5833333333333333,
+    "gpt_on_human": 0.3939393939393939
+  },
+  "('COTTON', 'BERRY', 'GENIUS', 'VACUUM', 'SPRING', 'BUFFALO', 'SHARK', 'WALL', 'CARROT', 'FACE', 'PAN', 'SCUBA DIVER')": {
+    "words": [
+      "COTTON",
+      "BERRY",
+      "GENIUS",
+      "VACUUM",
+      "SPRING",
+      "BUFFALO",
+      "SHARK",
+      "WALL",
+      "CARROT",
+      "FACE",
+      "PAN",
+      "SCUBA DIVER"
+    ],
+    "human_on_gpt": 0.8095238095238095,
+    "human_on_human": 0.4074074074074074,
+    "gpt_on_gpt": 0.8571428571428571,
+    "gpt_on_human": 0.5185185185185185
+  },
+  "('WORM', 'GREECE', 'COMPOUND', 'TOKYO', 'RAY', 'ENGLAND', 'CONCERT', 'LINE', 'STATE', 'MASS', 'PRESS', 'NAIL')": {
+    "words": [
+      "WORM",
+      "GREECE",
+      "COMPOUND",
+      "TOKYO",
+      "RAY",
+      "ENGLAND",
+      "CONCERT",
+      "LINE",
+      "STATE",
+      "MASS",
+      "PRESS",
+      "NAIL"
+    ],
+    "human_on_gpt": 0.8888888888888888,
+    "human_on_human": 0.6363636363636364,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.9696969696969696
+  },
+  "('PISTOL', 'BEACH', 'COPPER', 'LINK', 'HOLLYWOOD', 'ALIEN', 'BOND', 'KETCHUP', 'SINK', 'MOUSE', 'SQUARE', 'WIND')": {
+    "words": [
+      "PISTOL",
+      "BEACH",
+      "COPPER",
+      "LINK",
+      "HOLLYWOOD",
+      "ALIEN",
+      "BOND",
+      "KETCHUP",
+      "SINK",
+      "MOUSE",
+      "SQUARE",
+      "WIND"
+    ],
+    "human_on_gpt": 0.7407407407407407,
+    "human_on_human": 0.861111111111111,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.888888888888889
+  },
+  "('SPY', 'TOWER', 'OIL', 'GAME', 'TEMPLE', 'ANGEL', 'SHIP', 'AGENT', 'LOCH NESS', 'WEB', 'AMAZON', 'BUG')": {
+    "words": [
+      "SPY",
+      "TOWER",
+      "OIL",
+      "GAME",
+      "TEMPLE",
+      "ANGEL",
+      "SHIP",
+      "AGENT",
+      "LOCH NESS",
+      "WEB",
+      "AMAZON",
+      "BUG"
+    ],
+    "human_on_gpt": 0.625,
+    "human_on_human": 0.8666666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.9777777777777777
+  },
+  "('AFRICA', 'TOWER', 'GLASS', 'SCORPION', 'CZECH', 'SHOT', 'DOG', 'TRUNK', 'LEMON', 'CHOCOLATE', 'CENTER', 'CELL')": {
+    "words": [
+      "AFRICA",
+      "TOWER",
+      "GLASS",
+      "SCORPION",
+      "CZECH",
+      "SHOT",
+      "DOG",
+      "TRUNK",
+      "LEMON",
+      "CHOCOLATE",
+      "CENTER",
+      "CELL"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.9166666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('AZTEC', 'BILL', 'CHECK', 'KIWI', 'MODEL', 'CYCLE', 'DECK', 'CODE', 'POINT', 'CONDUCTOR', 'THIEF', 'AUSTRALIA')": {
+    "words": [
+      "AZTEC",
+      "BILL",
+      "CHECK",
+      "KIWI",
+      "MODEL",
+      "CYCLE",
+      "DECK",
+      "CODE",
+      "POINT",
+      "CONDUCTOR",
+      "THIEF",
+      "AUSTRALIA"
+    ],
+    "human_on_gpt": 0.7777777777777778,
+    "human_on_human": 0.8333333333333333,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('ROUND', 'NEEDLE', 'DRESS', 'TRIP', 'ROOT', 'DOCTOR', 'DWARF', 'PARACHUTE', 'NOVEL', 'CONTRACT', 'DEATH', 'ROBIN')": {
+    "words": [
+      "ROUND",
+      "NEEDLE",
+      "DRESS",
+      "TRIP",
+      "ROOT",
+      "DOCTOR",
+      "DWARF",
+      "PARACHUTE",
+      "NOVEL",
+      "CONTRACT",
+      "DEATH",
+      "ROBIN"
+    ],
+    "human_on_gpt": 0.7916666666666666,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('PIE', 'MASS', 'HEAD', 'LITTER', 'ARM', 'CIRCLE', 'PYRAMID', 'POINT', 'STOCK', 'HOOD', 'BUCK', 'THIEF')": {
+    "words": [
+      "PIE",
+      "MASS",
+      "HEAD",
+      "LITTER",
+      "ARM",
+      "CIRCLE",
+      "PYRAMID",
+      "POINT",
+      "STOCK",
+      "HOOD",
+      "BUCK",
+      "THIEF"
+    ],
+    "human_on_gpt": 0.7999999999999999,
+    "human_on_human": 0.9047619047619048,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('GAS', 'SLUG', 'ROUND', 'MICROSCOPE', 'SLIP', 'HEAD', 'HOTEL', 'PIPE', 'SHOP', 'RACKET', 'UNICORN', 'PLAY')": {
+    "words": [
+      "GAS",
+      "SLUG",
+      "ROUND",
+      "MICROSCOPE",
+      "SLIP",
+      "HEAD",
+      "HOTEL",
+      "PIPE",
+      "SHOP",
+      "RACKET",
+      "UNICORN",
+      "PLAY"
+    ],
+    "human_on_gpt": 0.49999999999999994,
+    "human_on_human": 0.75,
+    "gpt_on_gpt": 0.5555555555555555,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('GRACE', 'APPLE', 'SHAKESPEARE', 'SERVER', 'IVORY', 'EMBASSY', 'SWITCH', 'AGENT', 'FILM', 'WELL', 'BEAR', 'NEEDLE')": {
+    "words": [
+      "GRACE",
+      "APPLE",
+      "SHAKESPEARE",
+      "SERVER",
+      "IVORY",
+      "EMBASSY",
+      "SWITCH",
+      "AGENT",
+      "FILM",
+      "WELL",
+      "BEAR",
+      "NEEDLE"
+    ],
+    "human_on_gpt": 0.611111111111111,
+    "human_on_human": 0.8333333333333334,
+    "gpt_on_gpt": 0.8333333333333334,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('FIELD', 'TEMPLE', 'LIGHT', 'MOUSE', 'FORCE', 'MUG', 'TRIP', 'SCHOOL', 'HAND', 'TICK', 'SCALE', 'STRIKE')": {
+    "words": [
+      "FIELD",
+      "TEMPLE",
+      "LIGHT",
+      "MOUSE",
+      "FORCE",
+      "MUG",
+      "TRIP",
+      "SCHOOL",
+      "HAND",
+      "TICK",
+      "SCALE",
+      "STRIKE"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.8518518518518519,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.9629629629629629
+  },
+  "('STAR', 'QUEEN', 'TRIANGLE', 'SPIDER', 'CHARGE', 'SLIP', 'PRINCESS', 'MISSILE', 'KING', 'PIPE', 'SATELLITE', 'DOG')": {
+    "words": [
+      "STAR",
+      "QUEEN",
+      "TRIANGLE",
+      "SPIDER",
+      "CHARGE",
+      "SLIP",
+      "PRINCESS",
+      "MISSILE",
+      "KING",
+      "PIPE",
+      "SATELLITE",
+      "DOG"
+    ],
+    "human_on_gpt": 0.9523809523809523,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('CAP', 'UNDERTAKER', 'STADIUM', 'POLICE', 'SKYSCRAPER', 'POUND', 'SQUARE', 'CELL', 'CLOAK', 'BEIJING', 'GLOVE', 'ALPS')": {
+    "words": [
+      "CAP",
+      "UNDERTAKER",
+      "STADIUM",
+      "POLICE",
+      "SKYSCRAPER",
+      "POUND",
+      "SQUARE",
+      "CELL",
+      "CLOAK",
+      "BEIJING",
+      "GLOVE",
+      "ALPS"
+    ],
+    "human_on_gpt": 0.8333333333333333,
+    "human_on_human": 0.9583333333333333,
+    "gpt_on_gpt": 0.5833333333333333,
+    "gpt_on_human": 1.0
+  },
+  "('DIAMOND', 'MISSILE', 'JET', 'LIMOUSINE', 'SOUL', 'INDIA', 'GREEN', 'PAPER', 'HONEY', 'SPELL', 'RACKET', 'AIR')": {
+    "words": [
+      "DIAMOND",
+      "MISSILE",
+      "JET",
+      "LIMOUSINE",
+      "SOUL",
+      "INDIA",
+      "GREEN",
+      "PAPER",
+      "HONEY",
+      "SPELL",
+      "RACKET",
+      "AIR"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.9696969696969696,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('DIAMOND', 'DAY', 'LUCK', 'CAST', 'DWARF', 'MOUSE', 'DRESS', 'CLOAK', 'OLYMPUS', 'HOOD', 'SHAKESPEARE', 'SPY')": {
+    "words": [
+      "DIAMOND",
+      "DAY",
+      "LUCK",
+      "CAST",
+      "DWARF",
+      "MOUSE",
+      "DRESS",
+      "CLOAK",
+      "OLYMPUS",
+      "HOOD",
+      "SHAKESPEARE",
+      "SPY"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.875,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.4583333333333333
+  },
+  "('FIELD', 'STAR', 'LINE', 'LEMON', 'FIGHTER', 'GAME', 'DISEASE', 'HELICOPTER', 'FRANCE', 'CARROT', 'ALIEN', 'MASS')": {
+    "words": [
+      "FIELD",
+      "STAR",
+      "LINE",
+      "LEMON",
+      "FIGHTER",
+      "GAME",
+      "DISEASE",
+      "HELICOPTER",
+      "FRANCE",
+      "CARROT",
+      "ALIEN",
+      "MASS"
+    ],
+    "human_on_gpt": 0.5333333333333333,
+    "human_on_human": 0.9629629629629629,
+    "gpt_on_gpt": 0.6666666666666667,
+    "gpt_on_human": 0.7037037037037037
+  },
+  "('KEY', 'CHANGE', 'CALF', 'SPACE', 'JAM', 'COMIC', 'CAP', 'CONTRACT', 'MUG', 'GREECE', 'THUMB', 'TAG')": {
+    "words": [
+      "KEY",
+      "CHANGE",
+      "CALF",
+      "SPACE",
+      "JAM",
+      "COMIC",
+      "CAP",
+      "CONTRACT",
+      "MUG",
+      "GREECE",
+      "THUMB",
+      "TAG"
+    ],
+    "human_on_gpt": 0.39999999999999997,
+    "human_on_human": 0.696969696969697,
+    "gpt_on_gpt": 0.7333333333333332,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('CODE', 'TEACHER', 'HOLE', 'WATER', 'GOLD', 'STAR', 'PLAY', 'VACUUM', 'MERCURY', 'BACK', 'ALPS', 'POISON')": {
+    "words": [
+      "CODE",
+      "TEACHER",
+      "HOLE",
+      "WATER",
+      "GOLD",
+      "STAR",
+      "PLAY",
+      "VACUUM",
+      "MERCURY",
+      "BACK",
+      "ALPS",
+      "POISON"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7777777777777778,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('PILOT', 'ORGAN', 'FIGHTER', 'POISON', 'CHOCOLATE', 'PANTS', 'INDIA', 'BOTTLE', 'SUPERHERO', 'IRON', 'TUBE', 'LAB')": {
+    "words": [
+      "PILOT",
+      "ORGAN",
+      "FIGHTER",
+      "POISON",
+      "CHOCOLATE",
+      "PANTS",
+      "INDIA",
+      "BOTTLE",
+      "SUPERHERO",
+      "IRON",
+      "TUBE",
+      "LAB"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8095238095238094,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.8571428571428571
+  },
+  "('PAN', 'HOTEL', 'LEAD', 'BLOCK', 'LIFE', 'THIEF', 'BERLIN', 'PLOT', 'SOUL', 'COURT', 'GROUND', 'MEXICO')": {
+    "words": [
+      "PAN",
+      "HOTEL",
+      "LEAD",
+      "BLOCK",
+      "LIFE",
+      "THIEF",
+      "BERLIN",
+      "PLOT",
+      "SOUL",
+      "COURT",
+      "GROUND",
+      "MEXICO"
+    ],
+    "human_on_gpt": 0.5714285714285714,
+    "human_on_human": 0.8,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('ANTARCTICA', 'DOCTOR', 'GERMANY', 'CONCERT', 'BERRY', 'OCTOPUS', 'SHAKESPEARE', 'LINK', 'PARACHUTE', 'REVOLUTION', 'NIGHT', 'BOOM')": {
+    "words": [
+      "ANTARCTICA",
+      "DOCTOR",
+      "GERMANY",
+      "CONCERT",
+      "BERRY",
+      "OCTOPUS",
+      "SHAKESPEARE",
+      "LINK",
+      "PARACHUTE",
+      "REVOLUTION",
+      "NIGHT",
+      "BOOM"
+    ],
+    "human_on_gpt": 0.8666666666666666,
+    "human_on_human": 0.8431372549019607,
+    "gpt_on_gpt": 0.8666666666666666,
+    "gpt_on_human": 0.980392156862745
+  },
+  "('MOON', 'SNOW', 'PLOT', 'BATTERY', 'TAIL', 'SPIKE', 'PLASTIC', 'ANGEL', 'RABBIT', 'CAP', 'EUROPE', 'HOTEL')": {
+    "words": [
+      "MOON",
+      "SNOW",
+      "PLOT",
+      "BATTERY",
+      "TAIL",
+      "SPIKE",
+      "PLASTIC",
+      "ANGEL",
+      "RABBIT",
+      "CAP",
+      "EUROPE",
+      "HOTEL"
+    ],
+    "human_on_gpt": 0.3333333333333333,
+    "human_on_human": 0.7037037037037037,
+    "gpt_on_gpt": 0.619047619047619,
+    "gpt_on_human": 1.0
+  },
+  "('WHALE', 'TURKEY', 'ICE', 'CLUB', 'CHURCH', 'WELL', 'KNIGHT', 'WHIP', 'PART', 'WIND', 'MARCH', 'ALPS')": {
+    "words": [
+      "WHALE",
+      "TURKEY",
+      "ICE",
+      "CLUB",
+      "CHURCH",
+      "WELL",
+      "KNIGHT",
+      "WHIP",
+      "PART",
+      "WIND",
+      "MARCH",
+      "ALPS"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.9166666666666665,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.9444444444444443
+  },
+  "('ROCK', 'CROWN', 'BUG', 'FRANCE', 'BOOM', 'ICE CREAM', 'PILOT', 'VACUUM', 'GIANT', 'SHAKESPEARE', 'CHICK', 'CODE')": {
+    "words": [
+      "ROCK",
+      "CROWN",
+      "BUG",
+      "FRANCE",
+      "BOOM",
+      "ICE CREAM",
+      "PILOT",
+      "VACUUM",
+      "GIANT",
+      "SHAKESPEARE",
+      "CHICK",
+      "CODE"
+    ],
+    "human_on_gpt": 0.9629629629629629,
+    "human_on_human": 0.7291666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.375
+  },
+  "('VACUUM', 'CAST', 'ORGAN', 'LUCK', 'ORANGE', 'TRIANGLE', 'LINK', 'PIPE', 'HOSPITAL', 'GAS', 'SHARK', 'CHICK')": {
+    "words": [
+      "VACUUM",
+      "CAST",
+      "ORGAN",
+      "LUCK",
+      "ORANGE",
+      "TRIANGLE",
+      "LINK",
+      "PIPE",
+      "HOSPITAL",
+      "GAS",
+      "SHARK",
+      "CHICK"
+    ],
+    "human_on_gpt": 0.619047619047619,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.7619047619047619,
+    "gpt_on_human": 1.0
+  },
+  "('POUND', 'SHOE', 'HAND', 'LAP', 'SNOWMAN', 'CANADA', 'WALL', 'NEW YORK', 'BAR', 'GLASS', 'SPIKE', 'CAPITAL')": {
+    "words": [
+      "POUND",
+      "SHOE",
+      "HAND",
+      "LAP",
+      "SNOWMAN",
+      "CANADA",
+      "WALL",
+      "NEW YORK",
+      "BAR",
+      "GLASS",
+      "SPIKE",
+      "CAPITAL"
+    ],
+    "human_on_gpt": 0.9444444444444445,
+    "human_on_human": 0.9,
+    "gpt_on_gpt": 0.7222222222222222,
+    "gpt_on_human": 0.8333333333333333
+  },
+  "('TRIP', 'SNOW', 'PHOENIX', 'POLE', 'STAR', 'NUT', 'CARD', 'BOMB', 'TIE', 'DOG', 'MILLIONAIRE', 'EGYPT')": {
+    "words": [
+      "TRIP",
+      "SNOW",
+      "PHOENIX",
+      "POLE",
+      "STAR",
+      "NUT",
+      "CARD",
+      "BOMB",
+      "TIE",
+      "DOG",
+      "MILLIONAIRE",
+      "EGYPT"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.909090909090909,
+    "gpt_on_gpt": 0.5555555555555555,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('EUROPE', 'BUCK', 'THEATER', 'BOMB', 'DEATH', 'TIE', 'TRAIN', 'HEAD', 'PIRATE', 'PLOT', 'GERMANY', 'PRINCESS')": {
+    "words": [
+      "EUROPE",
+      "BUCK",
+      "THEATER",
+      "BOMB",
+      "DEATH",
+      "TIE",
+      "TRAIN",
+      "HEAD",
+      "PIRATE",
+      "PLOT",
+      "GERMANY",
+      "PRINCESS"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.9166666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('REVOLUTION', 'PIE', 'SCREEN', 'TEACHER', 'PORT', 'RABBIT', 'HOTEL', 'CLUB', 'LEPRECHAUN', 'COPPER', 'DISEASE', 'BELL')": {
+    "words": [
+      "REVOLUTION",
+      "PIE",
+      "SCREEN",
+      "TEACHER",
+      "PORT",
+      "RABBIT",
+      "HOTEL",
+      "CLUB",
+      "LEPRECHAUN",
+      "COPPER",
+      "DISEASE",
+      "BELL"
+    ],
+    "human_on_gpt": 0.3333333333333333,
+    "human_on_human": 0.7777777777777778,
+    "gpt_on_gpt": 0.625,
+    "gpt_on_human": 0.9259259259259258
+  },
+  "('PRESS', 'KANGAROO', 'BLOCK', 'MINT', 'STRIKE', 'TEACHER', 'POINT', 'WORM', 'HORSE', 'FORK', 'BATTERY', 'BOARD')": {
+    "words": [
+      "PRESS",
+      "KANGAROO",
+      "BLOCK",
+      "MINT",
+      "STRIKE",
+      "TEACHER",
+      "POINT",
+      "WORM",
+      "HORSE",
+      "FORK",
+      "BATTERY",
+      "BOARD"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.7142857142857143,
+    "gpt_on_human": 1.0
+  },
+  "('MILLIONAIRE', 'SHOE', 'WALL', 'OPERA', 'DANCE', 'MOUTH', 'FILM', 'WEB', 'SUB', 'SPIDER', 'STAFF', 'LAB')": {
+    "words": [
+      "MILLIONAIRE",
+      "SHOE",
+      "WALL",
+      "OPERA",
+      "DANCE",
+      "MOUTH",
+      "FILM",
+      "WEB",
+      "SUB",
+      "SPIDER",
+      "STAFF",
+      "LAB"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.8333333333333334,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('MATCH', 'POOL', 'BUGLE', 'RULER', 'RAY', 'PART', 'CAST', 'SLUG', 'LITTER', 'CONCERT', 'CHAIR', 'FRANCE')": {
+    "words": [
+      "MATCH",
+      "POOL",
+      "BUGLE",
+      "RULER",
+      "RAY",
+      "PART",
+      "CAST",
+      "SLUG",
+      "LITTER",
+      "CONCERT",
+      "CHAIR",
+      "FRANCE"
+    ],
+    "human_on_gpt": 0.48148148148148145,
+    "human_on_human": 0.6944444444444443,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('FLUTE', 'LAP', 'SPRING', 'LOCK', 'NOVEL', 'BOLT', 'VACUUM', 'ROBOT', 'PLATE', 'SCALE', 'OPERA', 'AFRICA')": {
+    "words": [
+      "FLUTE",
+      "LAP",
+      "SPRING",
+      "LOCK",
+      "NOVEL",
+      "BOLT",
+      "VACUUM",
+      "ROBOT",
+      "PLATE",
+      "SCALE",
+      "OPERA",
+      "AFRICA"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8333333333333333,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('CHOCOLATE', 'HORN', 'STICK', 'TEACHER', 'CENTAUR', 'HELICOPTER', 'HAM', 'MINT', 'BILL', 'SATELLITE', 'GREEN', 'FACE')": {
+    "words": [
+      "CHOCOLATE",
+      "HORN",
+      "STICK",
+      "TEACHER",
+      "CENTAUR",
+      "HELICOPTER",
+      "HAM",
+      "MINT",
+      "BILL",
+      "SATELLITE",
+      "GREEN",
+      "FACE"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.7777777777777777,
+    "gpt_on_human": 0.5416666666666666
+  },
+  "('DATE', 'NURSE', 'BRIDGE', 'RING', 'PLOT', 'BANK', 'NOTE', 'NOVEL', 'PLATYPUS', 'PIT', 'CHANGE', 'HORSE')": {
+    "words": [
+      "DATE",
+      "NURSE",
+      "BRIDGE",
+      "RING",
+      "PLOT",
+      "BANK",
+      "NOTE",
+      "NOVEL",
+      "PLATYPUS",
+      "PIT",
+      "CHANGE",
+      "HORSE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7272727272727273,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('LIMOUSINE', 'EAGLE', 'WALL', 'DWARF', 'CHURCH', 'SATURN', 'SPACE', 'BARK', 'PRINCESS', 'CYCLE', 'PAN', 'PARACHUTE')": {
+    "words": [
+      "LIMOUSINE",
+      "EAGLE",
+      "WALL",
+      "DWARF",
+      "CHURCH",
+      "SATURN",
+      "SPACE",
+      "BARK",
+      "PRINCESS",
+      "CYCLE",
+      "PAN",
+      "PARACHUTE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7083333333333333,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('PENGUIN', 'DEGREE', 'SCORPION', 'NOVEL', 'LINE', 'SHOT', 'ENGLAND', 'AUSTRALIA', 'TRUNK', 'WITCH', 'AZTEC', 'KID')": {
+    "words": [
+      "PENGUIN",
+      "DEGREE",
+      "SCORPION",
+      "NOVEL",
+      "LINE",
+      "SHOT",
+      "ENGLAND",
+      "AUSTRALIA",
+      "TRUNK",
+      "WITCH",
+      "AZTEC",
+      "KID"
+    ],
+    "human_on_gpt": 0.9047619047619048,
+    "human_on_human": 0.5416666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('SPRING', 'HOLLYWOOD', 'CHEST', 'DECK', 'TRAIN', 'BOLT', 'IVORY', 'HORSESHOE', 'BRUSH', 'DISEASE', 'PANTS', 'PIE')": {
+    "words": [
+      "SPRING",
+      "HOLLYWOOD",
+      "CHEST",
+      "DECK",
+      "TRAIN",
+      "BOLT",
+      "IVORY",
+      "HORSESHOE",
+      "BRUSH",
+      "DISEASE",
+      "PANTS",
+      "PIE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.5555555555555556,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.4444444444444444
+  },
+  "('FIELD', 'FIGURE', 'HAWK', 'CHANGE', 'DICE', 'RING', 'BAND', 'MOLE', 'SERVER', 'NET', 'MINE', 'CELL')": {
+    "words": [
+      "FIELD",
+      "FIGURE",
+      "HAWK",
+      "CHANGE",
+      "DICE",
+      "RING",
+      "BAND",
+      "MOLE",
+      "SERVER",
+      "NET",
+      "MINE",
+      "CELL"
+    ],
+    "human_on_gpt": 0.7142857142857143,
+    "human_on_human": 0.7222222222222222,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.8055555555555555
+  },
+  "('DRAGON', 'SOUND', 'SCHOOL', 'PANTS', 'GLASS', 'NOTE', 'SHARK', 'LIGHT', 'BUFFALO', 'STRIKE', 'CLUB', 'CYCLE')": {
+    "words": [
+      "DRAGON",
+      "SOUND",
+      "SCHOOL",
+      "PANTS",
+      "GLASS",
+      "NOTE",
+      "SHARK",
+      "LIGHT",
+      "BUFFALO",
+      "STRIKE",
+      "CLUB",
+      "CYCLE"
+    ],
+    "human_on_gpt": 0.8333333333333334,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('CHAIR', 'PIE', 'AZTEC', 'ANGEL', 'FORCE', 'SPOT', 'LIFE', 'BOLT', 'NEW YORK', 'POISON', 'HOTEL', 'BATTERY')": {
+    "words": [
+      "CHAIR",
+      "PIE",
+      "AZTEC",
+      "ANGEL",
+      "FORCE",
+      "SPOT",
+      "LIFE",
+      "BOLT",
+      "NEW YORK",
+      "POISON",
+      "HOTEL",
+      "BATTERY"
+    ],
+    "human_on_gpt": 0.619047619047619,
+    "human_on_human": 0.696969696969697,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('SNOW', 'GLASS', 'SINK', 'MOUSE', 'LEPRECHAUN', 'PLATE', 'HOOD', 'JUPITER', 'SERVER', 'TIE', 'PLASTIC', 'BILL')": {
+    "words": [
+      "SNOW",
+      "GLASS",
+      "SINK",
+      "MOUSE",
+      "LEPRECHAUN",
+      "PLATE",
+      "HOOD",
+      "JUPITER",
+      "SERVER",
+      "TIE",
+      "PLASTIC",
+      "BILL"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7142857142857143,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('BOARD', 'SINK', 'APPLE', 'OLYMPUS', 'MATCH', 'MARBLE', 'DRAFT', 'BERLIN', 'FILM', 'NEW YORK', 'FLUTE', 'TUBE')": {
+    "words": [
+      "BOARD",
+      "SINK",
+      "APPLE",
+      "OLYMPUS",
+      "MATCH",
+      "MARBLE",
+      "DRAFT",
+      "BERLIN",
+      "FILM",
+      "NEW YORK",
+      "FLUTE",
+      "TUBE"
+    ],
+    "human_on_gpt": 0.9333333333333332,
+    "human_on_human": 0.8518518518518519,
+    "gpt_on_gpt": 0.8666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('FACE', 'ORGAN', 'PART', 'PUPIL', 'MISSILE', 'SHOE', 'BALL', 'FRANCE', 'KANGAROO', 'SPIKE', 'HOOK', 'STICK')": {
+    "words": [
+      "FACE",
+      "ORGAN",
+      "PART",
+      "PUPIL",
+      "MISSILE",
+      "SHOE",
+      "BALL",
+      "FRANCE",
+      "KANGAROO",
+      "SPIKE",
+      "HOOK",
+      "STICK"
+    ],
+    "human_on_gpt": 0.7999999999999999,
+    "human_on_human": 0.611111111111111,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('LION', 'POLE', 'KANGAROO', 'DOG', 'CONCERT', 'BERRY', 'CAPITAL', 'CHEST', 'MISSILE', 'DECK', 'TOWER', 'AMBULANCE')": {
+    "words": [
+      "LION",
+      "POLE",
+      "KANGAROO",
+      "DOG",
+      "CONCERT",
+      "BERRY",
+      "CAPITAL",
+      "CHEST",
+      "MISSILE",
+      "DECK",
+      "TOWER",
+      "AMBULANCE"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('AGENT', 'MERCURY', 'PASS', 'CRANE', 'CAST', 'SLIP', 'TAIL', 'PIE', 'DATE', 'TRIANGLE', 'POOL', 'HORN')": {
+    "words": [
+      "AGENT",
+      "MERCURY",
+      "PASS",
+      "CRANE",
+      "CAST",
+      "SLIP",
+      "TAIL",
+      "PIE",
+      "DATE",
+      "TRIANGLE",
+      "POOL",
+      "HORN"
+    ],
+    "human_on_gpt": 0.5925925925925926,
+    "human_on_human": 0.9166666666666666,
+    "gpt_on_gpt": 0.5555555555555555,
+    "gpt_on_human": 1.0
+  },
+  "('GROUND', 'CAP', 'PYRAMID', 'WHALE', 'SPINE', 'CHOCOLATE', 'CHARGE', 'BERLIN', 'PLATE', 'LINK', 'NIGHT', 'SHAKESPEARE')": {
+    "words": [
+      "GROUND",
+      "CAP",
+      "PYRAMID",
+      "WHALE",
+      "SPINE",
+      "CHOCOLATE",
+      "CHARGE",
+      "BERLIN",
+      "PLATE",
+      "LINK",
+      "NIGHT",
+      "SHAKESPEARE"
+    ],
+    "human_on_gpt": 0.6666666666666667,
+    "human_on_human": 0.7619047619047619,
+    "gpt_on_gpt": 0.7666666666666667,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('ORGAN', 'CASINO', 'FOREST', 'BUFFALO', 'NOVEL', 'HOLLYWOOD', 'LOCK', 'WITCH', 'BARK', 'TICK', 'TUBE', 'OLYMPUS')": {
+    "words": [
+      "ORGAN",
+      "CASINO",
+      "FOREST",
+      "BUFFALO",
+      "NOVEL",
+      "HOLLYWOOD",
+      "LOCK",
+      "WITCH",
+      "BARK",
+      "TICK",
+      "TUBE",
+      "OLYMPUS"
+    ],
+    "human_on_gpt": 0.5,
+    "human_on_human": 0.6153846153846154,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.41025641025641024
+  },
+  "('PALM', 'CELL', 'CZECH', 'LOG', 'SPRING', 'CRASH', 'SHADOW', 'PIRATE', 'STOCK', 'DEATH', 'WASHINGTON', 'SLIP')": {
+    "words": [
+      "PALM",
+      "CELL",
+      "CZECH",
+      "LOG",
+      "SPRING",
+      "CRASH",
+      "SHADOW",
+      "PIRATE",
+      "STOCK",
+      "DEATH",
+      "WASHINGTON",
+      "SLIP"
+    ],
+    "human_on_gpt": 0.6666666666666667,
+    "human_on_human": 0.6060606060606061,
+    "gpt_on_gpt": 0.7666666666666667,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('ROBIN', 'TOWER', 'BATTERY', 'FIRE', 'COTTON', 'JACK', 'NINJA', 'MEXICO', 'DRAGON', 'LEPRECHAUN', 'NIGHT', 'JAM')": {
+    "words": [
+      "ROBIN",
+      "TOWER",
+      "BATTERY",
+      "FIRE",
+      "COTTON",
+      "JACK",
+      "NINJA",
+      "MEXICO",
+      "DRAGON",
+      "LEPRECHAUN",
+      "NIGHT",
+      "JAM"
+    ],
+    "human_on_gpt": 0.9259259259259258,
+    "human_on_human": 0.8571428571428571,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('STRIKE', 'YARD', 'NIGHT', 'BEAR', 'AMAZON', 'HONEY', 'ROSE', 'WITCH', 'SCHOOL', 'EMBASSY', 'HOLE', 'ALIEN')": {
+    "words": [
+      "STRIKE",
+      "YARD",
+      "NIGHT",
+      "BEAR",
+      "AMAZON",
+      "HONEY",
+      "ROSE",
+      "WITCH",
+      "SCHOOL",
+      "EMBASSY",
+      "HOLE",
+      "ALIEN"
+    ],
+    "human_on_gpt": 0.8333333333333333,
+    "human_on_human": 0.7380952380952381,
+    "gpt_on_gpt": 0.7499999999999999,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('PARACHUTE', 'ROBOT', 'VET', 'SPIKE', 'GERMANY', 'ENGLAND', 'PART', 'COVER', 'SKYSCRAPER', 'DIAMOND', 'LAB', 'HOLE')": {
+    "words": [
+      "PARACHUTE",
+      "ROBOT",
+      "VET",
+      "SPIKE",
+      "GERMANY",
+      "ENGLAND",
+      "PART",
+      "COVER",
+      "SKYSCRAPER",
+      "DIAMOND",
+      "LAB",
+      "HOLE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7666666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.8666666666666666
+  },
+  "('CANADA', 'TAIL', 'TRAIN', 'TURKEY', 'CENTAUR', 'CHAIR', 'REVOLUTION', 'TRIANGLE', 'VET', 'SWING', 'MOUSE', 'COMPOUND')": {
+    "words": [
+      "CANADA",
+      "TAIL",
+      "TRAIN",
+      "TURKEY",
+      "CENTAUR",
+      "CHAIR",
+      "REVOLUTION",
+      "TRIANGLE",
+      "VET",
+      "SWING",
+      "MOUSE",
+      "COMPOUND"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8055555555555555,
+    "gpt_on_gpt": 0.8333333333333334,
+    "gpt_on_human": 0.7222222222222222
+  },
+  "('HEAD', 'CHARGE', 'SUB', 'FACE', 'WHIP', 'MOLE', 'SLUG', 'PIN', 'SOLDIER', 'SPINE', 'STRING', 'BEACH')": {
+    "words": [
+      "HEAD",
+      "CHARGE",
+      "SUB",
+      "FACE",
+      "WHIP",
+      "MOLE",
+      "SLUG",
+      "PIN",
+      "SOLDIER",
+      "SPINE",
+      "STRING",
+      "BEACH"
+    ],
+    "human_on_gpt": 0.8888888888888888,
+    "human_on_human": 0.9333333333333332,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.7
+  },
+  "('BANK', 'BUCK', 'STRAW', 'PUMPKIN', 'SHAKESPEARE', 'CLIFF', 'WELL', 'HOSPITAL', 'SEAL', 'BRIDGE', 'TABLET', 'GRASS')": {
+    "words": [
+      "BANK",
+      "BUCK",
+      "STRAW",
+      "PUMPKIN",
+      "SHAKESPEARE",
+      "CLIFF",
+      "WELL",
+      "HOSPITAL",
+      "SEAL",
+      "BRIDGE",
+      "TABLET",
+      "GRASS"
+    ],
+    "human_on_gpt": 0.6666666666666665,
+    "human_on_human": 0.7916666666666666,
+    "gpt_on_gpt": 0.9629629629629629,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('SNOWMAN', 'CLUB', 'BUG', 'LOCK', 'SHOT', 'SCREEN', 'BERLIN', 'SCIENTIST', 'ROME', 'MOUNT', 'LIGHT', 'CAR')": {
+    "words": [
+      "SNOWMAN",
+      "CLUB",
+      "BUG",
+      "LOCK",
+      "SHOT",
+      "SCREEN",
+      "BERLIN",
+      "SCIENTIST",
+      "ROME",
+      "MOUNT",
+      "LIGHT",
+      "CAR"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7222222222222222,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('DEATH', 'OLIVE', 'PISTOL', 'ICE', 'CHARGE', 'TELESCOPE', 'KNIGHT', 'AFRICA', 'SUPERHERO', 'LINE', 'NURSE', 'LEAD')": {
+    "words": [
+      "DEATH",
+      "OLIVE",
+      "PISTOL",
+      "ICE",
+      "CHARGE",
+      "TELESCOPE",
+      "KNIGHT",
+      "AFRICA",
+      "SUPERHERO",
+      "LINE",
+      "NURSE",
+      "LEAD"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8333333333333333,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.9166666666666666
+  },
+  "('BERLIN', 'SCALE', 'SLIP', 'SLUG', 'AMBULANCE', 'GOLD', 'BEAR', 'JACK', 'COMPOUND', 'HEART', 'TRIANGLE', 'CAPITAL')": {
+    "words": [
+      "BERLIN",
+      "SCALE",
+      "SLIP",
+      "SLUG",
+      "AMBULANCE",
+      "GOLD",
+      "BEAR",
+      "JACK",
+      "COMPOUND",
+      "HEART",
+      "TRIANGLE",
+      "CAPITAL"
+    ],
+    "human_on_gpt": 0.7333333333333333,
+    "human_on_human": 0.7575757575757577,
+    "gpt_on_gpt": 0.7333333333333332,
+    "gpt_on_human": 0.9696969696969696
+  },
+  "('BERLIN', 'FALL', 'FAIR', 'WELL', 'BLOCK', 'SUIT', 'IVORY', 'ALPS', 'WAKE', 'PIT', 'FAN', 'GREEN')": {
+    "words": [
+      "BERLIN",
+      "FALL",
+      "FAIR",
+      "WELL",
+      "BLOCK",
+      "SUIT",
+      "IVORY",
+      "ALPS",
+      "WAKE",
+      "PIT",
+      "FAN",
+      "GREEN"
+    ],
+    "human_on_gpt": 0.8095238095238095,
+    "human_on_human": 0.5151515151515151,
+    "gpt_on_gpt": 0.8571428571428571,
+    "gpt_on_human": 0.36363636363636365
+  },
+  "('CLIFF', 'BERLIN', 'COLD', 'TIME', 'LIMOUSINE', 'DECK', 'LAWYER', 'BOW', 'OLIVE', 'BACK', 'CAT', 'TAG')": {
+    "words": [
+      "CLIFF",
+      "BERLIN",
+      "COLD",
+      "TIME",
+      "LIMOUSINE",
+      "DECK",
+      "LAWYER",
+      "BOW",
+      "OLIVE",
+      "BACK",
+      "CAT",
+      "TAG"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7777777777777778,
+    "gpt_on_gpt": 0.5833333333333333,
+    "gpt_on_human": 0.35555555555555546
+  },
+  "('SPELL', 'POOL', 'TEACHER', 'HOSPITAL', 'CZECH', 'THIEF', 'MOLE', 'LITTER', 'FILM', 'STAFF', 'DAY', 'BED')": {
+    "words": [
+      "SPELL",
+      "POOL",
+      "TEACHER",
+      "HOSPITAL",
+      "CZECH",
+      "THIEF",
+      "MOLE",
+      "LITTER",
+      "FILM",
+      "STAFF",
+      "DAY",
+      "BED"
+    ],
+    "human_on_gpt": 0.8571428571428571,
+    "human_on_human": 0.6296296296296297,
+    "gpt_on_gpt": 0.7142857142857143,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('SNOW', 'NUT', 'LEAD', 'UNICORN', 'WITCH', 'SHAKESPEARE', 'SWITCH', 'FORCE', 'WATER', 'GENIUS', 'UNDERTAKER', 'LOCH NESS')": {
+    "words": [
+      "SNOW",
+      "NUT",
+      "LEAD",
+      "UNICORN",
+      "WITCH",
+      "SHAKESPEARE",
+      "SWITCH",
+      "FORCE",
+      "WATER",
+      "GENIUS",
+      "UNDERTAKER",
+      "LOCH NESS"
+    ],
+    "human_on_gpt": 0.9047619047619049,
+    "human_on_human": 0.9761904761904762,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('CHAIR', 'MARBLE', 'JET', 'NAIL', 'RULER', 'AFRICA', 'IRON', 'EAGLE', 'CONCERT', 'DOCTOR', 'MAPLE', 'PLAY')": {
+    "words": [
+      "CHAIR",
+      "MARBLE",
+      "JET",
+      "NAIL",
+      "RULER",
+      "AFRICA",
+      "IRON",
+      "EAGLE",
+      "CONCERT",
+      "DOCTOR",
+      "MAPLE",
+      "PLAY"
+    ],
+    "human_on_gpt": 0.8571428571428571,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.9523809523809523,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('TABLET', 'MUG', 'SLUG', 'GRACE', 'STAR', 'MASS', 'ROULETTE', 'CZECH', 'CHINA', 'AUSTRALIA', 'CHECK', 'WITCH')": {
+    "words": [
+      "TABLET",
+      "MUG",
+      "SLUG",
+      "GRACE",
+      "STAR",
+      "MASS",
+      "ROULETTE",
+      "CZECH",
+      "CHINA",
+      "AUSTRALIA",
+      "CHECK",
+      "WITCH"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.7407407407407408,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('TICK', 'HEART', 'DOCTOR', 'FLY', 'TEMPLE', 'PLASTIC', 'BUTTON', 'WAR', 'NUT', 'SHOE', 'SPRING', 'FIRE')": {
+    "words": [
+      "TICK",
+      "HEART",
+      "DOCTOR",
+      "FLY",
+      "TEMPLE",
+      "PLASTIC",
+      "BUTTON",
+      "WAR",
+      "NUT",
+      "SHOE",
+      "SPRING",
+      "FIRE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7222222222222223,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.7777777777777778
+  },
+  "('DRESS', 'GREEN', 'CONTRACT', 'NOVEL', 'AGENT', 'SINK', 'TUBE', 'ROSE', 'WATER', 'ROME', 'INDIA', 'NET')": {
+    "words": [
+      "DRESS",
+      "GREEN",
+      "CONTRACT",
+      "NOVEL",
+      "AGENT",
+      "SINK",
+      "TUBE",
+      "ROSE",
+      "WATER",
+      "ROME",
+      "INDIA",
+      "NET"
+    ],
+    "human_on_gpt": 0.3333333333333333,
+    "human_on_human": 0.9333333333333332,
+    "gpt_on_gpt": 0.3333333333333333,
+    "gpt_on_human": 1.0
+  },
+  "('BERRY', 'TOKYO', 'BEAT', 'BOOM', 'PORT', 'MOUTH', 'DICE', 'SPRING', 'COMPOUND', 'CASINO', 'RING', 'PIT')": {
+    "words": [
+      "BERRY",
+      "TOKYO",
+      "BEAT",
+      "BOOM",
+      "PORT",
+      "MOUTH",
+      "DICE",
+      "SPRING",
+      "COMPOUND",
+      "CASINO",
+      "RING",
+      "PIT"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.5555555555555555,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.638888888888889
+  },
+  "('THUMB', 'APPLE', 'PLASTIC', 'PASS', 'BLOCK', 'FISH', 'LINE', 'KNIFE', 'ORGAN', 'HAWK', 'LEPRECHAUN', 'SKYSCRAPER')": {
+    "words": [
+      "THUMB",
+      "APPLE",
+      "PLASTIC",
+      "PASS",
+      "BLOCK",
+      "FISH",
+      "LINE",
+      "KNIFE",
+      "ORGAN",
+      "HAWK",
+      "LEPRECHAUN",
+      "SKYSCRAPER"
+    ],
+    "human_on_gpt": 0.5925925925925926,
+    "human_on_human": 0.8055555555555555,
+    "gpt_on_gpt": 0.9629629629629629,
+    "gpt_on_human": 0.9722222222222222
+  },
+  "('DAY', 'COPPER', 'COMPOUND', 'CONDUCTOR', 'GAS', 'COVER', 'JAM', 'ALIEN', 'LAWYER', 'GENIUS', 'SPINE', 'NEEDLE')": {
+    "words": [
+      "DAY",
+      "COPPER",
+      "COMPOUND",
+      "CONDUCTOR",
+      "GAS",
+      "COVER",
+      "JAM",
+      "ALIEN",
+      "LAWYER",
+      "GENIUS",
+      "SPINE",
+      "NEEDLE"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.8333333333333333,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('CODE', 'THIEF', 'GERMANY', 'FLUTE', 'OIL', 'MOUSE', 'SCHOOL', 'HOOD', 'WATCH', 'FAIR', 'SCORPION', 'EYE')": {
+    "words": [
+      "CODE",
+      "THIEF",
+      "GERMANY",
+      "FLUTE",
+      "OIL",
+      "MOUSE",
+      "SCHOOL",
+      "HOOD",
+      "WATCH",
+      "FAIR",
+      "SCORPION",
+      "EYE"
+    ],
+    "human_on_gpt": 0.5833333333333334,
+    "human_on_human": 0.7916666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.9583333333333333
+  },
+  "('MISSILE', 'CHOCOLATE', 'FENCE', 'CANADA', 'THUMB', 'INDIA', 'BALL', 'AMBULANCE', 'AZTEC', 'OLYMPUS', 'JUPITER', 'MARCH')": {
+    "words": [
+      "MISSILE",
+      "CHOCOLATE",
+      "FENCE",
+      "CANADA",
+      "THUMB",
+      "INDIA",
+      "BALL",
+      "AMBULANCE",
+      "AZTEC",
+      "OLYMPUS",
+      "JUPITER",
+      "MARCH"
+    ],
+    "human_on_gpt": 0.9166666666666666,
+    "human_on_human": 0.8055555555555557,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('CENTER', 'DOCTOR', 'WAR', 'REVOLUTION', 'BERLIN', 'SHOE', 'CAT', 'WITCH', 'CAR', 'CHICK', 'DEGREE', 'COVER')": {
+    "words": [
+      "CENTER",
+      "DOCTOR",
+      "WAR",
+      "REVOLUTION",
+      "BERLIN",
+      "SHOE",
+      "CAT",
+      "WITCH",
+      "CAR",
+      "CHICK",
+      "DEGREE",
+      "COVER"
+    ],
+    "human_on_gpt": 0.5999999999999999,
+    "human_on_human": 0.611111111111111,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('MISSILE', 'WASHINGTON', 'APPLE', 'SQUARE', 'BAR', 'MOSCOW', 'KNIGHT', 'FOREST', 'WATER', 'SUB', 'SPIKE', 'COTTON')": {
+    "words": [
+      "MISSILE",
+      "WASHINGTON",
+      "APPLE",
+      "SQUARE",
+      "BAR",
+      "MOSCOW",
+      "KNIGHT",
+      "FOREST",
+      "WATER",
+      "SUB",
+      "SPIKE",
+      "COTTON"
+    ],
+    "human_on_gpt": 0.9259259259259258,
+    "human_on_human": 0.8571428571428571,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('MOSCOW', 'CLIFF', 'TEMPLE', 'MERCURY', 'BAR', 'SMUGGLER', 'CAP', 'LOCK', 'MARCH', 'CHARGE', 'RULER', 'HOLLYWOOD')": {
+    "words": [
+      "MOSCOW",
+      "CLIFF",
+      "TEMPLE",
+      "MERCURY",
+      "BAR",
+      "SMUGGLER",
+      "CAP",
+      "LOCK",
+      "MARCH",
+      "CHARGE",
+      "RULER",
+      "HOLLYWOOD"
+    ],
+    "human_on_gpt": 0.4666666666666666,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('GREEN', 'BLOCK', 'SNOW', 'MISSILE', 'POLE', 'WASHINGTON', 'STRIKE', 'ATLANTIS', 'TEMPLE', 'DANCE', 'CHARGE', 'STAR')": {
+    "words": [
+      "GREEN",
+      "BLOCK",
+      "SNOW",
+      "MISSILE",
+      "POLE",
+      "WASHINGTON",
+      "STRIKE",
+      "ATLANTIS",
+      "TEMPLE",
+      "DANCE",
+      "CHARGE",
+      "STAR"
+    ],
+    "human_on_gpt": 0.7222222222222222,
+    "human_on_human": 0.9583333333333333,
+    "gpt_on_gpt": 0.7777777777777778,
+    "gpt_on_human": 0.7083333333333333
+  },
+  "('AMERICA', 'LEAD', 'PRESS', 'MAMMOTH', 'PANTS', 'PISTOL', 'HORSESHOE', 'SPACE', 'CLIFF', 'FENCE', 'DRAFT', 'PLOT')": {
+    "words": [
+      "AMERICA",
+      "LEAD",
+      "PRESS",
+      "MAMMOTH",
+      "PANTS",
+      "PISTOL",
+      "HORSESHOE",
+      "SPACE",
+      "CLIFF",
+      "FENCE",
+      "DRAFT",
+      "PLOT"
+    ],
+    "human_on_gpt": 0.8571428571428571,
+    "human_on_human": 0.7272727272727273,
+    "gpt_on_gpt": 0.7619047619047619,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('CAT', 'RING', 'APPLE', 'IRON', 'DAY', 'CODE', 'STRAW', 'GAS', 'FIELD', 'DATE', 'WATER', 'CHEST')": {
+    "words": [
+      "CAT",
+      "RING",
+      "APPLE",
+      "IRON",
+      "DAY",
+      "CODE",
+      "STRAW",
+      "GAS",
+      "FIELD",
+      "DATE",
+      "WATER",
+      "CHEST"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.5714285714285714,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('WASHER', 'CELL', 'MERCURY', 'CHINA', 'CONDUCTOR', 'COMPOUND', 'SOUND', 'RING', 'AMERICA', 'GOLD', 'FORCE', 'MOSCOW')": {
+    "words": [
+      "WASHER",
+      "CELL",
+      "MERCURY",
+      "CHINA",
+      "CONDUCTOR",
+      "COMPOUND",
+      "SOUND",
+      "RING",
+      "AMERICA",
+      "GOLD",
+      "FORCE",
+      "MOSCOW"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('SUB', 'DRESS', 'PIE', 'DECK', 'GAS', 'HAWK', 'DANCE', 'MARBLE', 'PYRAMID', 'SWITCH', 'STAR', 'SOUL')": {
+    "words": [
+      "SUB",
+      "DRESS",
+      "PIE",
+      "DECK",
+      "GAS",
+      "HAWK",
+      "DANCE",
+      "MARBLE",
+      "PYRAMID",
+      "SWITCH",
+      "STAR",
+      "SOUL"
+    ],
+    "human_on_gpt": 0.8333333333333334,
+    "human_on_human": 0.7222222222222221,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.7222222222222221
+  },
+  "('PRINCESS', 'FILM', 'CAST', 'CHICK', 'SHARK', 'BEAT', 'SOUL', 'LAP', 'NURSE', 'MOUTH', 'DISEASE', 'CHARGE')": {
+    "words": [
+      "PRINCESS",
+      "FILM",
+      "CAST",
+      "CHICK",
+      "SHARK",
+      "BEAT",
+      "SOUL",
+      "LAP",
+      "NURSE",
+      "MOUTH",
+      "DISEASE",
+      "CHARGE"
+    ],
+    "human_on_gpt": 0.7916666666666666,
+    "human_on_human": 0.9259259259259258,
+    "gpt_on_gpt": 0.7083333333333333,
+    "gpt_on_human": 1.0
+  },
+  "('CRANE', 'GENIUS', 'FOOT', 'HORSE', 'FRANCE', 'WORM', 'DIAMOND', 'BEACH', 'BOX', 'HORSESHOE', 'LAB', 'KIWI')": {
+    "words": [
+      "CRANE",
+      "GENIUS",
+      "FOOT",
+      "HORSE",
+      "FRANCE",
+      "WORM",
+      "DIAMOND",
+      "BEACH",
+      "BOX",
+      "HORSESHOE",
+      "LAB",
+      "KIWI"
+    ],
+    "human_on_gpt": 0.3333333333333333,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.39999999999999997,
+    "gpt_on_human": 0.9629629629629629
+  },
+  "('SCHOOL', 'TRUNK', 'GAS', 'PIRATE', 'PLOT', 'TAP', 'CHINA', 'TUBE', 'SPELL', 'BOX', 'GRACE', 'LONDON')": {
+    "words": [
+      "SCHOOL",
+      "TRUNK",
+      "GAS",
+      "PIRATE",
+      "PLOT",
+      "TAP",
+      "CHINA",
+      "TUBE",
+      "SPELL",
+      "BOX",
+      "GRACE",
+      "LONDON"
+    ],
+    "human_on_gpt": 0.9444444444444445,
+    "human_on_human": 0.8823529411764706,
+    "gpt_on_gpt": 0.7222222222222222,
+    "gpt_on_human": 1.0
+  },
+  "('PANTS', 'GAS', 'TABLET', 'BOX', 'PLASTIC', 'SATELLITE', 'MEXICO', 'CONDUCTOR', 'OIL', 'PLANE', 'DROP', 'SPIDER')": {
+    "words": [
+      "PANTS",
+      "GAS",
+      "TABLET",
+      "BOX",
+      "PLASTIC",
+      "SATELLITE",
+      "MEXICO",
+      "CONDUCTOR",
+      "OIL",
+      "PLANE",
+      "DROP",
+      "SPIDER"
+    ],
+    "human_on_gpt": 0.4285714285714285,
+    "human_on_human": 0.7142857142857143,
+    "gpt_on_gpt": 0.47619047619047616,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('CANADA', 'EGYPT', 'OPERA', 'STICK', 'BEACH', 'AZTEC', 'HOTEL', 'MASS', 'FIGHTER', 'STATE', 'WATCH', 'OIL')": {
+    "words": [
+      "CANADA",
+      "EGYPT",
+      "OPERA",
+      "STICK",
+      "BEACH",
+      "AZTEC",
+      "HOTEL",
+      "MASS",
+      "FIGHTER",
+      "STATE",
+      "WATCH",
+      "OIL"
+    ],
+    "human_on_gpt": 0.6944444444444445,
+    "human_on_human": 0.5833333333333334,
+    "gpt_on_gpt": 0.8333333333333334,
+    "gpt_on_human": 0.7222222222222222
+  },
+  "('PITCH', 'SQUARE', 'COURT', 'SEAL', 'SHARK', 'ENGLAND', 'VAN', 'APPLE', 'MARBLE', 'BACK', 'GRASS', 'RULER')": {
+    "words": [
+      "PITCH",
+      "SQUARE",
+      "COURT",
+      "SEAL",
+      "SHARK",
+      "ENGLAND",
+      "VAN",
+      "APPLE",
+      "MARBLE",
+      "BACK",
+      "GRASS",
+      "RULER"
+    ],
+    "human_on_gpt": 0.7619047619047619,
+    "human_on_human": 0.9166666666666666,
+    "gpt_on_gpt": 0.7142857142857143,
+    "gpt_on_human": 0.9583333333333333
+  },
+  "('THUMB', 'WASHER', 'MUG', 'SHARK', 'STICK', 'FILE', 'KID', 'FIELD', 'JUPITER', 'ROW', 'MATCH', 'ROBOT')": {
+    "words": [
+      "THUMB",
+      "WASHER",
+      "MUG",
+      "SHARK",
+      "STICK",
+      "FILE",
+      "KID",
+      "FIELD",
+      "JUPITER",
+      "ROW",
+      "MATCH",
+      "ROBOT"
+    ],
+    "human_on_gpt": 0.5333333333333333,
+    "human_on_human": 0.8484848484848484,
+    "gpt_on_gpt": 0.7999999999999999,
+    "gpt_on_human": 1.0
+  },
+  "('TICK', 'TRACK', 'REVOLUTION', 'TAP', 'KANGAROO', 'SHAKESPEARE', 'DUCK', 'GREECE', 'FAN', 'LAP', 'CONTRACT', 'SWITCH')": {
+    "words": [
+      "TICK",
+      "TRACK",
+      "REVOLUTION",
+      "TAP",
+      "KANGAROO",
+      "SHAKESPEARE",
+      "DUCK",
+      "GREECE",
+      "FAN",
+      "LAP",
+      "CONTRACT",
+      "SWITCH"
+    ],
+    "human_on_gpt": 0.2,
+    "human_on_human": 0.8095238095238094,
+    "gpt_on_gpt": 0.26666666666666666,
+    "gpt_on_human": 0.9047619047619048
+  },
+  "('MERCURY', 'SPELL', 'MISSILE', 'BOX', 'SPACE', 'PLATYPUS', 'SPIDER', 'PHOENIX', 'POST', 'ORGAN', 'DOCTOR', 'TOOTH')": {
+    "words": [
+      "MERCURY",
+      "SPELL",
+      "MISSILE",
+      "BOX",
+      "SPACE",
+      "PLATYPUS",
+      "SPIDER",
+      "PHOENIX",
+      "POST",
+      "ORGAN",
+      "DOCTOR",
+      "TOOTH"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.861111111111111,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('PLANE', 'PILOT', 'MOSCOW', 'SERVER', 'BOND', 'SCIENTIST', 'PALM', 'APPLE', 'SUPERHERO', 'GAME', 'PASS', 'ANTARCTICA')": {
+    "words": [
+      "PLANE",
+      "PILOT",
+      "MOSCOW",
+      "SERVER",
+      "BOND",
+      "SCIENTIST",
+      "PALM",
+      "APPLE",
+      "SUPERHERO",
+      "GAME",
+      "PASS",
+      "ANTARCTICA"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.9444444444444445,
+    "gpt_on_gpt": 0.8888888888888888,
+    "gpt_on_human": 1.0
+  },
+  "('TRUNK', 'CRASH', 'SOUND', 'GRACE', 'ALIEN', 'SPY', 'LITTER', 'TABLE', 'AMAZON', 'SCREEN', 'ROOT', 'SUB')": {
+    "words": [
+      "TRUNK",
+      "CRASH",
+      "SOUND",
+      "GRACE",
+      "ALIEN",
+      "SPY",
+      "LITTER",
+      "TABLE",
+      "AMAZON",
+      "SCREEN",
+      "ROOT",
+      "SUB"
+    ],
+    "human_on_gpt": 0.8888888888888888,
+    "human_on_human": 0.611111111111111,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('CARD', 'DISEASE', 'AMBULANCE', 'PIE', 'CELL', 'TEACHER', 'EYE', 'PUPIL', 'JET', 'TIME', 'POOL', 'TELESCOPE')": {
+    "words": [
+      "CARD",
+      "DISEASE",
+      "AMBULANCE",
+      "PIE",
+      "CELL",
+      "TEACHER",
+      "EYE",
+      "PUPIL",
+      "JET",
+      "TIME",
+      "POOL",
+      "TELESCOPE"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.5238095238095237,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.619047619047619
+  },
+  "('SATELLITE', 'GLOVE', 'ROW', 'FILE', 'PENGUIN', 'AMBULANCE', 'BRIDGE', 'COVER', 'STAFF', 'GREEN', 'GROUND', 'BOOM')": {
+    "words": [
+      "SATELLITE",
+      "GLOVE",
+      "ROW",
+      "FILE",
+      "PENGUIN",
+      "AMBULANCE",
+      "BRIDGE",
+      "COVER",
+      "STAFF",
+      "GREEN",
+      "GROUND",
+      "BOOM"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.6,
+    "gpt_on_gpt": 0.7333333333333332,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('FILM', 'PLASTIC', 'SPINE', 'PAN', 'DEATH', 'FIELD', 'AZTEC', 'SLUG', 'TOKYO', 'PLATE', 'BOMB', 'SUPERHERO')": {
+    "words": [
+      "FILM",
+      "PLASTIC",
+      "SPINE",
+      "PAN",
+      "DEATH",
+      "FIELD",
+      "AZTEC",
+      "SLUG",
+      "TOKYO",
+      "PLATE",
+      "BOMB",
+      "SUPERHERO"
+    ],
+    "human_on_gpt": 0.8333333333333334,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('STADIUM', 'KEY', 'SKYSCRAPER', 'DIAMOND', 'GRASS', 'PRINCESS', 'POISON', 'NURSE', 'TIE', 'GREEN', 'COTTON', 'CANADA')": {
+    "words": [
+      "STADIUM",
+      "KEY",
+      "SKYSCRAPER",
+      "DIAMOND",
+      "GRASS",
+      "PRINCESS",
+      "POISON",
+      "NURSE",
+      "TIE",
+      "GREEN",
+      "COTTON",
+      "CANADA"
+    ],
+    "human_on_gpt": 0.8095238095238094,
+    "human_on_human": 0.6,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.4
+  },
+  "('HOSPITAL', 'CODE', 'BERLIN', 'ROULETTE', 'MUG', 'SWITCH', 'ROSE', 'LONDON', 'BLOCK', 'FALL', 'BERMUDA', 'DOCTOR')": {
+    "words": [
+      "HOSPITAL",
+      "CODE",
+      "BERLIN",
+      "ROULETTE",
+      "MUG",
+      "SWITCH",
+      "ROSE",
+      "LONDON",
+      "BLOCK",
+      "FALL",
+      "BERMUDA",
+      "DOCTOR"
+    ],
+    "human_on_gpt": 0.8333333333333333,
+    "human_on_human": 0.9722222222222222,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('MUG', 'CRASH', 'CAT', 'WITCH', 'CHANGE', 'PILOT', 'FLY', 'BERMUDA', 'SQUARE', 'TIME', 'SPACE', 'MATCH')": {
+    "words": [
+      "MUG",
+      "CRASH",
+      "CAT",
+      "WITCH",
+      "CHANGE",
+      "PILOT",
+      "FLY",
+      "BERMUDA",
+      "SQUARE",
+      "TIME",
+      "SPACE",
+      "MATCH"
+    ],
+    "human_on_gpt": 0.6,
+    "human_on_human": 0.7058823529411765,
+    "gpt_on_gpt": 0.9333333333333332,
+    "gpt_on_human": 0.7254901960784313
+  },
+  "('DICE', 'ROULETTE', 'REVOLUTION', 'ARM', 'GROUND', 'PIN', 'POUND', 'POISON', 'CONCERT', 'CARROT', 'OCTOPUS', 'MOLE')": {
+    "words": [
+      "DICE",
+      "ROULETTE",
+      "REVOLUTION",
+      "ARM",
+      "GROUND",
+      "PIN",
+      "POUND",
+      "POISON",
+      "CONCERT",
+      "CARROT",
+      "OCTOPUS",
+      "MOLE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.5,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.611111111111111
+  },
+  "('MISSILE', 'EAGLE', 'DWARF', 'FORK', 'BATTERY', 'CONDUCTOR', 'COMPOUND', 'SPELL', 'SUB', 'SNOW', 'WITCH', 'DIAMOND')": {
+    "words": [
+      "MISSILE",
+      "EAGLE",
+      "DWARF",
+      "FORK",
+      "BATTERY",
+      "CONDUCTOR",
+      "COMPOUND",
+      "SPELL",
+      "SUB",
+      "SNOW",
+      "WITCH",
+      "DIAMOND"
+    ],
+    "human_on_gpt": 0.9583333333333333,
+    "human_on_human": 0.8333333333333333,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.9
+  },
+  "('CELL', 'PLANE', 'SHOE', 'CARD', 'UNICORN', 'KANGAROO', 'CAPITAL', 'AUSTRALIA', 'POLICE', 'KEY', 'CODE', 'MILLIONAIRE')": {
+    "words": [
+      "CELL",
+      "PLANE",
+      "SHOE",
+      "CARD",
+      "UNICORN",
+      "KANGAROO",
+      "CAPITAL",
+      "AUSTRALIA",
+      "POLICE",
+      "KEY",
+      "CODE",
+      "MILLIONAIRE"
+    ],
+    "human_on_gpt": 0.8666666666666666,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('HAND', 'SERVER', 'SNOWMAN', 'GAS', 'SPOT', 'HORSESHOE', 'PIE', 'BERLIN', 'CONDUCTOR', 'COLD', 'MARCH', 'WATER')": {
+    "words": [
+      "HAND",
+      "SERVER",
+      "SNOWMAN",
+      "GAS",
+      "SPOT",
+      "HORSESHOE",
+      "PIE",
+      "BERLIN",
+      "CONDUCTOR",
+      "COLD",
+      "MARCH",
+      "WATER"
+    ],
+    "human_on_gpt": 0.3333333333333333,
+    "human_on_human": 0.9166666666666665,
+    "gpt_on_gpt": 0.5833333333333333,
+    "gpt_on_human": 0.9722222222222222
+  },
+  "('OLIVE', 'ALPS', 'TELESCOPE', 'PALM', 'CONCERT', 'DECK', 'SCHOOL', 'SERVER', 'ROOT', 'BOMB', 'AFRICA', 'KIWI')": {
+    "words": [
+      "OLIVE",
+      "ALPS",
+      "TELESCOPE",
+      "PALM",
+      "CONCERT",
+      "DECK",
+      "SCHOOL",
+      "SERVER",
+      "ROOT",
+      "BOMB",
+      "AFRICA",
+      "KIWI"
+    ],
+    "human_on_gpt": 0.7999999999999999,
+    "human_on_human": 0.8055555555555555,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6944444444444445
+  },
+  "('HAM', 'ROULETTE', 'CASINO', 'FACE', 'CARD', 'BOLT', 'UNDERTAKER', 'PIE', 'BEAT', 'IRON', 'BOOT', 'DICE')": {
+    "words": [
+      "HAM",
+      "ROULETTE",
+      "CASINO",
+      "FACE",
+      "CARD",
+      "BOLT",
+      "UNDERTAKER",
+      "PIE",
+      "BEAT",
+      "IRON",
+      "BOOT",
+      "DICE"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.7777777777777778,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('BOOM', 'JAM', 'KEY', 'ORANGE', 'DISEASE', 'MAPLE', 'WAVE', 'CHICK', 'PART', 'BANK', 'TEACHER', 'KNIGHT')": {
+    "words": [
+      "BOOM",
+      "JAM",
+      "KEY",
+      "ORANGE",
+      "DISEASE",
+      "MAPLE",
+      "WAVE",
+      "CHICK",
+      "PART",
+      "BANK",
+      "TEACHER",
+      "KNIGHT"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7999999999999999,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.5
+  },
+  "('SEAL', 'SWITCH', 'FLY', 'BUCK', 'SUIT', 'LEAD', 'TOKYO', 'BANK', 'STRING', 'LOCH NESS', 'NEW YORK', 'JET')": {
+    "words": [
+      "SEAL",
+      "SWITCH",
+      "FLY",
+      "BUCK",
+      "SUIT",
+      "LEAD",
+      "TOKYO",
+      "BANK",
+      "STRING",
+      "LOCH NESS",
+      "NEW YORK",
+      "JET"
+    ],
+    "human_on_gpt": 0.7142857142857143,
+    "human_on_human": 0.8055555555555555,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.75
+  },
+  "('CLUB', 'CIRCLE', 'LION', 'HOSPITAL', 'DATE', 'TRIANGLE', 'COPPER', 'SHAKESPEARE', 'FISH', 'WAR', 'SCHOOL', 'RABBIT')": {
+    "words": [
+      "CLUB",
+      "CIRCLE",
+      "LION",
+      "HOSPITAL",
+      "DATE",
+      "TRIANGLE",
+      "COPPER",
+      "SHAKESPEARE",
+      "FISH",
+      "WAR",
+      "SCHOOL",
+      "RABBIT"
+    ],
+    "human_on_gpt": 0.8095238095238095,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.9047619047619049,
+    "gpt_on_human": 1.0
+  },
+  "('SPINE', 'CODE', 'DUCK', 'JET', 'BRIDGE', 'TOKYO', 'STAFF', 'MARCH', 'BELL', 'WALL', 'BOARD', 'SEAL')": {
+    "words": [
+      "SPINE",
+      "CODE",
+      "DUCK",
+      "JET",
+      "BRIDGE",
+      "TOKYO",
+      "STAFF",
+      "MARCH",
+      "BELL",
+      "WALL",
+      "BOARD",
+      "SEAL"
+    ],
+    "human_on_gpt": 0.7222222222222222,
+    "human_on_human": 0.8333333333333334,
+    "gpt_on_gpt": 0.9444444444444443,
+    "gpt_on_human": 0.7333333333333333
+  },
+  "('PLASTIC', 'HIMALAYAS', 'ANTARCTICA', 'DUCK', 'PUMPKIN', 'JAM', 'CRANE', 'PUPIL', 'COMIC', 'AZTEC', 'FILE', 'SPINE')": {
+    "words": [
+      "PLASTIC",
+      "HIMALAYAS",
+      "ANTARCTICA",
+      "DUCK",
+      "PUMPKIN",
+      "JAM",
+      "CRANE",
+      "PUPIL",
+      "COMIC",
+      "AZTEC",
+      "FILE",
+      "SPINE"
+    ],
+    "human_on_gpt": 0.7619047619047619,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.7142857142857143,
+    "gpt_on_human": 1.0
+  },
+  "('SHOE', 'FORK', 'PRINCESS', 'STRAW', 'JUPITER', 'EYE', 'SOCK', 'LIFE', 'TUBE', 'AMAZON', 'COVER', 'RULER')": {
+    "words": [
+      "SHOE",
+      "FORK",
+      "PRINCESS",
+      "STRAW",
+      "JUPITER",
+      "EYE",
+      "SOCK",
+      "LIFE",
+      "TUBE",
+      "AMAZON",
+      "COVER",
+      "RULER"
+    ],
+    "human_on_gpt": 0.9444444444444443,
+    "human_on_human": 0.6944444444444445,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.8055555555555554
+  },
+  "('MERCURY', 'PENGUIN', 'RAY', 'WASHINGTON', 'SATELLITE', 'MOUSE', 'PRINCESS', 'OLYMPUS', 'PANTS', 'GREEN', 'HOSPITAL', 'POST')": {
+    "words": [
+      "MERCURY",
+      "PENGUIN",
+      "RAY",
+      "WASHINGTON",
+      "SATELLITE",
+      "MOUSE",
+      "PRINCESS",
+      "OLYMPUS",
+      "PANTS",
+      "GREEN",
+      "HOSPITAL",
+      "POST"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.47619047619047616,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.3333333333333333
+  },
+  "('BEAT', 'WAKE', 'EYE', 'ROBOT', 'BOOT', 'LIGHT', 'WAVE', 'LOG', 'KID', 'VAN', 'CROWN', 'BERLIN')": {
+    "words": [
+      "BEAT",
+      "WAKE",
+      "EYE",
+      "ROBOT",
+      "BOOT",
+      "LIGHT",
+      "WAVE",
+      "LOG",
+      "KID",
+      "VAN",
+      "CROWN",
+      "BERLIN"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.8888888888888888,
+    "gpt_on_gpt": 0.8333333333333334,
+    "gpt_on_human": 0.9444444444444443
+  },
+  "('WASHER', 'CELL', 'BATTERY', 'BOARD', 'HOTEL', 'CHARGE', 'MARCH', 'PLATE', 'LIFE', 'SUIT', 'BUG', 'LEAD')": {
+    "words": [
+      "WASHER",
+      "CELL",
+      "BATTERY",
+      "BOARD",
+      "HOTEL",
+      "CHARGE",
+      "MARCH",
+      "PLATE",
+      "LIFE",
+      "SUIT",
+      "BUG",
+      "LEAD"
+    ],
+    "human_on_gpt": 0.9523809523809524,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.8095238095238094,
+    "gpt_on_human": 1.0
+  },
+  "('GHOST', 'MAMMOTH', 'LIMOUSINE', 'MINE', 'SERVER', 'ROBOT', 'DATE', 'BOMB', 'MINT', 'PRINCESS', 'HOOD', 'TABLE')": {
+    "words": [
+      "GHOST",
+      "MAMMOTH",
+      "LIMOUSINE",
+      "MINE",
+      "SERVER",
+      "ROBOT",
+      "DATE",
+      "BOMB",
+      "MINT",
+      "PRINCESS",
+      "HOOD",
+      "TABLE"
+    ],
+    "human_on_gpt": 0.5555555555555555,
+    "human_on_human": 0.9583333333333333,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('MINT', 'BANK', 'CHECK', 'LITTER', 'STADIUM', 'SPELL', 'LINK', 'WITCH', 'BOOT', 'POST', 'BACK', 'GOLD')": {
+    "words": [
+      "MINT",
+      "BANK",
+      "CHECK",
+      "LITTER",
+      "STADIUM",
+      "SPELL",
+      "LINK",
+      "WITCH",
+      "BOOT",
+      "POST",
+      "BACK",
+      "GOLD"
+    ],
+    "human_on_gpt": 0.8095238095238094,
+    "human_on_human": 0.7407407407407408,
+    "gpt_on_gpt": 0.9523809523809523,
+    "gpt_on_human": 0.7037037037037037
+  },
+  "('SATURN', 'COLD', 'HOOD', 'PLATE', 'SEAL', 'BACK', 'EUROPE', 'FAN', 'TICK', 'NEEDLE', 'PLANE', 'DEATH')": {
+    "words": [
+      "SATURN",
+      "COLD",
+      "HOOD",
+      "PLATE",
+      "SEAL",
+      "BACK",
+      "EUROPE",
+      "FAN",
+      "TICK",
+      "NEEDLE",
+      "PLANE",
+      "DEATH"
+    ],
+    "human_on_gpt": 0.5333333333333332,
+    "human_on_human": 0.8125,
+    "gpt_on_gpt": 0.7666666666666667,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('PYRAMID', 'BRIDGE', 'CHOCOLATE', 'STRIKE', 'BUTTON', 'LOCH NESS', 'BEIJING', 'PISTOL', 'PAN', 'TEMPLE', 'STOCK', 'DWARF')": {
+    "words": [
+      "PYRAMID",
+      "BRIDGE",
+      "CHOCOLATE",
+      "STRIKE",
+      "BUTTON",
+      "LOCH NESS",
+      "BEIJING",
+      "PISTOL",
+      "PAN",
+      "TEMPLE",
+      "STOCK",
+      "DWARF"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.9523809523809523,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('PLASTIC', 'NOVEL', 'BUFFALO', 'TRIANGLE', 'TRUNK', 'RACKET', 'FISH', 'WATCH', 'SUB', 'EAGLE', 'ALIEN', 'HORSE')": {
+    "words": [
+      "PLASTIC",
+      "NOVEL",
+      "BUFFALO",
+      "TRIANGLE",
+      "TRUNK",
+      "RACKET",
+      "FISH",
+      "WATCH",
+      "SUB",
+      "EAGLE",
+      "ALIEN",
+      "HORSE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.9,
+    "gpt_on_gpt": 0.7083333333333333,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('GERMANY', 'FAN', 'DOG', 'DICE', 'MAPLE', 'SHAKESPEARE', 'PHOENIX', 'BARK', 'JET', 'WATCH', 'PIE', 'ORGAN')": {
+    "words": [
+      "GERMANY",
+      "FAN",
+      "DOG",
+      "DICE",
+      "MAPLE",
+      "SHAKESPEARE",
+      "PHOENIX",
+      "BARK",
+      "JET",
+      "WATCH",
+      "PIE",
+      "ORGAN"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('WITCH', 'TOOTH', 'BOND', 'SWITCH', 'WELL', 'DISEASE', 'TRIANGLE', 'DIAMOND', 'SPOT', 'LIGHT', 'CHOCOLATE', 'TAG')": {
+    "words": [
+      "WITCH",
+      "TOOTH",
+      "BOND",
+      "SWITCH",
+      "WELL",
+      "DISEASE",
+      "TRIANGLE",
+      "DIAMOND",
+      "SPOT",
+      "LIGHT",
+      "CHOCOLATE",
+      "TAG"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.738095238095238,
+    "gpt_on_gpt": 0.875,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('TOOTH', 'NEW YORK', 'COURT', 'WEB', 'PYRAMID', 'EMBASSY', 'DINOSAUR', 'RABBIT', 'ALPS', 'DOG', 'SHIP', 'HEAD')": {
+    "words": [
+      "TOOTH",
+      "NEW YORK",
+      "COURT",
+      "WEB",
+      "PYRAMID",
+      "EMBASSY",
+      "DINOSAUR",
+      "RABBIT",
+      "ALPS",
+      "DOG",
+      "SHIP",
+      "HEAD"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.8888888888888887,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('NEW YORK', 'SNOWMAN', 'ROBIN', 'POOL', 'STRING', 'IVORY', 'FACE', 'WHALE', 'FOOT', 'MOSCOW', 'DUCK', 'PARK')": {
+    "words": [
+      "NEW YORK",
+      "SNOWMAN",
+      "ROBIN",
+      "POOL",
+      "STRING",
+      "IVORY",
+      "FACE",
+      "WHALE",
+      "FOOT",
+      "MOSCOW",
+      "DUCK",
+      "PARK"
+    ],
+    "human_on_gpt": 0.9444444444444443,
+    "human_on_human": 0.6410256410256411,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('PIANO', 'CHINA', 'TRAIN', 'SHAKESPEARE', 'CAT', 'SCUBA DIVER', 'ROW', 'TIME', 'THEATER', 'HAWK', 'ENGINE', 'BOX')": {
+    "words": [
+      "PIANO",
+      "CHINA",
+      "TRAIN",
+      "SHAKESPEARE",
+      "CAT",
+      "SCUBA DIVER",
+      "ROW",
+      "TIME",
+      "THEATER",
+      "HAWK",
+      "ENGINE",
+      "BOX"
+    ],
+    "human_on_gpt": 0.8333333333333334,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('MODEL', 'HAM', 'SPIKE', 'CROWN', 'BANK', 'PLOT', 'TOOTH', 'STOCK', 'HELICOPTER', 'SHADOW', 'CLUB', 'AFRICA')": {
+    "words": [
+      "MODEL",
+      "HAM",
+      "SPIKE",
+      "CROWN",
+      "BANK",
+      "PLOT",
+      "TOOTH",
+      "STOCK",
+      "HELICOPTER",
+      "SHADOW",
+      "CLUB",
+      "AFRICA"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.619047619047619,
+    "gpt_on_gpt": 0.7333333333333332,
+    "gpt_on_human": 0.4285714285714285
+  },
+  "('DOCTOR', 'MAMMOTH', 'ANGEL', 'LIMOUSINE', 'OLYMPUS', 'SPIDER', 'TURKEY', 'SPACE', 'BOLT', 'DISEASE', 'LUCK', 'TRIP')": {
+    "words": [
+      "DOCTOR",
+      "MAMMOTH",
+      "ANGEL",
+      "LIMOUSINE",
+      "OLYMPUS",
+      "SPIDER",
+      "TURKEY",
+      "SPACE",
+      "BOLT",
+      "DISEASE",
+      "LUCK",
+      "TRIP"
+    ],
+    "human_on_gpt": 0.9166666666666666,
+    "human_on_human": 0.5555555555555556,
+    "gpt_on_gpt": 0.8333333333333333,
+    "gpt_on_human": 0.3703703703703704
+  },
+  "('KING', 'MARCH', 'ATLANTIS', 'EMBASSY', 'CAPITAL', 'ENGLAND', 'BOMB', 'PART', 'LIGHT', 'GLOVE', 'PIT', 'KETCHUP')": {
+    "words": [
+      "KING",
+      "MARCH",
+      "ATLANTIS",
+      "EMBASSY",
+      "CAPITAL",
+      "ENGLAND",
+      "BOMB",
+      "PART",
+      "LIGHT",
+      "GLOVE",
+      "PIT",
+      "KETCHUP"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7948717948717946,
+    "gpt_on_gpt": 0.8888888888888888,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('TIME', 'HOTEL', 'JACK', 'ROOT', 'RABBIT', 'FIRE', 'POST', 'DEGREE', 'ENGLAND', 'SHOT', 'MUG', 'CONDUCTOR')": {
+    "words": [
+      "TIME",
+      "HOTEL",
+      "JACK",
+      "ROOT",
+      "RABBIT",
+      "FIRE",
+      "POST",
+      "DEGREE",
+      "ENGLAND",
+      "SHOT",
+      "MUG",
+      "CONDUCTOR"
+    ],
+    "human_on_gpt": 0.39999999999999997,
+    "human_on_human": 0.7916666666666666,
+    "gpt_on_gpt": 0.5999999999999999,
+    "gpt_on_human": 0.9583333333333333
+  },
+  "('COMIC', 'OLYMPUS', 'THIEF', 'ICE', 'CRICKET', 'SCALE', 'NIGHT', 'WASHINGTON', 'PISTOL', 'INDIA', 'CHAIR', 'BATTERY')": {
+    "words": [
+      "COMIC",
+      "OLYMPUS",
+      "THIEF",
+      "ICE",
+      "CRICKET",
+      "SCALE",
+      "NIGHT",
+      "WASHINGTON",
+      "PISTOL",
+      "INDIA",
+      "CHAIR",
+      "BATTERY"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.4242424242424242,
+    "gpt_on_gpt": 0.8666666666666666,
+    "gpt_on_human": 0.33333333333333337
+  },
+  "('HELICOPTER', 'GERMANY', 'NOVEL', 'SPOT', 'OCTOPUS', 'FOREST', 'LONDON', 'PARACHUTE', 'WHALE', 'SOUL', 'YARD', 'SPACE')": {
+    "words": [
+      "HELICOPTER",
+      "GERMANY",
+      "NOVEL",
+      "SPOT",
+      "OCTOPUS",
+      "FOREST",
+      "LONDON",
+      "PARACHUTE",
+      "WHALE",
+      "SOUL",
+      "YARD",
+      "SPACE"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.7222222222222222,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.7222222222222222
+  },
+  "('ARM', 'DECK', 'PARACHUTE', 'MOUTH', 'CAT', 'LAB', 'STRAW', 'SOUL', 'BALL', 'MATCH', 'GROUND', 'DRILL')": {
+    "words": [
+      "ARM",
+      "DECK",
+      "PARACHUTE",
+      "MOUTH",
+      "CAT",
+      "LAB",
+      "STRAW",
+      "SOUL",
+      "BALL",
+      "MATCH",
+      "GROUND",
+      "DRILL"
+    ],
+    "human_on_gpt": 0.5999999999999999,
+    "human_on_human": 0.7619047619047619,
+    "gpt_on_gpt": 0.7333333333333332,
+    "gpt_on_human": 1.0
+  },
+  "('HOSPITAL', 'SHOE', 'SPOT', 'CRASH', 'CALF', 'DINOSAUR', 'GREECE', 'MILLIONAIRE', 'CLOAK', 'ROW', 'PAPER', 'HAWK')": {
+    "words": [
+      "HOSPITAL",
+      "SHOE",
+      "SPOT",
+      "CRASH",
+      "CALF",
+      "DINOSAUR",
+      "GREECE",
+      "MILLIONAIRE",
+      "CLOAK",
+      "ROW",
+      "PAPER",
+      "HAWK"
+    ],
+    "human_on_gpt": 0.8,
+    "human_on_human": 0.8888888888888888,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('POST', 'CHICK', 'CAP', 'PISTOL', 'GREECE', 'STAFF', 'GLASS', 'HOSPITAL', 'BUTTON', 'GAME', 'FOOT', 'PLATE')": {
+    "words": [
+      "POST",
+      "CHICK",
+      "CAP",
+      "PISTOL",
+      "GREECE",
+      "STAFF",
+      "GLASS",
+      "HOSPITAL",
+      "BUTTON",
+      "GAME",
+      "FOOT",
+      "PLATE"
+    ],
+    "human_on_gpt": 0.5833333333333333,
+    "human_on_human": 0.6944444444444445,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('PIT', 'SWITCH', 'FILM', 'EGYPT', 'REVOLUTION', 'SERVER', 'WELL', 'BEAT', 'HIMALAYAS', 'HEART', 'IRON', 'SATURN')": {
+    "words": [
+      "PIT",
+      "SWITCH",
+      "FILM",
+      "EGYPT",
+      "REVOLUTION",
+      "SERVER",
+      "WELL",
+      "BEAT",
+      "HIMALAYAS",
+      "HEART",
+      "IRON",
+      "SATURN"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8666666666666666,
+    "gpt_on_gpt": 0.9523809523809523,
+    "gpt_on_human": 1.0
+  },
+  "('AGENT', 'HAWK', 'DISEASE', 'CHINA', 'LION', 'EMBASSY', 'DRAGON', 'SNOW', 'MOON', 'PIRATE', 'TIME', 'PART')": {
+    "words": [
+      "AGENT",
+      "HAWK",
+      "DISEASE",
+      "CHINA",
+      "LION",
+      "EMBASSY",
+      "DRAGON",
+      "SNOW",
+      "MOON",
+      "PIRATE",
+      "TIME",
+      "PART"
+    ],
+    "human_on_gpt": 0.39999999999999997,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.3333333333333333,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('AUSTRALIA', 'SKYSCRAPER', 'CRANE', 'REVOLUTION', 'CHOCOLATE', 'MAPLE', 'RACKET', 'TRUNK', 'MOSCOW', 'DRILL', 'QUEEN', 'GERMANY')": {
+    "words": [
+      "AUSTRALIA",
+      "SKYSCRAPER",
+      "CRANE",
+      "REVOLUTION",
+      "CHOCOLATE",
+      "MAPLE",
+      "RACKET",
+      "TRUNK",
+      "MOSCOW",
+      "DRILL",
+      "QUEEN",
+      "GERMANY"
+    ],
+    "human_on_gpt": 0.7999999999999999,
+    "human_on_human": 0.8333333333333331,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('ALIEN', 'TUBE', 'OPERA', 'AMBULANCE', 'STRIKE', 'EMBASSY', 'SQUARE', 'WATER', 'PUPIL', 'KNIFE', 'EGYPT', 'COPPER')": {
+    "words": [
+      "ALIEN",
+      "TUBE",
+      "OPERA",
+      "AMBULANCE",
+      "STRIKE",
+      "EMBASSY",
+      "SQUARE",
+      "WATER",
+      "PUPIL",
+      "KNIFE",
+      "EGYPT",
+      "COPPER"
+    ],
+    "human_on_gpt": 0.5333333333333333,
+    "human_on_human": 0.9047619047619048,
+    "gpt_on_gpt": 0.5999999999999999,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('LEPRECHAUN', 'SHOP', 'BARK', 'STICK', 'NINJA', 'STAR', 'KETCHUP', 'PASS', 'SPOT', 'DICE', 'BAR', 'DECK')": {
+    "words": [
+      "LEPRECHAUN",
+      "SHOP",
+      "BARK",
+      "STICK",
+      "NINJA",
+      "STAR",
+      "KETCHUP",
+      "PASS",
+      "SPOT",
+      "DICE",
+      "BAR",
+      "DECK"
+    ],
+    "human_on_gpt": 0.9047619047619048,
+    "human_on_human": 0.9583333333333333,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('GAME', 'BOMB', 'BARK', 'BAR', 'AUSTRALIA', 'MEXICO', 'TRACK', 'UNICORN', 'SPIKE', 'LOCH NESS', 'HOLLYWOOD', 'DOCTOR')": {
+    "words": [
+      "GAME",
+      "BOMB",
+      "BARK",
+      "BAR",
+      "AUSTRALIA",
+      "MEXICO",
+      "TRACK",
+      "UNICORN",
+      "SPIKE",
+      "LOCH NESS",
+      "HOLLYWOOD",
+      "DOCTOR"
+    ],
+    "human_on_gpt": 0.75,
+    "human_on_human": 0.9761904761904762,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('SPOT', 'CASINO', 'AMERICA', 'TELESCOPE', 'VET', 'CHANGE', 'CHECK', 'WATER', 'COPPER', 'STAR', 'AIR', 'HAWK')": {
+    "words": [
+      "SPOT",
+      "CASINO",
+      "AMERICA",
+      "TELESCOPE",
+      "VET",
+      "CHANGE",
+      "CHECK",
+      "WATER",
+      "COPPER",
+      "STAR",
+      "AIR",
+      "HAWK"
+    ],
+    "human_on_gpt": 0.8333333333333333,
+    "human_on_human": 0.7083333333333333,
+    "gpt_on_gpt": 0.8333333333333333,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('HAWK', 'STICK', 'ROSE', 'FILE', 'POLE', 'KANGAROO', 'MINE', 'AUSTRALIA', 'DAY', 'COOK', 'SOUL', 'APPLE')": {
+    "words": [
+      "HAWK",
+      "STICK",
+      "ROSE",
+      "FILE",
+      "POLE",
+      "KANGAROO",
+      "MINE",
+      "AUSTRALIA",
+      "DAY",
+      "COOK",
+      "SOUL",
+      "APPLE"
+    ],
+    "human_on_gpt": 0.3333333333333333,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.8,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('ROBIN', 'COLD', 'COVER', 'BOOT', 'CIRCLE', 'THUMB', 'FIRE', 'BAR', 'SPIKE', 'SPINE', 'SCREEN', 'PHOENIX')": {
+    "words": [
+      "ROBIN",
+      "COLD",
+      "COVER",
+      "BOOT",
+      "CIRCLE",
+      "THUMB",
+      "FIRE",
+      "BAR",
+      "SPIKE",
+      "SPINE",
+      "SCREEN",
+      "PHOENIX"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.5555555555555556,
+    "gpt_on_gpt": 0.7222222222222222,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('ROSE', 'PARK', 'WAR', 'BILL', 'CAT', 'BOOM', 'JACK', 'GAME', 'NOTE', 'BEAT', 'CASINO', 'NIGHT')": {
+    "words": [
+      "ROSE",
+      "PARK",
+      "WAR",
+      "BILL",
+      "CAT",
+      "BOOM",
+      "JACK",
+      "GAME",
+      "NOTE",
+      "BEAT",
+      "CASINO",
+      "NIGHT"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.6666666666666667,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('NINJA', 'DEATH', 'HONEY', 'BEAT', 'ENGINE', 'DRAFT', 'DOCTOR', 'COPPER', 'CHECK', 'TABLE', 'WATCH', 'PALM')": {
+    "words": [
+      "NINJA",
+      "DEATH",
+      "HONEY",
+      "BEAT",
+      "ENGINE",
+      "DRAFT",
+      "DOCTOR",
+      "COPPER",
+      "CHECK",
+      "TABLE",
+      "WATCH",
+      "PALM"
+    ],
+    "human_on_gpt": 0.5925925925925926,
+    "human_on_human": 0.4761904761904762,
+    "gpt_on_gpt": 0.5555555555555556,
+    "gpt_on_human": 1.0
+  },
+  "('POLICE', 'SCIENTIST', 'BUG', 'OCTOPUS', 'PALM', 'SPOT', 'JAM', 'SMUGGLER', 'CALF', 'PILOT', 'SHOT', 'LONDON')": {
+    "words": [
+      "POLICE",
+      "SCIENTIST",
+      "BUG",
+      "OCTOPUS",
+      "PALM",
+      "SPOT",
+      "JAM",
+      "SMUGGLER",
+      "CALF",
+      "PILOT",
+      "SHOT",
+      "LONDON"
+    ],
+    "human_on_gpt": 0.9333333333333332,
+    "human_on_human": 0.9333333333333332,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('CELL', 'SPIDER', 'THUMB', 'CAT', 'YARD', 'GAS', 'ARM', 'CAP', 'CROWN', 'AFRICA', 'PHOENIX', 'SCORPION')": {
+    "words": [
+      "CELL",
+      "SPIDER",
+      "THUMB",
+      "CAT",
+      "YARD",
+      "GAS",
+      "ARM",
+      "CAP",
+      "CROWN",
+      "AFRICA",
+      "PHOENIX",
+      "SCORPION"
+    ],
+    "human_on_gpt": 0.8333333333333334,
+    "human_on_human": 0.9,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('NOVEL', 'TAP', 'STREAM', 'BOOT', 'PYRAMID', 'JUPITER', 'PENGUIN', 'KID', 'CYCLE', 'ICE CREAM', 'CONTRACT', 'NINJA')": {
+    "words": [
+      "NOVEL",
+      "TAP",
+      "STREAM",
+      "BOOT",
+      "PYRAMID",
+      "JUPITER",
+      "PENGUIN",
+      "KID",
+      "CYCLE",
+      "ICE CREAM",
+      "CONTRACT",
+      "NINJA"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7380952380952381,
+    "gpt_on_gpt": 0.9583333333333333,
+    "gpt_on_human": 0.3571428571428571
+  },
+  "('BELL', 'TAIL', 'MAIL', 'COURT', 'CHURCH', 'ROME', 'BUGLE', 'SOUL', 'MARBLE', 'BUG', 'UNICORN', 'ROSE')": {
+    "words": [
+      "BELL",
+      "TAIL",
+      "MAIL",
+      "COURT",
+      "CHURCH",
+      "ROME",
+      "BUGLE",
+      "SOUL",
+      "MARBLE",
+      "BUG",
+      "UNICORN",
+      "ROSE"
+    ],
+    "human_on_gpt": 0.619047619047619,
+    "human_on_human": 0.7142857142857143,
+    "gpt_on_gpt": 0.9523809523809523,
+    "gpt_on_human": 0.38095238095238093
+  },
+  "('DANCE', 'OLIVE', 'VACUUM', 'LIFE', 'UNDERTAKER', 'KNIFE', 'ATLANTIS', 'PIPE', 'LEPRECHAUN', 'JAM', 'JACK', 'GREECE')": {
+    "words": [
+      "DANCE",
+      "OLIVE",
+      "VACUUM",
+      "LIFE",
+      "UNDERTAKER",
+      "KNIFE",
+      "ATLANTIS",
+      "PIPE",
+      "LEPRECHAUN",
+      "JAM",
+      "JACK",
+      "GREECE"
+    ],
+    "human_on_gpt": 0.5555555555555555,
+    "human_on_human": 0.9583333333333333,
+    "gpt_on_gpt": 0.7777777777777777,
+    "gpt_on_human": 1.0
+  },
+  "('SPINE', 'POUND', 'SOUND', 'BOOM', 'MOLE', 'WAKE', 'BRUSH', 'HORSE', 'OIL', 'PUMPKIN', 'TABLET', 'PISTOL')": {
+    "words": [
+      "SPINE",
+      "POUND",
+      "SOUND",
+      "BOOM",
+      "MOLE",
+      "WAKE",
+      "BRUSH",
+      "HORSE",
+      "OIL",
+      "PUMPKIN",
+      "TABLET",
+      "PISTOL"
+    ],
+    "human_on_gpt": 0.7999999999999999,
+    "human_on_human": 0.7037037037037037,
+    "gpt_on_gpt": 0.7333333333333332,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('VACUUM', 'MASS', 'TRUNK', 'WORM', 'SOCK', 'HOSPITAL', 'PYRAMID', 'WATER', 'UNICORN', 'CIRCLE', 'COURT', 'BUFFALO')": {
+    "words": [
+      "VACUUM",
+      "MASS",
+      "TRUNK",
+      "WORM",
+      "SOCK",
+      "HOSPITAL",
+      "PYRAMID",
+      "WATER",
+      "UNICORN",
+      "CIRCLE",
+      "COURT",
+      "BUFFALO"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.6363636363636364,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('BUCK', 'COLD', 'OPERA', 'TIME', 'PAPER', 'NEEDLE', 'MOLE', 'MAPLE', 'HAM', 'LUCK', 'CIRCLE', 'CHANGE')": {
+    "words": [
+      "BUCK",
+      "COLD",
+      "OPERA",
+      "TIME",
+      "PAPER",
+      "NEEDLE",
+      "MOLE",
+      "MAPLE",
+      "HAM",
+      "LUCK",
+      "CIRCLE",
+      "CHANGE"
+    ],
+    "human_on_gpt": 0.4,
+    "human_on_human": 0.5151515151515151,
+    "gpt_on_gpt": 0.4,
+    "gpt_on_human": 0.36363636363636365
+  },
+  "('PILOT', 'JACK', 'BERMUDA', 'BOTTLE', 'PRESS', 'SPY', 'STRIKE', 'KETCHUP', 'HIMALAYAS', 'AMERICA', 'BRUSH', 'GLOVE')": {
+    "words": [
+      "PILOT",
+      "JACK",
+      "BERMUDA",
+      "BOTTLE",
+      "PRESS",
+      "SPY",
+      "STRIKE",
+      "KETCHUP",
+      "HIMALAYAS",
+      "AMERICA",
+      "BRUSH",
+      "GLOVE"
+    ],
+    "human_on_gpt": 0.0,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.0,
+    "gpt_on_human": 1.0
+  },
+  "('SPOT', 'OPERA', 'BRUSH', 'PLASTIC', 'FACE', 'CRICKET', 'GRASS', 'CLIFF', 'HOOK', 'ORGAN', 'FAN', 'SPRING')": {
+    "words": [
+      "SPOT",
+      "OPERA",
+      "BRUSH",
+      "PLASTIC",
+      "FACE",
+      "CRICKET",
+      "GRASS",
+      "CLIFF",
+      "HOOK",
+      "ORGAN",
+      "FAN",
+      "SPRING"
+    ],
+    "human_on_gpt": 0.5555555555555555,
+    "human_on_human": 0.75,
+    "gpt_on_gpt": 0.8333333333333334,
+    "gpt_on_human": 0.9583333333333333
+  },
+  "('CLUB', 'DROP', 'DIAMOND', 'LINE', 'DWARF', 'AIR', 'DICE', 'ROBIN', 'MOSCOW', 'STADIUM', 'SOUL', 'LOG')": {
+    "words": [
+      "CLUB",
+      "DROP",
+      "DIAMOND",
+      "LINE",
+      "DWARF",
+      "AIR",
+      "DICE",
+      "ROBIN",
+      "MOSCOW",
+      "STADIUM",
+      "SOUL",
+      "LOG"
+    ],
+    "human_on_gpt": 0.6666666666666667,
+    "human_on_human": 0.47916666666666663,
+    "gpt_on_gpt": 0.7142857142857143,
+    "gpt_on_human": 0.35416666666666663
+  },
+  "('PLATYPUS', 'WAR', 'BOND', 'ANGEL', 'SPACE', 'GIANT', 'BALL', 'STRING', 'WEB', 'DRESS', 'COPPER', 'BEAT')": {
+    "words": [
+      "PLATYPUS",
+      "WAR",
+      "BOND",
+      "ANGEL",
+      "SPACE",
+      "GIANT",
+      "BALL",
+      "STRING",
+      "WEB",
+      "DRESS",
+      "COPPER",
+      "BEAT"
+    ],
+    "human_on_gpt": 0.7407407407407408,
+    "human_on_human": 0.9629629629629629,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('NURSE', 'MUG', 'HAM', 'BOARD', 'MOUNT', 'QUEEN', 'CZECH', 'VET', 'BOLT', 'WATER', 'GOLD', 'SLIP')": {
+    "words": [
+      "NURSE",
+      "MUG",
+      "HAM",
+      "BOARD",
+      "MOUNT",
+      "QUEEN",
+      "CZECH",
+      "VET",
+      "BOLT",
+      "WATER",
+      "GOLD",
+      "SLIP"
+    ],
+    "human_on_gpt": 0.9166666666666666,
+    "human_on_human": 0.7916666666666666,
+    "gpt_on_gpt": 0.7499999999999999,
+    "gpt_on_human": 0.7083333333333333
+  },
+  "('REVOLUTION', 'RACKET', 'ORANGE', 'GROUND', 'AFRICA', 'STRING', 'FILM', 'SATELLITE', 'CLUB', 'ROBOT', 'SPACE', 'PILOT')": {
+    "words": [
+      "REVOLUTION",
+      "RACKET",
+      "ORANGE",
+      "GROUND",
+      "AFRICA",
+      "STRING",
+      "FILM",
+      "SATELLITE",
+      "CLUB",
+      "ROBOT",
+      "SPACE",
+      "PILOT"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8148148148148148,
+    "gpt_on_gpt": 0.8333333333333333,
+    "gpt_on_human": 0.9629629629629629
+  },
+  "('TRUNK', 'CRICKET', 'EUROPE', 'TURKEY', 'GENIUS', 'CODE', 'TRIP', 'LASER', 'SEAL', 'CHAIR', 'EGYPT', 'LONDON')": {
+    "words": [
+      "TRUNK",
+      "CRICKET",
+      "EUROPE",
+      "TURKEY",
+      "GENIUS",
+      "CODE",
+      "TRIP",
+      "LASER",
+      "SEAL",
+      "CHAIR",
+      "EGYPT",
+      "LONDON"
+    ],
+    "human_on_gpt": 0.8333333333333333,
+    "human_on_human": 0.8518518518518517,
+    "gpt_on_gpt": 0.9166666666666666,
+    "gpt_on_human": 0.7037037037037037
+  },
+  "('LAB', 'KID', 'LOCH NESS', 'CODE', 'FAIR', 'SHOE', 'GREEN', 'NOVEL', 'WIND', 'GENIUS', 'HONEY', 'LOCK')": {
+    "words": [
+      "LAB",
+      "KID",
+      "LOCH NESS",
+      "CODE",
+      "FAIR",
+      "SHOE",
+      "GREEN",
+      "NOVEL",
+      "WIND",
+      "GENIUS",
+      "HONEY",
+      "LOCK"
+    ],
+    "human_on_gpt": 0.75,
+    "human_on_human": 0.8666666666666666,
+    "gpt_on_gpt": 0.8333333333333333,
+    "gpt_on_human": 1.0
+  },
+  "('MAIL', 'BLOCK', 'LIMOUSINE', 'CHURCH', 'KID', 'IVORY', 'SPY', 'BUCK', 'HEART', 'ROCK', 'PIE', 'CONTRACT')": {
+    "words": [
+      "MAIL",
+      "BLOCK",
+      "LIMOUSINE",
+      "CHURCH",
+      "KID",
+      "IVORY",
+      "SPY",
+      "BUCK",
+      "HEART",
+      "ROCK",
+      "PIE",
+      "CONTRACT"
+    ],
+    "human_on_gpt": 0.7619047619047619,
+    "human_on_human": 0.7916666666666666,
+    "gpt_on_gpt": 0.7142857142857143,
+    "gpt_on_human": 0.6458333333333333
+  },
+  "('JUPITER', 'VAN', 'CAR', 'FRANCE', 'KNIGHT', 'COURT', 'BELL', 'MUG', 'LAP', 'POST', 'TAP', 'RAY')": {
+    "words": [
+      "JUPITER",
+      "VAN",
+      "CAR",
+      "FRANCE",
+      "KNIGHT",
+      "COURT",
+      "BELL",
+      "MUG",
+      "LAP",
+      "POST",
+      "TAP",
+      "RAY"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7272727272727273,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.9696969696969696
+  },
+  "('TAG', 'LEPRECHAUN', 'BUG', 'SOCK', 'CAPITAL', 'SHOE', 'SPELL', 'ENGINE', 'CHANGE', 'PLASTIC', 'ATLANTIS', 'JAM')": {
+    "words": [
+      "TAG",
+      "LEPRECHAUN",
+      "BUG",
+      "SOCK",
+      "CAPITAL",
+      "SHOE",
+      "SPELL",
+      "ENGINE",
+      "CHANGE",
+      "PLASTIC",
+      "ATLANTIS",
+      "JAM"
+    ],
+    "human_on_gpt": 0.8571428571428571,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.7142857142857143,
+    "gpt_on_human": 1.0
+  },
+  "('WAKE', 'FORCE', 'PASS', 'SINK', 'NUT', 'CIRCLE', 'BOMB', 'PIT', 'POLE', 'COVER', 'LIMOUSINE', 'FISH')": {
+    "words": [
+      "WAKE",
+      "FORCE",
+      "PASS",
+      "SINK",
+      "NUT",
+      "CIRCLE",
+      "BOMB",
+      "PIT",
+      "POLE",
+      "COVER",
+      "LIMOUSINE",
+      "FISH"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.9444444444444443,
+    "gpt_on_gpt": 0.9166666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('EUROPE', 'BARK', 'JUPITER', 'COTTON', 'LINK', 'MINT', 'TOWER', 'TRIP', 'TICK', 'SHOE', 'HORSE', 'ORGAN')": {
+    "words": [
+      "EUROPE",
+      "BARK",
+      "JUPITER",
+      "COTTON",
+      "LINK",
+      "MINT",
+      "TOWER",
+      "TRIP",
+      "TICK",
+      "SHOE",
+      "HORSE",
+      "ORGAN"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7254901960784315,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.7450980392156863
+  },
+  "('AGENT', 'JET', 'CONCERT', 'GLOVE', 'WHIP', 'ANGEL', 'NINJA', 'BOLT', 'HOTEL', 'DANCE', 'ROCK', 'BOND')": {
+    "words": [
+      "AGENT",
+      "JET",
+      "CONCERT",
+      "GLOVE",
+      "WHIP",
+      "ANGEL",
+      "NINJA",
+      "BOLT",
+      "HOTEL",
+      "DANCE",
+      "ROCK",
+      "BOND"
+    ],
+    "human_on_gpt": 0.8571428571428571,
+    "human_on_human": 0.9259259259259258,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.9629629629629629
+  },
+  "('DATE', 'PISTOL', 'MUG', 'DICE', 'STAR', 'HOOD', 'POOL', 'PALM', 'TOKYO', 'GREECE', 'CODE', 'HEAD')": {
+    "words": [
+      "DATE",
+      "PISTOL",
+      "MUG",
+      "DICE",
+      "STAR",
+      "HOOD",
+      "POOL",
+      "PALM",
+      "TOKYO",
+      "GREECE",
+      "CODE",
+      "HEAD"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7222222222222222,
+    "gpt_on_gpt": 0.7777777777777777,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('JUPITER', 'LAP', 'COURT', 'OIL', 'STAR', 'BAND', 'STADIUM', 'FIELD', 'PITCH', 'SPACE', 'RAY', 'BOLT')": {
+    "words": [
+      "JUPITER",
+      "LAP",
+      "COURT",
+      "OIL",
+      "STAR",
+      "BAND",
+      "STADIUM",
+      "FIELD",
+      "PITCH",
+      "SPACE",
+      "RAY",
+      "BOLT"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.7083333333333333
+  },
+  "('PASTE', 'SOUL', 'WHIP', 'SCREEN', 'PIE', 'CYCLE', 'TIE', 'ICE CREAM', 'SNOW', 'HEART', 'CELL', 'UNDERTAKER')": {
+    "words": [
+      "PASTE",
+      "SOUL",
+      "WHIP",
+      "SCREEN",
+      "PIE",
+      "CYCLE",
+      "TIE",
+      "ICE CREAM",
+      "SNOW",
+      "HEART",
+      "CELL",
+      "UNDERTAKER"
+    ],
+    "human_on_gpt": 0.619047619047619,
+    "human_on_human": 0.8888888888888888,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('TIE', 'PISTOL', 'MAPLE', 'DANCE', 'SPY', 'BLOCK', 'RABBIT', 'EGYPT', 'REVOLUTION', 'PLOT', 'SOCK', 'PUPIL')": {
+    "words": [
+      "TIE",
+      "PISTOL",
+      "MAPLE",
+      "DANCE",
+      "SPY",
+      "BLOCK",
+      "RABBIT",
+      "EGYPT",
+      "REVOLUTION",
+      "PLOT",
+      "SOCK",
+      "PUPIL"
+    ],
+    "human_on_gpt": 0.9166666666666666,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.7499999999999999,
+    "gpt_on_human": 1.0
+  },
+  "('TICK', 'MISSILE', 'SCREEN', 'CHECK', 'TOKYO', 'JUPITER', 'EMBASSY', 'PLATYPUS', 'FOREST', 'JAM', 'SERVER', 'SPELL')": {
+    "words": [
+      "TICK",
+      "MISSILE",
+      "SCREEN",
+      "CHECK",
+      "TOKYO",
+      "JUPITER",
+      "EMBASSY",
+      "PLATYPUS",
+      "FOREST",
+      "JAM",
+      "SERVER",
+      "SPELL"
+    ],
+    "human_on_gpt": 0.875,
+    "human_on_human": 0.6333333333333333,
+    "gpt_on_gpt": 0.7083333333333333,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('GAME', 'OLYMPUS', 'WEB', 'PUMPKIN', 'SLUG', 'LAP', 'CONCERT', 'STREAM', 'SPIKE', 'NUT', 'MUG', 'SUB')": {
+    "words": [
+      "GAME",
+      "OLYMPUS",
+      "WEB",
+      "PUMPKIN",
+      "SLUG",
+      "LAP",
+      "CONCERT",
+      "STREAM",
+      "SPIKE",
+      "NUT",
+      "MUG",
+      "SUB"
+    ],
+    "human_on_gpt": 0.619047619047619,
+    "human_on_human": 0.911111111111111,
+    "gpt_on_gpt": 0.9523809523809523,
+    "gpt_on_human": 0.711111111111111
+  },
+  "('STRAW', 'APPLE', 'ARM', 'BEAR', 'DECK', 'POLE', 'VACUUM', 'KIWI', 'POINT', 'HOOK', 'NOTE', 'DIAMOND')": {
+    "words": [
+      "STRAW",
+      "APPLE",
+      "ARM",
+      "BEAR",
+      "DECK",
+      "POLE",
+      "VACUUM",
+      "KIWI",
+      "POINT",
+      "HOOK",
+      "NOTE",
+      "DIAMOND"
+    ],
+    "human_on_gpt": 0.8095238095238094,
+    "human_on_human": 0.9166666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.9583333333333333
+  },
+  "('IRON', 'BOMB', 'CHINA', 'MOUNT', 'ORGAN', 'WEB', 'STATE', 'PENGUIN', 'CHOCOLATE', 'SLUG', 'WASHINGTON', 'DICE')": {
+    "words": [
+      "IRON",
+      "BOMB",
+      "CHINA",
+      "MOUNT",
+      "ORGAN",
+      "WEB",
+      "STATE",
+      "PENGUIN",
+      "CHOCOLATE",
+      "SLUG",
+      "WASHINGTON",
+      "DICE"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.7,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.8999999999999998
+  },
+  "('PRINCESS', 'ROBIN', 'BOW', 'UNDERTAKER', 'DROP', 'STOCK', 'DIAMOND', 'PYRAMID', 'WORM', 'BEACH', 'COMIC', 'PLAY')": {
+    "words": [
+      "PRINCESS",
+      "ROBIN",
+      "BOW",
+      "UNDERTAKER",
+      "DROP",
+      "STOCK",
+      "DIAMOND",
+      "PYRAMID",
+      "WORM",
+      "BEACH",
+      "COMIC",
+      "PLAY"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.6363636363636365,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.3939393939393939
+  },
+  "('HELICOPTER', 'TURKEY', 'BEACH', 'POST', 'SHARK', 'HAND', 'YARD', 'CHAIR', 'STRAW', 'BELL', 'AMAZON', 'COOK')": {
+    "words": [
+      "HELICOPTER",
+      "TURKEY",
+      "BEACH",
+      "POST",
+      "SHARK",
+      "HAND",
+      "YARD",
+      "CHAIR",
+      "STRAW",
+      "BELL",
+      "AMAZON",
+      "COOK"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.7083333333333333,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('LUCK', 'CONDUCTOR', 'CANADA', 'FRANCE', 'FALL', 'ROBOT', 'ROULETTE', 'TABLE', 'ROW', 'SUB', 'JACK', 'WASHINGTON')": {
+    "words": [
+      "LUCK",
+      "CONDUCTOR",
+      "CANADA",
+      "FRANCE",
+      "FALL",
+      "ROBOT",
+      "ROULETTE",
+      "TABLE",
+      "ROW",
+      "SUB",
+      "JACK",
+      "WASHINGTON"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.8888888888888888,
+    "gpt_on_human": 1.0
+  },
+  "('SHOT', 'COPPER', 'GAME', 'BOARD', 'PRESS', 'NAIL', 'TEMPLE', 'TURKEY', 'BOOT', 'SNOWMAN', 'DWARF', 'BLOCK')": {
+    "words": [
+      "SHOT",
+      "COPPER",
+      "GAME",
+      "BOARD",
+      "PRESS",
+      "NAIL",
+      "TEMPLE",
+      "TURKEY",
+      "BOOT",
+      "SNOWMAN",
+      "DWARF",
+      "BLOCK"
+    ],
+    "human_on_gpt": 0.8888888888888888,
+    "human_on_human": 0.638888888888889,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('HORSE', 'NOVEL', 'CLIFF', 'CENTAUR', 'TABLET', 'HELICOPTER', 'JUPITER', 'HEART', 'COMIC', 'CHURCH', 'ICE CREAM', 'COVER')": {
+    "words": [
+      "HORSE",
+      "NOVEL",
+      "CLIFF",
+      "CENTAUR",
+      "TABLET",
+      "HELICOPTER",
+      "JUPITER",
+      "HEART",
+      "COMIC",
+      "CHURCH",
+      "ICE CREAM",
+      "COVER"
+    ],
+    "human_on_gpt": 0.380952380952381,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('DANCE', 'ORANGE', 'REVOLUTION', 'TUBE', 'LAP', 'BOW', 'FAIR', 'AGENT', 'UNDERTAKER', 'WITCH', 'KING', 'MARBLE')": {
+    "words": [
+      "DANCE",
+      "ORANGE",
+      "REVOLUTION",
+      "TUBE",
+      "LAP",
+      "BOW",
+      "FAIR",
+      "AGENT",
+      "UNDERTAKER",
+      "WITCH",
+      "KING",
+      "MARBLE"
+    ],
+    "human_on_gpt": 0.4,
+    "human_on_human": 0.5925925925925926,
+    "gpt_on_gpt": 0.3333333333333333,
+    "gpt_on_human": 0.4444444444444444
+  },
+  "('MOUNT', 'POISON', 'STRING', 'DRAGON', 'TICK', 'CAP', 'POLICE', 'FRANCE', 'PAPER', 'MINT', 'HOLLYWOOD', 'SCALE')": {
+    "words": [
+      "MOUNT",
+      "POISON",
+      "STRING",
+      "DRAGON",
+      "TICK",
+      "CAP",
+      "POLICE",
+      "FRANCE",
+      "PAPER",
+      "MINT",
+      "HOLLYWOOD",
+      "SCALE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.606060606060606,
+    "gpt_on_gpt": 0.3333333333333333,
+    "gpt_on_human": 0.9090909090909091
+  },
+  "('TURKEY', 'MISSILE', 'BOOM', 'BELL', 'CARROT', 'BEIJING', 'POISON', 'BAR', 'WAR', 'TEMPLE', 'SNOW', 'BOW')": {
+    "words": [
+      "TURKEY",
+      "MISSILE",
+      "BOOM",
+      "BELL",
+      "CARROT",
+      "BEIJING",
+      "POISON",
+      "BAR",
+      "WAR",
+      "TEMPLE",
+      "SNOW",
+      "BOW"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.9259259259259258,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.9629629629629629
+  },
+  "('BERRY', 'KIWI', 'PIT', 'PORT', 'HAWK', 'BAR', 'FORK', 'HELICOPTER', 'BUTTON', 'ROULETTE', 'PIE', 'PAN')": {
+    "words": [
+      "BERRY",
+      "KIWI",
+      "PIT",
+      "PORT",
+      "HAWK",
+      "BAR",
+      "FORK",
+      "HELICOPTER",
+      "BUTTON",
+      "ROULETTE",
+      "PIE",
+      "PAN"
+    ],
+    "human_on_gpt": 0.7333333333333333,
+    "human_on_human": 0.8888888888888888,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('COMIC', 'SWING', 'PRINCESS', 'NEW YORK', 'HOOK', 'OLIVE', 'SHARK', 'GIANT', 'MEXICO', 'CHOCOLATE', 'WELL', 'CANADA')": {
+    "words": [
+      "COMIC",
+      "SWING",
+      "PRINCESS",
+      "NEW YORK",
+      "HOOK",
+      "OLIVE",
+      "SHARK",
+      "GIANT",
+      "MEXICO",
+      "CHOCOLATE",
+      "WELL",
+      "CANADA"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('BOMB', 'STRAW', 'LAB', 'ROULETTE', 'PIANO', 'BELT', 'GENIUS', 'LOCK', 'NURSE', 'FISH', 'GLASS', 'SPY')": {
+    "words": [
+      "BOMB",
+      "STRAW",
+      "LAB",
+      "ROULETTE",
+      "PIANO",
+      "BELT",
+      "GENIUS",
+      "LOCK",
+      "NURSE",
+      "FISH",
+      "GLASS",
+      "SPY"
+    ],
+    "human_on_gpt": 0.8666666666666666,
+    "human_on_human": 0.5833333333333333,
+    "gpt_on_gpt": 0.9333333333333332,
+    "gpt_on_human": 0.875
+  },
+  "('LONDON', 'PLATYPUS', 'HOTEL', 'TUBE', 'DAY', 'GRASS', 'COMPOUND', 'NOTE', 'TAIL', 'SCHOOL', 'SWING', 'MOSCOW')": {
+    "words": [
+      "LONDON",
+      "PLATYPUS",
+      "HOTEL",
+      "TUBE",
+      "DAY",
+      "GRASS",
+      "COMPOUND",
+      "NOTE",
+      "TAIL",
+      "SCHOOL",
+      "SWING",
+      "MOSCOW"
+    ],
+    "human_on_gpt": 0.8333333333333333,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.7499999999999999,
+    "gpt_on_human": 0.75
+  },
+  "('DECK', 'BERRY', 'FENCE', 'APPLE', 'WEB', 'ROME', 'CARD', 'BARK', 'BOARD', 'HOSPITAL', 'PLOT', 'MILLIONAIRE')": {
+    "words": [
+      "DECK",
+      "BERRY",
+      "FENCE",
+      "APPLE",
+      "WEB",
+      "ROME",
+      "CARD",
+      "BARK",
+      "BOARD",
+      "HOSPITAL",
+      "PLOT",
+      "MILLIONAIRE"
+    ],
+    "human_on_gpt": 0.7222222222222222,
+    "human_on_human": 0.9047619047619048,
+    "gpt_on_gpt": 0.7222222222222222,
+    "gpt_on_human": 0.8095238095238094
+  },
+  "('SCALE', 'LOCH NESS', 'AFRICA', 'ROUND', 'ORGAN', 'PRINCESS', 'TIME', 'RABBIT', 'PLASTIC', 'CRASH', 'AZTEC', 'HAWK')": {
+    "words": [
+      "SCALE",
+      "LOCH NESS",
+      "AFRICA",
+      "ROUND",
+      "ORGAN",
+      "PRINCESS",
+      "TIME",
+      "RABBIT",
+      "PLASTIC",
+      "CRASH",
+      "AZTEC",
+      "HAWK"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.5,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('CAST', 'BED', 'STREAM', 'PHOENIX', 'MOUTH', 'NINJA', 'FIELD', 'VACUUM', 'CAPITAL', 'THIEF', 'AFRICA', 'OCTOPUS')": {
+    "words": [
+      "CAST",
+      "BED",
+      "STREAM",
+      "PHOENIX",
+      "MOUTH",
+      "NINJA",
+      "FIELD",
+      "VACUUM",
+      "CAPITAL",
+      "THIEF",
+      "AFRICA",
+      "OCTOPUS"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.7222222222222222,
+    "gpt_on_gpt": 0.9444444444444443,
+    "gpt_on_human": 0.7777777777777777
+  },
+  "('LAB', 'STRAW', 'TIE', 'DECK', 'CHARGE', 'KNIGHT', 'GAS', 'BOOT', 'HAWK', 'STRING', 'MARCH', 'FALL')": {
+    "words": [
+      "LAB",
+      "STRAW",
+      "TIE",
+      "DECK",
+      "CHARGE",
+      "KNIGHT",
+      "GAS",
+      "BOOT",
+      "HAWK",
+      "STRING",
+      "MARCH",
+      "FALL"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8611111111111112,
+    "gpt_on_gpt": 0.39999999999999997,
+    "gpt_on_human": 1.0
+  },
+  "('BEAT', 'NOTE', 'RING', 'MERCURY', 'STREAM', 'WASHER', 'DICE', 'WHIP', 'DANCE', 'CLUB', 'KING', 'DRAGON')": {
+    "words": [
+      "BEAT",
+      "NOTE",
+      "RING",
+      "MERCURY",
+      "STREAM",
+      "WASHER",
+      "DICE",
+      "WHIP",
+      "DANCE",
+      "CLUB",
+      "KING",
+      "DRAGON"
+    ],
+    "human_on_gpt": 0.8888888888888888,
+    "human_on_human": 0.9333333333333332,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('POISON', 'VAN', 'BELT', 'NAIL', 'ANTARCTICA', 'TEACHER', 'SUB', 'HOSPITAL', 'BUGLE', 'SCIENTIST', 'CAT', 'SERVER')": {
+    "words": [
+      "POISON",
+      "VAN",
+      "BELT",
+      "NAIL",
+      "ANTARCTICA",
+      "TEACHER",
+      "SUB",
+      "HOSPITAL",
+      "BUGLE",
+      "SCIENTIST",
+      "CAT",
+      "SERVER"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.9166666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('JACK', 'BUGLE', 'FAIR', 'ENGINE', 'AZTEC', 'LOCK', 'CODE', 'AMBULANCE', 'HIMALAYAS', 'HORSE', 'HOTEL', 'FACE')": {
+    "words": [
+      "JACK",
+      "BUGLE",
+      "FAIR",
+      "ENGINE",
+      "AZTEC",
+      "LOCK",
+      "CODE",
+      "AMBULANCE",
+      "HIMALAYAS",
+      "HORSE",
+      "HOTEL",
+      "FACE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7333333333333333,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('FACE', 'PLATYPUS', 'SCUBA DIVER', 'FALL', 'SPACE', 'TRAIN', 'KANGAROO', 'SPIKE', 'DISEASE', 'RAY', 'LEAD', 'STATE')": {
+    "words": [
+      "FACE",
+      "PLATYPUS",
+      "SCUBA DIVER",
+      "FALL",
+      "SPACE",
+      "TRAIN",
+      "KANGAROO",
+      "SPIKE",
+      "DISEASE",
+      "RAY",
+      "LEAD",
+      "STATE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('SPELL', 'BALL', 'ICE CREAM', 'POISON', 'YARD', 'ROBOT', 'ATLANTIS', 'PASS', 'BEACH', 'DEGREE', 'BAR', 'AFRICA')": {
+    "words": [
+      "SPELL",
+      "BALL",
+      "ICE CREAM",
+      "POISON",
+      "YARD",
+      "ROBOT",
+      "ATLANTIS",
+      "PASS",
+      "BEACH",
+      "DEGREE",
+      "BAR",
+      "AFRICA"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8039215686274509,
+    "gpt_on_gpt": 0.7777777777777777,
+    "gpt_on_human": 0.7647058823529411
+  },
+  "('LUCK', 'MOLE', 'SHARK', 'NEW YORK', 'STRIKE', 'DANCE', 'BUTTON', 'PALM', 'TEMPLE', 'GERMANY', 'SINK', 'TOWER')": {
+    "words": [
+      "LUCK",
+      "MOLE",
+      "SHARK",
+      "NEW YORK",
+      "STRIKE",
+      "DANCE",
+      "BUTTON",
+      "PALM",
+      "TEMPLE",
+      "GERMANY",
+      "SINK",
+      "TOWER"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.9583333333333333,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('PHOENIX', 'SNOWMAN', 'PILOT', 'VET', 'SHIP', 'TAG', 'TOOTH', 'LONDON', 'CAPITAL', 'FACE', 'BAT', 'CONTRACT')": {
+    "words": [
+      "PHOENIX",
+      "SNOWMAN",
+      "PILOT",
+      "VET",
+      "SHIP",
+      "TAG",
+      "TOOTH",
+      "LONDON",
+      "CAPITAL",
+      "FACE",
+      "BAT",
+      "CONTRACT"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8095238095238094,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.7142857142857143
+  },
+  "('MEXICO', 'BOTTLE', 'THUMB', 'SOUL', 'PARK', 'BERRY', 'CROSS', 'SWITCH', 'FIELD', 'DAY', 'JAM', 'BAT')": {
+    "words": [
+      "MEXICO",
+      "BOTTLE",
+      "THUMB",
+      "SOUL",
+      "PARK",
+      "BERRY",
+      "CROSS",
+      "SWITCH",
+      "FIELD",
+      "DAY",
+      "JAM",
+      "BAT"
+    ],
+    "human_on_gpt": 0.7499999999999999,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.9166666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('GREECE', 'DRESS', 'TABLET', 'HOTEL', 'STOCK', 'BOMB', 'LONDON', 'LIGHT', 'BAND', 'IRON', 'AZTEC', 'ROOT')": {
+    "words": [
+      "GREECE",
+      "DRESS",
+      "TABLET",
+      "HOTEL",
+      "STOCK",
+      "BOMB",
+      "LONDON",
+      "LIGHT",
+      "BAND",
+      "IRON",
+      "AZTEC",
+      "ROOT"
+    ],
+    "human_on_gpt": 0.9047619047619048,
+    "human_on_human": 0.696969696969697,
+    "gpt_on_gpt": 0.7142857142857143,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('LINE', 'MAMMOTH', 'WASHINGTON', 'BUFFALO', 'LAB', 'PART', 'ROULETTE', 'EMBASSY', 'TEMPLE', 'OIL', 'THUMB', 'NURSE')": {
+    "words": [
+      "LINE",
+      "MAMMOTH",
+      "WASHINGTON",
+      "BUFFALO",
+      "LAB",
+      "PART",
+      "ROULETTE",
+      "EMBASSY",
+      "TEMPLE",
+      "OIL",
+      "THUMB",
+      "NURSE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('DRILL', 'SNOW', 'GHOST', 'FIRE', 'BILL', 'WAR', 'GRACE', 'HONEY', 'SPOT', 'FLUTE', 'MODEL', 'FAIR')": {
+    "words": [
+      "DRILL",
+      "SNOW",
+      "GHOST",
+      "FIRE",
+      "BILL",
+      "WAR",
+      "GRACE",
+      "HONEY",
+      "SPOT",
+      "FLUTE",
+      "MODEL",
+      "FAIR"
+    ],
+    "human_on_gpt": 0.5555555555555555,
+    "human_on_human": 0.7575757575757577,
+    "gpt_on_gpt": 0.7777777777777777,
+    "gpt_on_human": 0.8484848484848484
+  },
+  "('BUFFALO', 'EGYPT', 'PLANE', 'POLICE', 'BATTERY', 'BOW', 'LIMOUSINE', 'BED', 'AIR', 'CHEST', 'WAVE', 'GAME')": {
+    "words": [
+      "BUFFALO",
+      "EGYPT",
+      "PLANE",
+      "POLICE",
+      "BATTERY",
+      "BOW",
+      "LIMOUSINE",
+      "BED",
+      "AIR",
+      "CHEST",
+      "WAVE",
+      "GAME"
+    ],
+    "human_on_gpt": 0.7499999999999999,
+    "human_on_human": 0.738095238095238,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('LIMOUSINE', 'GAS', 'ROME', 'STRING', 'CHINA', 'SPIDER', 'GAME', 'STATE', 'POISON', 'JAM', 'SUIT', 'HAND')": {
+    "words": [
+      "LIMOUSINE",
+      "GAS",
+      "ROME",
+      "STRING",
+      "CHINA",
+      "SPIDER",
+      "GAME",
+      "STATE",
+      "POISON",
+      "JAM",
+      "SUIT",
+      "HAND"
+    ],
+    "human_on_gpt": 0.9166666666666666,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('SNOW', 'FIGHTER', 'VET', 'STRIKE', 'HIMALAYAS', 'SINK', 'FACE', 'SNOWMAN', 'AUSTRALIA', 'POLE', 'HAM', 'KNIGHT')": {
+    "words": [
+      "SNOW",
+      "FIGHTER",
+      "VET",
+      "STRIKE",
+      "HIMALAYAS",
+      "SINK",
+      "FACE",
+      "SNOWMAN",
+      "AUSTRALIA",
+      "POLE",
+      "HAM",
+      "KNIGHT"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.9629629629629629,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('LASER', 'UNDERTAKER', 'CALF', 'KID', 'DOG', 'LIFE', 'COLD', 'BUGLE', 'POOL', 'NIGHT', 'LITTER', 'TABLE')": {
+    "words": [
+      "LASER",
+      "UNDERTAKER",
+      "CALF",
+      "KID",
+      "DOG",
+      "LIFE",
+      "COLD",
+      "BUGLE",
+      "POOL",
+      "NIGHT",
+      "LITTER",
+      "TABLE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.75,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('OLYMPUS', 'SHARK', 'ALPS', 'CONCERT', 'STADIUM', 'SPIDER', 'CRASH', 'TRIANGLE', 'CRICKET', 'BEAR', 'LEAD', 'CAPITAL')": {
+    "words": [
+      "OLYMPUS",
+      "SHARK",
+      "ALPS",
+      "CONCERT",
+      "STADIUM",
+      "SPIDER",
+      "CRASH",
+      "TRIANGLE",
+      "CRICKET",
+      "BEAR",
+      "LEAD",
+      "CAPITAL"
+    ],
+    "human_on_gpt": 0.7499999999999999,
+    "human_on_human": 0.8222222222222222,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666665
+  },
+  "('PLOT', 'GAS', 'PENGUIN', 'PISTOL', 'VACUUM', 'SQUARE', 'POLE', 'MICROSCOPE', 'STICK', 'FILE', 'PARK', 'PRINCESS')": {
+    "words": [
+      "PLOT",
+      "GAS",
+      "PENGUIN",
+      "PISTOL",
+      "VACUUM",
+      "SQUARE",
+      "POLE",
+      "MICROSCOPE",
+      "STICK",
+      "FILE",
+      "PARK",
+      "PRINCESS"
+    ],
+    "human_on_gpt": 0.4666666666666666,
+    "human_on_human": 0.5416666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.75
+  },
+  "('STAR', 'SHADOW', 'RULER', 'POUND', 'CRANE', 'CRASH', 'AMERICA', 'STRING', 'PENGUIN', 'LAP', 'THEATER', 'LINK')": {
+    "words": [
+      "STAR",
+      "SHADOW",
+      "RULER",
+      "POUND",
+      "CRANE",
+      "CRASH",
+      "AMERICA",
+      "STRING",
+      "PENGUIN",
+      "LAP",
+      "THEATER",
+      "LINK"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8333333333333333,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.75
+  },
+  "('CARROT', 'GLASS', 'SHOP', 'EAGLE', 'MOON', 'ICE CREAM', 'TOOTH', 'BAND', 'CAPITAL', 'CHOCOLATE', 'KING', 'PAN')": {
+    "words": [
+      "CARROT",
+      "GLASS",
+      "SHOP",
+      "EAGLE",
+      "MOON",
+      "ICE CREAM",
+      "TOOTH",
+      "BAND",
+      "CAPITAL",
+      "CHOCOLATE",
+      "KING",
+      "PAN"
+    ],
+    "human_on_gpt": 0.7333333333333333,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.7333333333333332,
+    "gpt_on_human": 1.0
+  },
+  "('NINJA', 'CARROT', 'BOX', 'FALL', 'TRUNK', 'SNOWMAN', 'TOOTH', 'CRASH', 'GHOST', 'SPIKE', 'BEAT', 'GAME')": {
+    "words": [
+      "NINJA",
+      "CARROT",
+      "BOX",
+      "FALL",
+      "TRUNK",
+      "SNOWMAN",
+      "TOOTH",
+      "CRASH",
+      "GHOST",
+      "SPIKE",
+      "BEAT",
+      "GAME"
+    ],
+    "human_on_gpt": 0.9166666666666666,
+    "human_on_human": 0.711111111111111,
+    "gpt_on_gpt": 0.7499999999999999,
+    "gpt_on_human": 0.6444444444444444
+  },
+  "('MINT', 'POST', 'ROBIN', 'CHEST', 'SPELL', 'SCORPION', 'PIANO', 'BED', 'STAFF', 'STATE', 'QUEEN', 'LIFE')": {
+    "words": [
+      "MINT",
+      "POST",
+      "ROBIN",
+      "CHEST",
+      "SPELL",
+      "SCORPION",
+      "PIANO",
+      "BED",
+      "STAFF",
+      "STATE",
+      "QUEEN",
+      "LIFE"
+    ],
+    "human_on_gpt": 0.8888888888888888,
+    "human_on_human": 0.8717948717948718,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('MASS', 'CHICK', 'BOOM', 'FORK', 'SUIT', 'BOOT', 'ROBOT', 'OPERA', 'COOK', 'REVOLUTION', 'LEMON', 'SLIP')": {
+    "words": [
+      "MASS",
+      "CHICK",
+      "BOOM",
+      "FORK",
+      "SUIT",
+      "BOOT",
+      "ROBOT",
+      "OPERA",
+      "COOK",
+      "REVOLUTION",
+      "LEMON",
+      "SLIP"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('LOCH NESS', 'IRON', 'PIPE', 'SERVER', 'COTTON', 'SPELL', 'FIGURE', 'YARD', 'PLANE', 'MOUSE', 'FENCE', 'SCORPION')": {
+    "words": [
+      "LOCH NESS",
+      "IRON",
+      "PIPE",
+      "SERVER",
+      "COTTON",
+      "SPELL",
+      "FIGURE",
+      "YARD",
+      "PLANE",
+      "MOUSE",
+      "FENCE",
+      "SCORPION"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.9696969696969696,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('TRACK', 'SPIKE', 'ALIEN', 'HIMALAYAS', 'PIPE', 'BILL', 'CONDUCTOR', 'RAY', 'STREAM', 'PLASTIC', 'CHINA', 'BEIJING')": {
+    "words": [
+      "TRACK",
+      "SPIKE",
+      "ALIEN",
+      "HIMALAYAS",
+      "PIPE",
+      "BILL",
+      "CONDUCTOR",
+      "RAY",
+      "STREAM",
+      "PLASTIC",
+      "CHINA",
+      "BEIJING"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8888888888888888,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('WATCH', 'LINK', 'STATE', 'SHADOW', 'WHIP', 'PASTE', 'SHAKESPEARE', 'WITCH', 'DEGREE', 'UNICORN', 'GRACE', 'MAPLE')": {
+    "words": [
+      "WATCH",
+      "LINK",
+      "STATE",
+      "SHADOW",
+      "WHIP",
+      "PASTE",
+      "SHAKESPEARE",
+      "WITCH",
+      "DEGREE",
+      "UNICORN",
+      "GRACE",
+      "MAPLE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.6041666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.7083333333333333
+  },
+  "('SOUL', 'FIGURE', 'DROP', 'AMBULANCE', 'LOG', 'ANGEL', 'LEPRECHAUN', 'MINE', 'SPELL', 'TUBE', 'OPERA', 'CELL')": {
+    "words": [
+      "SOUL",
+      "FIGURE",
+      "DROP",
+      "AMBULANCE",
+      "LOG",
+      "ANGEL",
+      "LEPRECHAUN",
+      "MINE",
+      "SPELL",
+      "TUBE",
+      "OPERA",
+      "CELL"
+    ],
+    "human_on_gpt": 0.7333333333333333,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('KANGAROO', 'GLOVE', 'ALPS', 'MARBLE', 'SCALE', 'FORCE', 'SHOE', 'PASS', 'WHIP', 'SOUND', 'PENGUIN', 'CRASH')": {
+    "words": [
+      "KANGAROO",
+      "GLOVE",
+      "ALPS",
+      "MARBLE",
+      "SCALE",
+      "FORCE",
+      "SHOE",
+      "PASS",
+      "WHIP",
+      "SOUND",
+      "PENGUIN",
+      "CRASH"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('LINK', 'CHEST', 'NINJA', 'SHAKESPEARE', 'LAWYER', 'UNDERTAKER', 'PAN', 'KIWI', 'PRINCESS', 'SINK', 'MAIL', 'BELT')": {
+    "words": [
+      "LINK",
+      "CHEST",
+      "NINJA",
+      "SHAKESPEARE",
+      "LAWYER",
+      "UNDERTAKER",
+      "PAN",
+      "KIWI",
+      "PRINCESS",
+      "SINK",
+      "MAIL",
+      "BELT"
+    ],
+    "human_on_gpt": 0.8333333333333333,
+    "human_on_human": 0.9583333333333333,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('PLANE', 'AUSTRALIA', 'CHICK', 'BANK', 'PLATYPUS', 'BERLIN', 'JACK', 'APPLE', 'CROWN', 'PASS', 'QUEEN', 'POLE')": {
+    "words": [
+      "PLANE",
+      "AUSTRALIA",
+      "CHICK",
+      "BANK",
+      "PLATYPUS",
+      "BERLIN",
+      "JACK",
+      "APPLE",
+      "CROWN",
+      "PASS",
+      "QUEEN",
+      "POLE"
+    ],
+    "human_on_gpt": 0.7499999999999999,
+    "human_on_human": 0.9111111111111111,
+    "gpt_on_gpt": 0.7499999999999999,
+    "gpt_on_human": 1.0
+  },
+  "('SWITCH', 'CROSS', 'PIANO', 'BACK', 'DICE', 'THUMB', 'LIMOUSINE', 'FORCE', 'AFRICA', 'SATELLITE', 'MASS', 'SCORPION')": {
+    "words": [
+      "SWITCH",
+      "CROSS",
+      "PIANO",
+      "BACK",
+      "DICE",
+      "THUMB",
+      "LIMOUSINE",
+      "FORCE",
+      "AFRICA",
+      "SATELLITE",
+      "MASS",
+      "SCORPION"
+    ],
+    "human_on_gpt": 0.5714285714285714,
+    "human_on_human": 0.888888888888889,
+    "gpt_on_gpt": 0.7619047619047619,
+    "gpt_on_human": 1.0
+  },
+  "('RULER', 'FILM', 'TRIANGLE', 'CALF', 'FENCE', 'PRINCESS', 'TAIL', 'STAR', 'HORSESHOE', 'TURKEY', 'SPIDER', 'MOUTH')": {
+    "words": [
+      "RULER",
+      "FILM",
+      "TRIANGLE",
+      "CALF",
+      "FENCE",
+      "PRINCESS",
+      "TAIL",
+      "STAR",
+      "HORSESHOE",
+      "TURKEY",
+      "SPIDER",
+      "MOUTH"
+    ],
+    "human_on_gpt": 0.5,
+    "human_on_human": 0.6944444444444443,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.3611111111111111
+  },
+  "('POUND', 'DISEASE', 'FAN', 'PIPE', 'COVER', 'SOLDIER', 'GLOVE', 'TURKEY', 'GAS', 'COPPER', 'CASINO', 'SHOP')": {
+    "words": [
+      "POUND",
+      "DISEASE",
+      "FAN",
+      "PIPE",
+      "COVER",
+      "SOLDIER",
+      "GLOVE",
+      "TURKEY",
+      "GAS",
+      "COPPER",
+      "CASINO",
+      "SHOP"
+    ],
+    "human_on_gpt": 0.9333333333333332,
+    "human_on_human": 0.7948717948717948,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('DOCTOR', 'KIWI', 'MARBLE', 'SNOWMAN', 'CHANGE', 'HOTEL', 'BOOM', 'ROSE', 'TELESCOPE', 'JACK', 'WAVE', 'HOLE')": {
+    "words": [
+      "DOCTOR",
+      "KIWI",
+      "MARBLE",
+      "SNOWMAN",
+      "CHANGE",
+      "HOTEL",
+      "BOOM",
+      "ROSE",
+      "TELESCOPE",
+      "JACK",
+      "WAVE",
+      "HOLE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.6333333333333333,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('STAR', 'LOCH NESS', 'THEATER', 'LIFE', 'LOCK', 'STRAW', 'SUPERHERO', 'MISSILE', 'POINT', 'EAGLE', 'COMIC', 'AMAZON')": {
+    "words": [
+      "STAR",
+      "LOCH NESS",
+      "THEATER",
+      "LIFE",
+      "LOCK",
+      "STRAW",
+      "SUPERHERO",
+      "MISSILE",
+      "POINT",
+      "EAGLE",
+      "COMIC",
+      "AMAZON"
+    ],
+    "human_on_gpt": 0.7083333333333333,
+    "human_on_human": 0.7407407407407408,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('SPELL', 'FRANCE', 'HOLE', 'FOREST', 'FLUTE', 'COPPER', 'AGENT', 'FOOT', 'BERMUDA', 'KING', 'FAN', 'MODEL')": {
+    "words": [
+      "SPELL",
+      "FRANCE",
+      "HOLE",
+      "FOREST",
+      "FLUTE",
+      "COPPER",
+      "AGENT",
+      "FOOT",
+      "BERMUDA",
+      "KING",
+      "FAN",
+      "MODEL"
+    ],
+    "human_on_gpt": 0.39999999999999997,
+    "human_on_human": 0.6,
+    "gpt_on_gpt": 0.3333333333333333,
+    "gpt_on_human": 0.6444444444444444
+  },
+  "('BRUSH', 'CROWN', 'ATLANTIS', 'FOREST', 'OLIVE', 'BANK', 'ENGLAND', 'CANADA', 'COTTON', 'MILLIONAIRE', 'SPIDER', 'BELL')": {
+    "words": [
+      "BRUSH",
+      "CROWN",
+      "ATLANTIS",
+      "FOREST",
+      "OLIVE",
+      "BANK",
+      "ENGLAND",
+      "CANADA",
+      "COTTON",
+      "MILLIONAIRE",
+      "SPIDER",
+      "BELL"
+    ],
+    "human_on_gpt": 0.8666666666666666,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.7999999999999999,
+    "gpt_on_human": 0.9583333333333333
+  },
+  "('TOKYO', 'SNOW', 'LAWYER', 'SOUL', 'NOTE', 'DICE', 'MOUNT', 'MOLE', 'BOOT', 'BOMB', 'BUFFALO', 'BILL')": {
+    "words": [
+      "TOKYO",
+      "SNOW",
+      "LAWYER",
+      "SOUL",
+      "NOTE",
+      "DICE",
+      "MOUNT",
+      "MOLE",
+      "BOOT",
+      "BOMB",
+      "BUFFALO",
+      "BILL"
+    ],
+    "human_on_gpt": 0.7499999999999999,
+    "human_on_human": 0.7333333333333333,
+    "gpt_on_gpt": 0.7499999999999999,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('MAMMOTH', 'DRESS', 'SNOWMAN', 'BUGLE', 'DRAGON', 'COVER', 'TELESCOPE', 'DAY', 'NEW YORK', 'TUBE', 'GRACE', 'FAN')": {
+    "words": [
+      "MAMMOTH",
+      "DRESS",
+      "SNOWMAN",
+      "BUGLE",
+      "DRAGON",
+      "COVER",
+      "TELESCOPE",
+      "DAY",
+      "NEW YORK",
+      "TUBE",
+      "GRACE",
+      "FAN"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.49999999999999994,
+    "gpt_on_gpt": 0.8333333333333333,
+    "gpt_on_human": 0.41666666666666663
+  },
+  "('FISH', 'FACE', 'SLIP', 'SHARK', 'LAWYER', 'PLANE', 'CLUB', 'MINT', 'LEPRECHAUN', 'COLD', 'SERVER', 'ROUND')": {
+    "words": [
+      "FISH",
+      "FACE",
+      "SLIP",
+      "SHARK",
+      "LAWYER",
+      "PLANE",
+      "CLUB",
+      "MINT",
+      "LEPRECHAUN",
+      "COLD",
+      "SERVER",
+      "ROUND"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.7499999999999999,
+    "gpt_on_human": 0.9722222222222222
+  },
+  "('ROUND', 'PRINCESS', 'SCIENTIST', 'AFRICA', 'ROCK', 'CARROT', 'SOUND', 'PILOT', 'PART', 'ICE CREAM', 'REVOLUTION', 'NET')": {
+    "words": [
+      "ROUND",
+      "PRINCESS",
+      "SCIENTIST",
+      "AFRICA",
+      "ROCK",
+      "CARROT",
+      "SOUND",
+      "PILOT",
+      "PART",
+      "ICE CREAM",
+      "REVOLUTION",
+      "NET"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7333333333333332,
+    "gpt_on_gpt": 0.75,
+    "gpt_on_human": 0.7999999999999999
+  },
+  "('ROULETTE', 'AMBULANCE', 'PLAY', 'PRESS', 'SPIKE', 'FILM', 'PASS', 'IVORY', 'PART', 'COMPOUND', 'PLASTIC', 'TEACHER')": {
+    "words": [
+      "ROULETTE",
+      "AMBULANCE",
+      "PLAY",
+      "PRESS",
+      "SPIKE",
+      "FILM",
+      "PASS",
+      "IVORY",
+      "PART",
+      "COMPOUND",
+      "PLASTIC",
+      "TEACHER"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.5897435897435899,
+    "gpt_on_gpt": 0.7777777777777777,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('JAM', 'WAR', 'BOMB', 'WASHINGTON', 'BERMUDA', 'LOCK', 'DRAGON', 'FIRE', 'HORSESHOE', 'STATE', 'PILOT', 'JUPITER')": {
+    "words": [
+      "JAM",
+      "WAR",
+      "BOMB",
+      "WASHINGTON",
+      "BERMUDA",
+      "LOCK",
+      "DRAGON",
+      "FIRE",
+      "HORSESHOE",
+      "STATE",
+      "PILOT",
+      "JUPITER"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.9583333333333333,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('CAPITAL', 'ANTARCTICA', 'LIGHT', 'CODE', 'SATURN', 'WEB', 'MODEL', 'DICE', 'DUCK', 'BERRY', 'HELICOPTER', 'SHADOW')": {
+    "words": [
+      "CAPITAL",
+      "ANTARCTICA",
+      "LIGHT",
+      "CODE",
+      "SATURN",
+      "WEB",
+      "MODEL",
+      "DICE",
+      "DUCK",
+      "BERRY",
+      "HELICOPTER",
+      "SHADOW"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7948717948717949,
+    "gpt_on_gpt": 0.4444444444444444,
+    "gpt_on_human": 0.46153846153846156
+  },
+  "('GIANT', 'TRACK', 'GLOVE', 'TEACHER', 'OCTOPUS', 'MILLIONAIRE', 'LEPRECHAUN', 'BERLIN', 'LINK', 'SMUGGLER', 'BUCK', 'SWING')": {
+    "words": [
+      "GIANT",
+      "TRACK",
+      "GLOVE",
+      "TEACHER",
+      "OCTOPUS",
+      "MILLIONAIRE",
+      "LEPRECHAUN",
+      "BERLIN",
+      "LINK",
+      "SMUGGLER",
+      "BUCK",
+      "SWING"
+    ],
+    "human_on_gpt": 0.611111111111111,
+    "human_on_human": 0.7083333333333333,
+    "gpt_on_gpt": 0.7222222222222222,
+    "gpt_on_human": 0.7083333333333333
+  },
+  "('SUB', 'CLUB', 'TELESCOPE', 'NOVEL', 'FAIR', 'MODEL', 'INDIA', 'TABLET', 'LOCH NESS', 'HOTEL', 'FLUTE', 'GERMANY')": {
+    "words": [
+      "SUB",
+      "CLUB",
+      "TELESCOPE",
+      "NOVEL",
+      "FAIR",
+      "MODEL",
+      "INDIA",
+      "TABLET",
+      "LOCH NESS",
+      "HOTEL",
+      "FLUTE",
+      "GERMANY"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.8518518518518517,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.37037037037037035
+  },
+  "('KIWI', 'BANK', 'DICE', 'DINOSAUR', 'RING', 'HOOK', 'LAB', 'STREAM', 'SWING', 'TEACHER', 'WHALE', 'MATCH')": {
+    "words": [
+      "KIWI",
+      "BANK",
+      "DICE",
+      "DINOSAUR",
+      "RING",
+      "HOOK",
+      "LAB",
+      "STREAM",
+      "SWING",
+      "TEACHER",
+      "WHALE",
+      "MATCH"
+    ],
+    "human_on_gpt": 0.7777777777777777,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('BUTTON', 'CLIFF', 'WASHINGTON', 'OLYMPUS', 'SPELL', 'LOCK', 'MISSILE', 'CHAIR', 'BRIDGE', 'CIRCLE', 'PLATE', 'BOARD')": {
+    "words": [
+      "BUTTON",
+      "CLIFF",
+      "WASHINGTON",
+      "OLYMPUS",
+      "SPELL",
+      "LOCK",
+      "MISSILE",
+      "CHAIR",
+      "BRIDGE",
+      "CIRCLE",
+      "PLATE",
+      "BOARD"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7083333333333333,
+    "gpt_on_gpt": 0.5555555555555555,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('BERMUDA', 'SHARK', 'STREAM', 'FIGHTER', 'PLATE', 'ALPS', 'SHOE', 'IRON', 'CHECK', 'DRAFT', 'ROULETTE', 'CLUB')": {
+    "words": [
+      "BERMUDA",
+      "SHARK",
+      "STREAM",
+      "FIGHTER",
+      "PLATE",
+      "ALPS",
+      "SHOE",
+      "IRON",
+      "CHECK",
+      "DRAFT",
+      "ROULETTE",
+      "CLUB"
+    ],
+    "human_on_gpt": 0.5999999999999999,
+    "human_on_human": 0.9230769230769229,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.8205128205128206
+  },
+  "('PLOT', 'HAND', 'AMAZON', 'BED', 'WATER', 'CHECK', 'YARD', 'CHEST', 'HORSE', 'CHICK', 'EMBASSY', 'BEIJING')": {
+    "words": [
+      "PLOT",
+      "HAND",
+      "AMAZON",
+      "BED",
+      "WATER",
+      "CHECK",
+      "YARD",
+      "CHEST",
+      "HORSE",
+      "CHICK",
+      "EMBASSY",
+      "BEIJING"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.4761904761904762,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('MOUTH', 'LIFE', 'BEAT', 'BANK', 'DRAGON', 'KEY', 'FIGURE', 'PILOT', 'BELT', 'BOND', 'MODEL', 'VACUUM')": {
+    "words": [
+      "MOUTH",
+      "LIFE",
+      "BEAT",
+      "BANK",
+      "DRAGON",
+      "KEY",
+      "FIGURE",
+      "PILOT",
+      "BELT",
+      "BOND",
+      "MODEL",
+      "VACUUM"
+    ],
+    "human_on_gpt": 0.7333333333333333,
+    "human_on_human": 0.8,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.9666666666666666
+  },
+  "('SATELLITE', 'OPERA', 'CONDUCTOR', 'FACE', 'WASHINGTON', 'BOW', 'FISH', 'SHOP', 'CHICK', 'BEAR', 'WATCH', 'LOG')": {
+    "words": [
+      "SATELLITE",
+      "OPERA",
+      "CONDUCTOR",
+      "FACE",
+      "WASHINGTON",
+      "BOW",
+      "FISH",
+      "SHOP",
+      "CHICK",
+      "BEAR",
+      "WATCH",
+      "LOG"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.9722222222222222,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('STICK', 'HELICOPTER', 'POLE', 'PORT', 'COLD', 'AIR', 'FAIR', 'GREECE', 'BRUSH', 'AZTEC', 'DROP', 'KIWI')": {
+    "words": [
+      "STICK",
+      "HELICOPTER",
+      "POLE",
+      "PORT",
+      "COLD",
+      "AIR",
+      "FAIR",
+      "GREECE",
+      "BRUSH",
+      "AZTEC",
+      "DROP",
+      "KIWI"
+    ],
+    "human_on_gpt": 0.8333333333333333,
+    "human_on_human": 0.7179487179487178,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.7435897435897435
+  },
+  "('TRUNK', 'BATTERY', 'DROP', 'APPLE', 'LONDON', 'NEEDLE', 'COMPOUND', 'OIL', 'CONDUCTOR', 'PIRATE', 'WAVE', 'PENGUIN')": {
+    "words": [
+      "TRUNK",
+      "BATTERY",
+      "DROP",
+      "APPLE",
+      "LONDON",
+      "NEEDLE",
+      "COMPOUND",
+      "OIL",
+      "CONDUCTOR",
+      "PIRATE",
+      "WAVE",
+      "PENGUIN"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.9666666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('ROME', 'BAT', 'THUMB', 'FORCE', 'ICE CREAM', 'TRUNK', 'CASINO', 'CZECH', 'TOKYO', 'SHOE', 'CHANGE', 'DRILL')": {
+    "words": [
+      "ROME",
+      "BAT",
+      "THUMB",
+      "FORCE",
+      "ICE CREAM",
+      "TRUNK",
+      "CASINO",
+      "CZECH",
+      "TOKYO",
+      "SHOE",
+      "CHANGE",
+      "DRILL"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 1.0
+  },
+  "('COMPOUND', 'CHINA', 'FIGHTER', 'LOCK', 'FIELD', 'PLANE', 'SCUBA DIVER', 'BUFFALO', 'TORCH', 'AMBULANCE', 'MEXICO', 'POST')": {
+    "words": [
+      "COMPOUND",
+      "CHINA",
+      "FIGHTER",
+      "LOCK",
+      "FIELD",
+      "PLANE",
+      "SCUBA DIVER",
+      "BUFFALO",
+      "TORCH",
+      "AMBULANCE",
+      "MEXICO",
+      "POST"
+    ],
+    "human_on_gpt": 0.8333333333333333,
+    "human_on_human": 0.5416666666666666,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('TRACK', 'EUROPE', 'OLYMPUS', 'LASER', 'BACK', 'BOOT', 'FENCE', 'DISEASE', 'MARCH', 'DRAGON', 'GLASS', 'PLASTIC')": {
+    "words": [
+      "TRACK",
+      "EUROPE",
+      "OLYMPUS",
+      "LASER",
+      "BACK",
+      "BOOT",
+      "FENCE",
+      "DISEASE",
+      "MARCH",
+      "DRAGON",
+      "GLASS",
+      "PLASTIC"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.696969696969697,
+    "gpt_on_gpt": 0.7777777777777777,
+    "gpt_on_human": 1.0
+  },
+  "('TRIANGLE', 'NINJA', 'BOLT', 'CENTER', 'GHOST', 'POOL', 'YARD', 'TUBE', 'KIWI', 'SHIP', 'MASS', 'SEAL')": {
+    "words": [
+      "TRIANGLE",
+      "NINJA",
+      "BOLT",
+      "CENTER",
+      "GHOST",
+      "POOL",
+      "YARD",
+      "TUBE",
+      "KIWI",
+      "SHIP",
+      "MASS",
+      "SEAL"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7777777777777778,
+    "gpt_on_gpt": 0.8333333333333333,
+    "gpt_on_human": 0.75
+  },
+  "('KETCHUP', 'VAN', 'CONTRACT', 'CHURCH', 'POLE', 'HOSPITAL', 'OIL', 'MAIL', 'CHINA', 'WIND', 'TABLE', 'CIRCLE')": {
+    "words": [
+      "KETCHUP",
+      "VAN",
+      "CONTRACT",
+      "CHURCH",
+      "POLE",
+      "HOSPITAL",
+      "OIL",
+      "MAIL",
+      "CHINA",
+      "WIND",
+      "TABLE",
+      "CIRCLE"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 1.0
+  },
+  "('TOKYO', 'CYCLE', 'SPINE', 'FISH', 'MASS', 'SCALE', 'DUCK', 'SHIP', 'PASS', 'AZTEC', 'CAP', 'BUTTON')": {
+    "words": [
+      "TOKYO",
+      "CYCLE",
+      "SPINE",
+      "FISH",
+      "MASS",
+      "SCALE",
+      "DUCK",
+      "SHIP",
+      "PASS",
+      "AZTEC",
+      "CAP",
+      "BUTTON"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.6666666666666666
+  },
+  "('MOUSE', 'POISON', 'DICE', 'FLY', 'STRIKE', 'DATE', 'MATCH', 'MOUTH', 'SWING', 'HOLE', 'WASHINGTON', 'DOCTOR')": {
+    "words": [
+      "MOUSE",
+      "POISON",
+      "DICE",
+      "FLY",
+      "STRIKE",
+      "DATE",
+      "MATCH",
+      "MOUTH",
+      "SWING",
+      "HOLE",
+      "WASHINGTON",
+      "DOCTOR"
+    ],
+    "human_on_gpt": 0.6666666666666666,
+    "human_on_human": 0.7,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.6666666666666667
+  },
+  "('CHAIR', 'SPRING', 'AGENT', 'BERLIN', 'OLIVE', 'BOOT', 'TEACHER', 'CAT', 'BOX', 'MICROSCOPE', 'NAIL', 'AUSTRALIA')": {
+    "words": [
+      "CHAIR",
+      "SPRING",
+      "AGENT",
+      "BERLIN",
+      "OLIVE",
+      "BOOT",
+      "TEACHER",
+      "CAT",
+      "BOX",
+      "MICROSCOPE",
+      "NAIL",
+      "AUSTRALIA"
+    ],
+    "human_on_gpt": 0.5555555555555555,
+    "human_on_human": 0.6666666666666666,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.9444444444444443
+  },
+  "('LAB', 'DICE', 'PAN', 'GAME', 'SOCK', 'AIR', 'STICK', 'POST', 'FIELD', 'NINJA', 'CRICKET', 'WELL')": {
+    "words": [
+      "LAB",
+      "DICE",
+      "PAN",
+      "GAME",
+      "SOCK",
+      "AIR",
+      "STICK",
+      "POST",
+      "FIELD",
+      "NINJA",
+      "CRICKET",
+      "WELL"
+    ],
+    "human_on_gpt": 0.9166666666666666,
+    "human_on_human": 0.8974358974358974,
+    "gpt_on_gpt": 1.0,
+    "gpt_on_human": 0.8974358974358972
+  },
+  "('COPPER', 'GENIUS', 'FALL', 'MINT', 'HOLLYWOOD', 'CAT', 'HORSESHOE', 'DUCK', 'CONDUCTOR', 'STOCK', 'POLE', 'DISEASE')": {
+    "words": [
+      "COPPER",
+      "GENIUS",
+      "FALL",
+      "MINT",
+      "HOLLYWOOD",
+      "CAT",
+      "HORSESHOE",
+      "DUCK",
+      "CONDUCTOR",
+      "STOCK",
+      "POLE",
+      "DISEASE"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 1.0,
+    "gpt_on_gpt": 0.5,
+    "gpt_on_human": 1.0
+  },
+  "('WHALE', 'HOLLYWOOD', 'TABLET', 'RING', 'TEMPLE', 'HAM', 'TRACK', 'WELL', 'GAME', 'KNIGHT', 'CRICKET', 'BOOT')": {
+    "words": [
+      "WHALE",
+      "HOLLYWOOD",
+      "TABLET",
+      "RING",
+      "TEMPLE",
+      "HAM",
+      "TRACK",
+      "WELL",
+      "GAME",
+      "KNIGHT",
+      "CRICKET",
+      "BOOT"
+    ],
+    "human_on_gpt": 1.0,
+    "human_on_human": 0.7,
+    "gpt_on_gpt": 0.6666666666666666,
+    "gpt_on_human": 0.8333333333333334
+  }
+}
