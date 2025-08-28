@@ -1,0 +1,2162 @@
+[
+    {
+        "clue": "FINANCE",
+        "words": [
+            "MODEL",
+            "HAM",
+            "SPIKE",
+            "CROWN",
+            "BANK",
+            "PLOT",
+            "TOOTH",
+            "STOCK",
+            "HELICOPTER",
+            "SHADOW",
+            "CLUB",
+            "AFRICA"
+        ],
+        "intended_words": [
+            "BANK",
+            "STOCK",
+            "PLOT"
+        ],
+        "gpt-response": [
+            "BANK",
+            "STOCK",
+            "PLOT"
+        ]
+    },
+    {
+        "clue": "TOOL",
+        "words": [
+            "FORK",
+            "LITTER",
+            "PLANE",
+            "GREEN",
+            "GRACE",
+            "STRING",
+            "WAVE",
+            "WALL",
+            "BAR",
+            "NIGHT",
+            "LIGHT",
+            "LINK"
+        ],
+        "intended_words": [
+            "FORK",
+            "PLANE",
+            "BAR"
+        ],
+        "gpt-response": [
+            "FORK",
+            "PLANE",
+            "BAR"
+        ]
+    },
+    {
+        "clue": "CITIES",
+        "words": [
+            "KETCHUP",
+            "POINT",
+            "TRIANGLE",
+            "STREAM",
+            "TOKYO",
+            "FAIR",
+            "BUGLE",
+            "MAIL",
+            "SCALE",
+            "SHIP",
+            "BERLIN",
+            "TRUNK"
+        ],
+        "intended_words": [
+            "TOKYO",
+            "BERLIN",
+            "FAIR"
+        ],
+        "gpt-response": [
+            "TOKYO",
+            "BERLIN",
+            "FAIR"
+        ]
+    },
+    {
+        "clue": "TRIANGLE",
+        "words": [
+            "ALPS",
+            "CODE",
+            "QUEEN",
+            "PASS",
+            "BERMUDA",
+            "GENIUS",
+            "THUMB",
+            "MINT",
+            "NINJA",
+            "MAPLE",
+            "LAWYER",
+            "HORSE"
+        ],
+        "intended_words": [
+            "ALPS",
+            "BERMUDA",
+            "PASS"
+        ],
+        "gpt-response": [
+            "BERMUDA",
+            "ALPS",
+            "PASS"
+        ]
+    },
+    {
+        "clue": "HOLE",
+        "words": [
+            "WAKE",
+            "FORCE",
+            "PASS",
+            "SINK",
+            "NUT",
+            "CIRCLE",
+            "BOMB",
+            "PIT",
+            "POLE",
+            "COVER",
+            "LIMOUSINE",
+            "FISH"
+        ],
+        "intended_words": [
+            "SINK",
+            "PIT",
+            "POLE"
+        ],
+        "gpt-response": [
+            "SINK",
+            "PIT",
+            "POLE"
+        ]
+    },
+    {
+        "clue": "COVER",
+        "words": [
+            "SATURN",
+            "COLD",
+            "HOOD",
+            "PLATE",
+            "SEAL",
+            "BACK",
+            "EUROPE",
+            "FAN",
+            "TICK",
+            "NEEDLE",
+            "PLANE",
+            "DEATH"
+        ],
+        "intended_words": [
+            "HOOD",
+            "PLATE",
+            "SEAL"
+        ],
+        "gpt-response": [
+            "HOOD",
+            "PLATE",
+            "SEAL"
+        ]
+    },
+    {
+        "clue": "HEIGHT",
+        "words": [
+            "LINK",
+            "SPIKE",
+            "LEAD",
+            "MASS",
+            "CONCERT",
+            "BOX",
+            "IVORY",
+            "TOWER",
+            "SERVER",
+            "BOTTLE",
+            "GRACE",
+            "MOUNT"
+        ],
+        "intended_words": [
+            "SPIKE",
+            "TOWER",
+            "MOUNT"
+        ],
+        "gpt-response": [
+            "SPIKE",
+            "TOWER",
+            "MOUNT"
+        ]
+    },
+    {
+        "clue": "SWEET",
+        "words": [
+            "DRILL",
+            "SNOW",
+            "GHOST",
+            "FIRE",
+            "BILL",
+            "WAR",
+            "GRACE",
+            "HONEY",
+            "SPOT",
+            "FLUTE",
+            "MODEL",
+            "FAIR"
+        ],
+        "intended_words": [
+            "SNOW",
+            "HONEY",
+            "FAIR"
+        ],
+        "gpt-response": [
+            "HONEY",
+            "SNOW",
+            "FAIR"
+        ]
+    },
+    {
+        "clue": "ANIMAL",
+        "words": [
+            "KING",
+            "PARK",
+            "PLATYPUS",
+            "CIRCLE",
+            "SKYSCRAPER",
+            "POISON",
+            "FLUTE",
+            "MICROSCOPE",
+            "ALIEN",
+            "MOUTH",
+            "GHOST",
+            "CRICKET"
+        ],
+        "intended_words": [
+            "PLATYPUS",
+            "CRICKET",
+            "KING"
+        ],
+        "gpt-response": [
+            "PLATYPUS",
+            "CRICKET",
+            "KING"
+        ]
+    },
+    {
+        "clue": "HAND",
+        "words": [
+            "DATE",
+            "PISTOL",
+            "MUG",
+            "DICE",
+            "STAR",
+            "HOOD",
+            "POOL",
+            "PALM",
+            "TOKYO",
+            "GREECE",
+            "CODE",
+            "HEAD"
+        ],
+        "intended_words": [
+            "PISTOL",
+            "PALM",
+            "MUG"
+        ],
+        "gpt-response": [
+            "PISTOL",
+            "PALM",
+            "MUG"
+        ]
+    },
+    {
+        "clue": "CONTAINER",
+        "words": [
+            "TRUNK",
+            "DWARF",
+            "DICE",
+            "AUSTRALIA",
+            "ORANGE",
+            "RING",
+            "AGENT",
+            "OIL",
+            "CAP",
+            "LIFE",
+            "CHEST",
+            "SMUGGLER"
+        ],
+        "intended_words": [
+            "TRUNK",
+            "CHEST",
+            "CAP"
+        ],
+        "gpt-response": [
+            "TRUNK",
+            "CHEST",
+            "CAP"
+        ]
+    },
+    {
+        "clue": "EXPLOSION",
+        "words": [
+            "BOMB",
+            "WAKE",
+            "ROSE",
+            "SLUG",
+            "DRILL",
+            "TOKYO",
+            "PAPER",
+            "UNDERTAKER",
+            "STRIKE",
+            "TELESCOPE",
+            "KID",
+            "STADIUM"
+        ],
+        "intended_words": [
+            "BOMB",
+            "DRILL",
+            "STRIKE"
+        ],
+        "gpt-response": [
+            "BOMB",
+            "DRILL",
+            "STRIKE"
+        ]
+    },
+    {
+        "clue": "STORY",
+        "words": [
+            "PYRAMID",
+            "BUTTON",
+            "PLOT",
+            "FAN",
+            "GAME",
+            "FALL",
+            "HAM",
+            "DWARF",
+            "PLAY",
+            "WITCH",
+            "DUCK",
+            "SPOT"
+        ],
+        "intended_words": [
+            "PLOT",
+            "PLAY",
+            "WITCH"
+        ],
+        "gpt-response": [
+            "PLOT",
+            "PLAY",
+            "WITCH"
+        ]
+    },
+    {
+        "clue": "ROYALTY",
+        "words": [
+            "LIMOUSINE",
+            "BUG",
+            "HIMALAYAS",
+            "DECK",
+            "KING",
+            "NOVEL",
+            "PORT",
+            "CAT",
+            "FORK",
+            "FACE",
+            "AZTEC",
+            "WHIP"
+        ],
+        "intended_words": [
+            "KING",
+            "LIMOUSINE",
+            "AZTEC"
+        ],
+        "gpt-response": [
+            "LIMOUSINE",
+            "KING",
+            "AZTEC"
+        ]
+    },
+    {
+        "clue": "IRISH",
+        "words": [
+            "REVOLUTION",
+            "PIE",
+            "SCREEN",
+            "TEACHER",
+            "PORT",
+            "RABBIT",
+            "HOTEL",
+            "CLUB",
+            "LEPRECHAUN",
+            "COPPER",
+            "DISEASE",
+            "BELL"
+        ],
+        "intended_words": [
+            "LEPRECHAUN",
+            "RABBIT",
+            "CLUB"
+        ],
+        "gpt-response": [
+            "LEPRECHAUN",
+            "CLUB",
+            "PORT"
+        ]
+    },
+    {
+        "clue": "PLACE",
+        "words": [
+            "FIELD",
+            "TEMPLE",
+            "LIGHT",
+            "MOUSE",
+            "FORCE",
+            "MUG",
+            "TRIP",
+            "SCHOOL",
+            "HAND",
+            "TICK",
+            "SCALE",
+            "STRIKE"
+        ],
+        "intended_words": [
+            "FIELD",
+            "TEMPLE",
+            "SCHOOL"
+        ],
+        "gpt-response": [
+            "FIELD",
+            "TEMPLE",
+            "SCHOOL"
+        ]
+    },
+    {
+        "clue": "SWEET",
+        "words": [
+            "CHOCOLATE",
+            "HORN",
+            "STICK",
+            "TEACHER",
+            "CENTAUR",
+            "HELICOPTER",
+            "HAM",
+            "MINT",
+            "BILL",
+            "SATELLITE",
+            "GREEN",
+            "FACE"
+        ],
+        "intended_words": [
+            "CHOCOLATE",
+            "HAM",
+            "MINT"
+        ],
+        "gpt-response": [
+            "CHOCOLATE",
+            "MINT",
+            "HAM"
+        ]
+    },
+    {
+        "clue": "MOUNTAIN",
+        "words": [
+            "OLYMPUS",
+            "SHARK",
+            "ALPS",
+            "CONCERT",
+            "STADIUM",
+            "SPIDER",
+            "CRASH",
+            "TRIANGLE",
+            "CRICKET",
+            "BEAR",
+            "LEAD",
+            "CAPITAL"
+        ],
+        "intended_words": [
+            "OLYMPUS",
+            "ALPS",
+            "BEAR"
+        ],
+        "gpt-response": [
+            "OLYMPUS",
+            "ALPS",
+            "BEAR"
+        ]
+    },
+    {
+        "clue": "FRUIT",
+        "words": [
+            "CRANE",
+            "GENIUS",
+            "FOOT",
+            "HORSE",
+            "FRANCE",
+            "WORM",
+            "DIAMOND",
+            "BEACH",
+            "BOX",
+            "HORSESHOE",
+            "LAB",
+            "KIWI"
+        ],
+        "intended_words": [
+            "KIWI",
+            "DIAMOND",
+            "HORSESHOE"
+        ],
+        "gpt-response": [
+            "WORM",
+            "DIAMOND",
+            "KIWI"
+        ]
+    },
+    {
+        "clue": "GAMBLE",
+        "words": [
+            "LUCK",
+            "CONDUCTOR",
+            "CANADA",
+            "FRANCE",
+            "FALL",
+            "ROBOT",
+            "ROULETTE",
+            "TABLE",
+            "ROW",
+            "SUB",
+            "JACK",
+            "WASHINGTON"
+        ],
+        "intended_words": [
+            "LUCK",
+            "ROULETTE",
+            "JACK"
+        ],
+        "gpt-response": [
+            "LUCK",
+            "ROULETTE",
+            "JACK"
+        ]
+    },
+    {
+        "clue": "CLOTHING",
+        "words": [
+            "BLOCK",
+            "PIE",
+            "BELT",
+            "POISON",
+            "COTTON",
+            "PASTE",
+            "SPOT",
+            "VAN",
+            "CHINA",
+            "IRON",
+            "PRESS",
+            "CANADA"
+        ],
+        "intended_words": [
+            "BELT",
+            "COTTON",
+            "IRON"
+        ],
+        "gpt-response": [
+            "BELT",
+            "COTTON",
+            "IRON"
+        ]
+    },
+    {
+        "clue": "NOISE",
+        "words": [
+            "SPINE",
+            "POUND",
+            "SOUND",
+            "BOOM",
+            "MOLE",
+            "WAKE",
+            "BRUSH",
+            "HORSE",
+            "OIL",
+            "PUMPKIN",
+            "TABLET",
+            "PISTOL"
+        ],
+        "intended_words": [
+            "BOOM",
+            "SOUND",
+            "POUND"
+        ],
+        "gpt-response": [
+            "POUND",
+            "SOUND",
+            "BOOM"
+        ]
+    },
+    {
+        "clue": "ANIMAL",
+        "words": [
+            "SKYSCRAPER",
+            "AGENT",
+            "SPRING",
+            "CELL",
+            "ALIEN",
+            "CROSS",
+            "ROUND",
+            "SCORPION",
+            "SEAL",
+            "SLUG",
+            "CHINA",
+            "PLATYPUS"
+        ],
+        "intended_words": [
+            "SCORPION",
+            "SEAL",
+            "PLATYPUS"
+        ],
+        "gpt-response": [
+            "SCORPION",
+            "SEAL",
+            "PLATYPUS"
+        ]
+    },
+    {
+        "clue": "COUNTRY",
+        "words": [
+            "COMPOUND",
+            "CHINA",
+            "FIGHTER",
+            "LOCK",
+            "FIELD",
+            "PLANE",
+            "SCUBA DIVER",
+            "BUFFALO",
+            "TORCH",
+            "AMBULANCE",
+            "MEXICO",
+            "POST"
+        ],
+        "intended_words": [
+            "CHINA",
+            "MEXICO",
+            "BUFFALO"
+        ],
+        "gpt-response": [
+            "CHINA",
+            "MEXICO",
+            "BUFFALO"
+        ]
+    },
+    {
+        "clue": "COLD",
+        "words": [
+            "MILLIONAIRE",
+            "PLATYPUS",
+            "FENCE",
+            "SPRING",
+            "WATER",
+            "AMERICA",
+            "LUCK",
+            "LONDON",
+            "NOVEL",
+            "DECK",
+            "ICE",
+            "CLOAK"
+        ],
+        "intended_words": [
+            "ICE",
+            "WATER",
+            "SPRING"
+        ],
+        "gpt-response": [
+            "SPRING",
+            "WATER",
+            "ICE"
+        ]
+    },
+    {
+        "clue": "TUBE",
+        "words": [
+            "GAS",
+            "SLUG",
+            "ROUND",
+            "MICROSCOPE",
+            "SLIP",
+            "HEAD",
+            "HOTEL",
+            "PIPE",
+            "SHOP",
+            "RACKET",
+            "UNICORN",
+            "PLAY"
+        ],
+        "intended_words": [
+            "GAS",
+            "PIPE",
+            "SLUG"
+        ],
+        "gpt-response": [
+            "GAS",
+            "MICROSCOPE",
+            "PIPE"
+        ]
+    },
+    {
+        "clue": "COLD",
+        "words": [
+            "SNOW",
+            "SCALE",
+            "SPY",
+            "WIND",
+            "ALIEN",
+            "BERLIN",
+            "PAN",
+            "GENIUS",
+            "AUSTRALIA",
+            "CELL",
+            "PLOT",
+            "IVORY"
+        ],
+        "intended_words": [
+            "SNOW",
+            "BERLIN",
+            "WIND"
+        ],
+        "gpt-response": [
+            "SNOW",
+            "WIND",
+            "BERLIN"
+        ]
+    },
+    {
+        "clue": "BODY",
+        "words": [
+            "FACE",
+            "ORGAN",
+            "PART",
+            "PUPIL",
+            "MISSILE",
+            "SHOE",
+            "BALL",
+            "FRANCE",
+            "KANGAROO",
+            "SPIKE",
+            "HOOK",
+            "STICK"
+        ],
+        "intended_words": [
+            "FACE",
+            "ORGAN",
+            "PART"
+        ],
+        "gpt-response": [
+            "FACE",
+            "ORGAN",
+            "PART"
+        ]
+    },
+    {
+        "clue": "LEGAL",
+        "words": [
+            "SCHOOL",
+            "CONDUCTOR",
+            "DATE",
+            "BAND",
+            "SQUARE",
+            "CLIFF",
+            "TRUNK",
+            "LAWYER",
+            "EAGLE",
+            "EGYPT",
+            "LEMON",
+            "COTTON"
+        ],
+        "intended_words": [
+            "SCHOOL",
+            "LAWYER",
+            "EGYPT"
+        ],
+        "gpt-response": [
+            "LAWYER",
+            "DATE",
+            "SCHOOL"
+        ]
+    },
+    {
+        "clue": "DESCENT",
+        "words": [
+            "BERLIN",
+            "FALL",
+            "FAIR",
+            "WELL",
+            "BLOCK",
+            "SUIT",
+            "IVORY",
+            "ALPS",
+            "WAKE",
+            "PIT",
+            "FAN",
+            "GREEN"
+        ],
+        "intended_words": [
+            "FALL",
+            "ALPS",
+            "PIT"
+        ],
+        "gpt-response": [
+            "FALL",
+            "ALPS",
+            "PIT"
+        ]
+    },
+    {
+        "clue": "CITIES",
+        "words": [
+            "BEIJING",
+            "UNDERTAKER",
+            "STREAM",
+            "CODE",
+            "BOARD",
+            "BOX",
+            "CANADA",
+            "FORK",
+            "BERLIN",
+            "HOOD",
+            "RULER",
+            "KING"
+        ],
+        "intended_words": [
+            "BEIJING",
+            "BERLIN",
+            "CANADA"
+        ],
+        "gpt-response": [
+            "BEIJING",
+            "CANADA",
+            "BERLIN"
+        ]
+    },
+    {
+        "clue": "BIOLOGY",
+        "words": [
+            "CELL",
+            "SCIENTIST",
+            "EAGLE",
+            "CZECH",
+            "LAB",
+            "BOOT",
+            "KANGAROO",
+            "GREEN",
+            "CHEST",
+            "MUG",
+            "LOG",
+            "SUPERHERO"
+        ],
+        "intended_words": [
+            "CELL",
+            "SCIENTIST",
+            "LAB"
+        ],
+        "gpt-response": [
+            "CELL",
+            "SCIENTIST",
+            "LAB"
+        ]
+    },
+    {
+        "clue": "FLY",
+        "words": [
+            "BOOM",
+            "CHAIR",
+            "LINK",
+            "LITTER",
+            "PIE",
+            "HELICOPTER",
+            "PAN",
+            "SCIENTIST",
+            "SUIT",
+            "OIL",
+            "SHARK",
+            "SHADOW"
+        ],
+        "intended_words": [
+            "BOOM",
+            "HELICOPTER",
+            "SHARK"
+        ],
+        "gpt-response": [
+            "HELICOPTER",
+            "SUIT",
+            "SHARK"
+        ]
+    },
+    {
+        "clue": "RIVER",
+        "words": [
+            "AMAZON",
+            "ICE",
+            "MICROSCOPE",
+            "CRICKET",
+            "MUG",
+            "ARM",
+            "CAP",
+            "DECK",
+            "BANK",
+            "AFRICA",
+            "PRESS",
+            "POISON"
+        ],
+        "intended_words": [
+            "AMAZON",
+            "ICE",
+            "BANK"
+        ],
+        "gpt-response": [
+            "AMAZON",
+            "BANK",
+            "ARM"
+        ]
+    },
+    {
+        "clue": "SECRET",
+        "words": [
+            "AGENT",
+            "JET",
+            "CONCERT",
+            "GLOVE",
+            "WHIP",
+            "ANGEL",
+            "NINJA",
+            "BOLT",
+            "HOTEL",
+            "DANCE",
+            "ROCK",
+            "BOND"
+        ],
+        "intended_words": [
+            "AGENT",
+            "NINJA",
+            "BOND"
+        ],
+        "gpt-response": [
+            "AGENT",
+            "NINJA",
+            "BOND"
+        ]
+    },
+    {
+        "clue": "PERFORMANCE",
+        "words": [
+            "PIANO",
+            "CHINA",
+            "TRAIN",
+            "SHAKESPEARE",
+            "CAT",
+            "SCUBA DIVER",
+            "ROW",
+            "TIME",
+            "THEATER",
+            "HAWK",
+            "ENGINE",
+            "BOX"
+        ],
+        "intended_words": [
+            "PIANO",
+            "SHAKESPEARE",
+            "THEATER"
+        ],
+        "gpt-response": [
+            "PIANO",
+            "SHAKESPEARE",
+            "THEATER"
+        ]
+    },
+    {
+        "clue": "VEHICLE",
+        "words": [
+            "FIELD",
+            "STAR",
+            "LINE",
+            "LEMON",
+            "FIGHTER",
+            "GAME",
+            "DISEASE",
+            "HELICOPTER",
+            "FRANCE",
+            "CARROT",
+            "ALIEN",
+            "MASS"
+        ],
+        "intended_words": [
+            "FIGHTER",
+            "HELICOPTER",
+            "ALIEN"
+        ],
+        "gpt-response": [
+            "FIGHTER",
+            "HELICOPTER",
+            "CAR"
+        ]
+    },
+    {
+        "clue": "FURNITURE",
+        "words": [
+            "CHAIR",
+            "SPRING",
+            "AGENT",
+            "BERLIN",
+            "OLIVE",
+            "BOOT",
+            "TEACHER",
+            "CAT",
+            "BOX",
+            "MICROSCOPE",
+            "NAIL",
+            "AUSTRALIA"
+        ],
+        "intended_words": [
+            "CHAIR",
+            "BOX",
+            "BOOT"
+        ],
+        "gpt-response": [
+            "CHAIR",
+            "BOX",
+            "NAIL"
+        ]
+    },
+    {
+        "clue": "METAL",
+        "words": [
+            "BAR",
+            "BOLT",
+            "DOG",
+            "POINT",
+            "ENGLAND",
+            "LAP",
+            "LINK",
+            "POOL",
+            "PITCH",
+            "TUBE",
+            "CZECH",
+            "PAN"
+        ],
+        "intended_words": [
+            "BAR",
+            "BOLT",
+            "PAN"
+        ],
+        "gpt-response": [
+            "BAR",
+            "BOLT",
+            "PAN"
+        ]
+    },
+    {
+        "clue": "COUNTRIES",
+        "words": [
+            "CANADA",
+            "JAM",
+            "PLASTIC",
+            "NURSE",
+            "CONDUCTOR",
+            "PANTS",
+            "BEACH",
+            "WASHINGTON",
+            "CENTAUR",
+            "AUSTRALIA",
+            "PASTE",
+            "CHOCOLATE"
+        ],
+        "intended_words": [
+            "CANADA",
+            "AUSTRALIA",
+            "WASHINGTON"
+        ],
+        "gpt-response": [
+            "CANADA",
+            "WASHINGTON",
+            "AUSTRALIA"
+        ]
+    },
+    {
+        "clue": "STAGE",
+        "words": [
+            "THEATER",
+            "MOUNT",
+            "WHIP",
+            "DRESS",
+            "SOUND",
+            "BOOT",
+            "PLAY",
+            "AFRICA",
+            "SHAKESPEARE",
+            "COTTON",
+            "PIN",
+            "MICROSCOPE"
+        ],
+        "intended_words": [
+            "THEATER",
+            "PLAY",
+            "SHAKESPEARE"
+        ],
+        "gpt-response": [
+            "THEATER",
+            "PLAY",
+            "SHAKESPEARE"
+        ]
+    },
+    {
+        "clue": "SHAPE",
+        "words": [
+            "WATCH",
+            "LITTER",
+            "KING",
+            "WHALE",
+            "POUND",
+            "FILE",
+            "BOW",
+            "PANTS",
+            "TRIANGLE",
+            "CZECH",
+            "IVORY",
+            "COOK"
+        ],
+        "intended_words": [
+            "TRIANGLE",
+            "BOW",
+            "WATCH"
+        ],
+        "gpt-response": [
+            "TRIANGLE",
+            "BOW",
+            "POUND"
+        ]
+    },
+    {
+        "clue": "ACTION",
+        "words": [
+            "AGENT",
+            "MERCURY",
+            "PASS",
+            "CRANE",
+            "CAST",
+            "SLIP",
+            "TAIL",
+            "PIE",
+            "DATE",
+            "TRIANGLE",
+            "POOL",
+            "HORN"
+        ],
+        "intended_words": [
+            "AGENT",
+            "CAST",
+            "PASS"
+        ],
+        "gpt-response": [
+            "PASS",
+            "CAST",
+            "SLIP"
+        ]
+    },
+    {
+        "clue": "ROYALTY",
+        "words": [
+            "KANGAROO",
+            "MASS",
+            "SOLDIER",
+            "SUB",
+            "COMPOUND",
+            "BACK",
+            "DINOSAUR",
+            "DICE",
+            "GENIUS",
+            "KING",
+            "ROCK",
+            "TEMPLE"
+        ],
+        "intended_words": [
+            "KING",
+            "KANGAROO",
+            "TEMPLE"
+        ],
+        "gpt-response": [
+            "SOLDIER",
+            "KING",
+            "TEMPLE"
+        ]
+    },
+    {
+        "clue": "COUNTRIES",
+        "words": [
+            "PENGUIN",
+            "DEGREE",
+            "SCORPION",
+            "NOVEL",
+            "LINE",
+            "SHOT",
+            "ENGLAND",
+            "AUSTRALIA",
+            "TRUNK",
+            "WITCH",
+            "AZTEC",
+            "KID"
+        ],
+        "intended_words": [
+            "ENGLAND",
+            "AUSTRALIA",
+            "AZTEC"
+        ],
+        "gpt-response": [
+            "ENGLAND",
+            "AUSTRALIA",
+            "AZTEC"
+        ]
+    },
+    {
+        "clue": "CITIES",
+        "words": [
+            "MISSILE",
+            "WASHINGTON",
+            "APPLE",
+            "SQUARE",
+            "BAR",
+            "MOSCOW",
+            "KNIGHT",
+            "FOREST",
+            "WATER",
+            "SUB",
+            "SPIKE",
+            "COTTON"
+        ],
+        "intended_words": [
+            "WASHINGTON",
+            "MOSCOW",
+            "SQUARE"
+        ],
+        "gpt-response": [
+            "WASHINGTON",
+            "MOSCOW",
+            "SQUARE"
+        ]
+    },
+    {
+        "clue": "CULTURE",
+        "words": [
+            "GREECE",
+            "DRESS",
+            "TABLET",
+            "HOTEL",
+            "STOCK",
+            "BOMB",
+            "LONDON",
+            "LIGHT",
+            "BAND",
+            "IRON",
+            "AZTEC",
+            "ROOT"
+        ],
+        "intended_words": [
+            "GREECE",
+            "AZTEC",
+            "LONDON"
+        ],
+        "gpt-response": [
+            "GREECE",
+            "LONDON",
+            "AZTEC"
+        ]
+    },
+    {
+        "clue": "PROFESSION",
+        "words": [
+            "NINJA",
+            "DEATH",
+            "HONEY",
+            "BEAT",
+            "ENGINE",
+            "DRAFT",
+            "DOCTOR",
+            "COPPER",
+            "CHECK",
+            "TABLE",
+            "WATCH",
+            "PALM"
+        ],
+        "intended_words": [
+            "NINJA",
+            "DOCTOR",
+            "ENGINE"
+        ],
+        "gpt-response": [
+            "NINJA",
+            "DOCTOR",
+            "COPPER"
+        ]
+    },
+    {
+        "clue": "MYTHICAL",
+        "words": [
+            "SNOW",
+            "NUT",
+            "LEAD",
+            "UNICORN",
+            "WITCH",
+            "SHAKESPEARE",
+            "SWITCH",
+            "FORCE",
+            "WATER",
+            "GENIUS",
+            "UNDERTAKER",
+            "LOCH NESS"
+        ],
+        "intended_words": [
+            "UNICORN",
+            "WITCH",
+            "LOCH NESS"
+        ],
+        "gpt-response": [
+            "UNICORN",
+            "WITCH",
+            "LOCH NESS"
+        ]
+    },
+    {
+        "clue": "PROTECTION",
+        "words": [
+            "POUND",
+            "DISEASE",
+            "FAN",
+            "PIPE",
+            "COVER",
+            "SOLDIER",
+            "GLOVE",
+            "TURKEY",
+            "GAS",
+            "COPPER",
+            "CASINO",
+            "SHOP"
+        ],
+        "intended_words": [
+            "GLOVE",
+            "COVER",
+            "SOLDIER"
+        ],
+        "gpt-response": [
+            "COVER",
+            "SOLDIER",
+            "GLOVE"
+        ]
+    },
+    {
+        "clue": "FLOW",
+        "words": [
+            "TRACK",
+            "SPIKE",
+            "ALIEN",
+            "HIMALAYAS",
+            "PIPE",
+            "BILL",
+            "CONDUCTOR",
+            "RAY",
+            "STREAM",
+            "PLASTIC",
+            "CHINA",
+            "BEIJING"
+        ],
+        "intended_words": [
+            "STREAM",
+            "PIPE",
+            "TRACK"
+        ],
+        "gpt-response": [
+            "PIPE",
+            "STREAM",
+            "CONDUCTOR"
+        ]
+    },
+    {
+        "clue": "COUNTRIES",
+        "words": [
+            "TABLET",
+            "MUG",
+            "SLUG",
+            "GRACE",
+            "STAR",
+            "MASS",
+            "ROULETTE",
+            "CZECH",
+            "CHINA",
+            "AUSTRALIA",
+            "CHECK",
+            "WITCH"
+        ],
+        "intended_words": [
+            "CZECH",
+            "CHINA",
+            "AUSTRALIA"
+        ],
+        "gpt-response": [
+            "CZECH",
+            "CHINA",
+            "AUSTRALIA"
+        ]
+    },
+    {
+        "clue": "LUXURY",
+        "words": [
+            "DIAMOND",
+            "MISSILE",
+            "JET",
+            "LIMOUSINE",
+            "SOUL",
+            "INDIA",
+            "GREEN",
+            "PAPER",
+            "HONEY",
+            "SPELL",
+            "RACKET",
+            "AIR"
+        ],
+        "intended_words": [
+            "DIAMOND",
+            "LIMOUSINE",
+            "JET"
+        ],
+        "gpt-response": [
+            "DIAMOND",
+            "JET",
+            "LIMOUSINE"
+        ]
+    },
+    {
+        "clue": "WEAR",
+        "words": [
+            "MASS",
+            "CHICK",
+            "BOOM",
+            "FORK",
+            "SUIT",
+            "BOOT",
+            "ROBOT",
+            "OPERA",
+            "COOK",
+            "REVOLUTION",
+            "LEMON",
+            "SLIP"
+        ],
+        "intended_words": [
+            "SUIT",
+            "BOOT",
+            "SLIP"
+        ],
+        "gpt-response": [
+            "SUIT",
+            "BOOT",
+            "SLIP"
+        ]
+    },
+    {
+        "clue": "FLIGHT",
+        "words": [
+            "LIMOUSINE",
+            "EAGLE",
+            "WALL",
+            "DWARF",
+            "CHURCH",
+            "SATURN",
+            "SPACE",
+            "BARK",
+            "PRINCESS",
+            "CYCLE",
+            "PAN",
+            "PARACHUTE"
+        ],
+        "intended_words": [
+            "EAGLE",
+            "SATURN",
+            "PARACHUTE"
+        ],
+        "gpt-response": [
+            "EAGLE",
+            "SPACE",
+            "PARACHUTE"
+        ]
+    },
+    {
+        "clue": "PROTECTION",
+        "words": [
+            "SATELLITE",
+            "GLOVE",
+            "ROW",
+            "FILE",
+            "PENGUIN",
+            "AMBULANCE",
+            "BRIDGE",
+            "COVER",
+            "STAFF",
+            "GREEN",
+            "GROUND",
+            "BOOM"
+        ],
+        "intended_words": [
+            "GLOVE",
+            "COVER",
+            "AMBULANCE"
+        ],
+        "gpt-response": [
+            "GLOVE",
+            "COVER",
+            "BRIDGE"
+        ]
+    },
+    {
+        "clue": "ROYAL",
+        "words": [
+            "KING",
+            "MARCH",
+            "ATLANTIS",
+            "EMBASSY",
+            "CAPITAL",
+            "ENGLAND",
+            "BOMB",
+            "PART",
+            "LIGHT",
+            "GLOVE",
+            "PIT",
+            "KETCHUP"
+        ],
+        "intended_words": [
+            "KING",
+            "ENGLAND",
+            "CAPITAL"
+        ],
+        "gpt-response": [
+            "KING",
+            "ENGLAND",
+            "EMBASSY"
+        ]
+    },
+    {
+        "clue": "ANIMAL",
+        "words": [
+            "TOOTH",
+            "NEW YORK",
+            "COURT",
+            "WEB",
+            "PYRAMID",
+            "EMBASSY",
+            "DINOSAUR",
+            "RABBIT",
+            "ALPS",
+            "DOG",
+            "SHIP",
+            "HEAD"
+        ],
+        "intended_words": [
+            "DINOSAUR",
+            "RABBIT",
+            "DOG"
+        ],
+        "gpt-response": [
+            "DINOSAUR",
+            "RABBIT",
+            "DOG"
+        ]
+    },
+    {
+        "clue": "COLD",
+        "words": [
+            "NOVEL",
+            "TAP",
+            "STREAM",
+            "BOOT",
+            "PYRAMID",
+            "JUPITER",
+            "PENGUIN",
+            "KID",
+            "CYCLE",
+            "ICE CREAM",
+            "CONTRACT",
+            "NINJA"
+        ],
+        "intended_words": [
+            "JUPITER",
+            "ICE CREAM",
+            "PENGUIN"
+        ],
+        "gpt-response": [
+            "PENGUIN",
+            "ICE CREAM",
+            "STREAM"
+        ]
+    },
+    {
+        "clue": "STORY",
+        "words": [
+            "DATE",
+            "NURSE",
+            "BRIDGE",
+            "RING",
+            "PLOT",
+            "BANK",
+            "NOTE",
+            "NOVEL",
+            "PLATYPUS",
+            "PIT",
+            "CHANGE",
+            "HORSE"
+        ],
+        "intended_words": [
+            "PLOT",
+            "NOVEL",
+            "DATE"
+        ],
+        "gpt-response": [
+            "PLOT",
+            "NOVEL",
+            "NOTE"
+        ]
+    },
+    {
+        "clue": "OUTDOOR",
+        "words": [
+            "HELICOPTER",
+            "TURKEY",
+            "BEACH",
+            "POST",
+            "SHARK",
+            "HAND",
+            "YARD",
+            "CHAIR",
+            "STRAW",
+            "BELL",
+            "AMAZON",
+            "COOK"
+        ],
+        "intended_words": [
+            "HELICOPTER",
+            "BEACH",
+            "YARD"
+        ],
+        "gpt-response": [
+            "BEACH",
+            "YARD",
+            "SHARK"
+        ]
+    },
+    {
+        "clue": "WEIGHT",
+        "words": [
+            "POUND",
+            "LIFE",
+            "NAIL",
+            "VAN",
+            "TOKYO",
+            "SCALE",
+            "CIRCLE",
+            "SHOT",
+            "CAST",
+            "KEY",
+            "CARD",
+            "RACKET"
+        ],
+        "intended_words": [
+            "POUND",
+            "SCALE",
+            "LIFE"
+        ],
+        "gpt-response": [
+            "POUND",
+            "SCALE",
+            "SHOT"
+        ]
+    },
+    {
+        "clue": "FLY",
+        "words": [
+            "RAY",
+            "OIL",
+            "DANCE",
+            "BAT",
+            "LAB",
+            "KING",
+            "CAST",
+            "HAWK",
+            "STRING",
+            "HORN",
+            "SATURN",
+            "HOLE"
+        ],
+        "intended_words": [
+            "RAY",
+            "BAT",
+            "HAWK"
+        ],
+        "gpt-response": [
+            "BAT",
+            "HAWK",
+            "CAST"
+        ]
+    },
+    {
+        "clue": "SEA",
+        "words": [
+            "BEACH",
+            "HOLE",
+            "DOCTOR",
+            "MOUSE",
+            "STICK",
+            "FISH",
+            "BOARD",
+            "WITCH",
+            "WHALE",
+            "LIMOUSINE",
+            "OCTOPUS",
+            "DWARF"
+        ],
+        "intended_words": [
+            "BEACH",
+            "FISH",
+            "WHALE"
+        ],
+        "gpt-response": [
+            "FISH",
+            "WHALE",
+            "OCTOPUS"
+        ]
+    },
+    {
+        "clue": "CONTAINER",
+        "words": [
+            "PANTS",
+            "GAS",
+            "TABLET",
+            "BOX",
+            "PLASTIC",
+            "SATELLITE",
+            "MEXICO",
+            "CONDUCTOR",
+            "OIL",
+            "PLANE",
+            "DROP",
+            "SPIDER"
+        ],
+        "intended_words": [
+            "BOX",
+            "TABLET",
+            "GAS"
+        ],
+        "gpt-response": [
+            "BOX",
+            "PLASTIC",
+            "OIL"
+        ]
+    },
+    {
+        "clue": "COUNTRY",
+        "words": [
+            "AGENT",
+            "HAWK",
+            "DISEASE",
+            "CHINA",
+            "LION",
+            "EMBASSY",
+            "DRAGON",
+            "SNOW",
+            "MOON",
+            "PIRATE",
+            "TIME",
+            "PART"
+        ],
+        "intended_words": [
+            "CHINA",
+            "MOON",
+            "TIME"
+        ],
+        "gpt-response": [
+            "CHINA",
+            "EMBASSY",
+            "DRAGON"
+        ]
+    },
+    {
+        "clue": "COLD",
+        "words": [
+            "SNOW",
+            "FIGHTER",
+            "VET",
+            "STRIKE",
+            "HIMALAYAS",
+            "SINK",
+            "FACE",
+            "SNOWMAN",
+            "AUSTRALIA",
+            "POLE",
+            "HAM",
+            "KNIGHT"
+        ],
+        "intended_words": [
+            "SNOW",
+            "SNOWMAN",
+            "POLE"
+        ],
+        "gpt-response": [
+            "SNOW",
+            "HIMALAYAS",
+            "POLE"
+        ]
+    },
+    {
+        "clue": "COOKING",
+        "words": [
+            "KNIFE",
+            "OIL",
+            "SMUGGLER",
+            "RACKET",
+            "FISH",
+            "PISTOL",
+            "SCUBA DIVER",
+            "PIT",
+            "PART",
+            "DOCTOR",
+            "LAB",
+            "OLIVE"
+        ],
+        "intended_words": [
+            "OIL",
+            "FISH",
+            "OLIVE"
+        ],
+        "gpt-response": [
+            "KNIFE",
+            "OIL",
+            "FISH"
+        ]
+    },
+    {
+        "clue": "TIE",
+        "words": [
+            "PLATYPUS",
+            "WAR",
+            "BOND",
+            "ANGEL",
+            "SPACE",
+            "GIANT",
+            "BALL",
+            "STRING",
+            "WEB",
+            "DRESS",
+            "COPPER",
+            "BEAT"
+        ],
+        "intended_words": [
+            "BOND",
+            "STRING",
+            "WEB"
+        ],
+        "gpt-response": [
+            "BOND",
+            "STRING",
+            "DRESS"
+        ]
+    },
+    {
+        "clue": "BUILDING",
+        "words": [
+            "MAIL",
+            "BLOCK",
+            "LIMOUSINE",
+            "CHURCH",
+            "KID",
+            "IVORY",
+            "SPY",
+            "BUCK",
+            "HEART",
+            "ROCK",
+            "PIE",
+            "CONTRACT"
+        ],
+        "intended_words": [
+            "CHURCH",
+            "BLOCK",
+            "ROCK"
+        ],
+        "gpt-response": [
+            "BLOCK",
+            "CHURCH",
+            "CONTRACT"
+        ]
+    },
+    {
+        "clue": "CINEMA",
+        "words": [
+            "PRINCESS",
+            "FILM",
+            "CAST",
+            "CHICK",
+            "SHARK",
+            "BEAT",
+            "SOUL",
+            "LAP",
+            "NURSE",
+            "MOUTH",
+            "DISEASE",
+            "CHARGE"
+        ],
+        "intended_words": [
+            "PRINCESS",
+            "FILM",
+            "CAST"
+        ],
+        "gpt-response": [
+            "FILM",
+            "CAST",
+            "SHARK"
+        ]
+    },
+    {
+        "clue": "FINANCE",
+        "words": [
+            "MINT",
+            "BANK",
+            "CHECK",
+            "LITTER",
+            "STADIUM",
+            "SPELL",
+            "LINK",
+            "WITCH",
+            "BOOT",
+            "POST",
+            "BACK",
+            "GOLD"
+        ],
+        "intended_words": [
+            "BANK",
+            "CHECK",
+            "GOLD"
+        ],
+        "gpt-response": [
+            "MINT",
+            "BANK",
+            "GOLD"
+        ]
+    },
+    {
+        "clue": "CITIES",
+        "words": [
+            "BOARD",
+            "SINK",
+            "APPLE",
+            "OLYMPUS",
+            "MATCH",
+            "MARBLE",
+            "DRAFT",
+            "BERLIN",
+            "FILM",
+            "NEW YORK",
+            "FLUTE",
+            "TUBE"
+        ],
+        "intended_words": [
+            "BERLIN",
+            "NEW YORK",
+            "OLYMPUS"
+        ],
+        "gpt-response": [
+            "APPLE",
+            "BERLIN",
+            "NEW YORK"
+        ]
+    },
+    {
+        "clue": "SHAPE",
+        "words": [
+            "PIE",
+            "MASS",
+            "HEAD",
+            "LITTER",
+            "ARM",
+            "CIRCLE",
+            "PYRAMID",
+            "POINT",
+            "STOCK",
+            "HOOD",
+            "BUCK",
+            "THIEF"
+        ],
+        "intended_words": [
+            "PIE",
+            "CIRCLE",
+            "PYRAMID"
+        ],
+        "gpt-response": [
+            "CIRCLE",
+            "PYRAMID",
+            "POINT"
+        ]
+    },
+    {
+        "clue": "BIRD",
+        "words": [
+            "PLOT",
+            "MOUNT",
+            "BUTTON",
+            "LEMON",
+            "PLATYPUS",
+            "HAND",
+            "THIEF",
+            "BUGLE",
+            "YARD",
+            "STAR",
+            "ROBIN",
+            "STAFF"
+        ],
+        "intended_words": [
+            "ROBIN",
+            "PLATYPUS",
+            "STAR"
+        ],
+        "gpt-response": [
+            "MOUNT",
+            "ROBIN",
+            "YARD"
+        ]
+    },
+    {
+        "clue": "PROTECTION",
+        "words": [
+            "CAP",
+            "UNDERTAKER",
+            "STADIUM",
+            "POLICE",
+            "SKYSCRAPER",
+            "POUND",
+            "SQUARE",
+            "CELL",
+            "CLOAK",
+            "BEIJING",
+            "GLOVE",
+            "ALPS"
+        ],
+        "intended_words": [
+            "CAP",
+            "GLOVE",
+            "CLOAK"
+        ],
+        "gpt-response": [
+            "POLICE",
+            "CELL",
+            "GLOVE"
+        ]
+    },
+    {
+        "clue": "SPORT",
+        "words": [
+            "WHALE",
+            "HOLLYWOOD",
+            "TABLET",
+            "RING",
+            "TEMPLE",
+            "HAM",
+            "TRACK",
+            "WELL",
+            "GAME",
+            "KNIGHT",
+            "CRICKET",
+            "BOOT"
+        ],
+        "intended_words": [
+            "TRACK",
+            "GAME",
+            "CRICKET"
+        ],
+        "gpt-response": [
+            "RING",
+            "TRACK",
+            "CRICKET"
+        ]
+    },
+    {
+        "clue": "DIGITAL",
+        "words": [
+            "SHADOW",
+            "SEAL",
+            "WAVE",
+            "GHOST",
+            "POINT",
+            "TABLET",
+            "ORANGE",
+            "MOUSE",
+            "KING",
+            "REVOLUTION",
+            "THUMB",
+            "HOOK"
+        ],
+        "intended_words": [
+            "TABLET",
+            "MOUSE",
+            "REVOLUTION"
+        ],
+        "gpt-response": [
+            "TABLET",
+            "MOUSE",
+            "THUMB"
+        ]
+    },
+    {
+        "clue": "VERTICAL",
+        "words": [
+            "STICK",
+            "HELICOPTER",
+            "POLE",
+            "PORT",
+            "COLD",
+            "AIR",
+            "FAIR",
+            "GREECE",
+            "BRUSH",
+            "AZTEC",
+            "DROP",
+            "KIWI"
+        ],
+        "intended_words": [
+            "STICK",
+            "POLE",
+            "HELICOPTER"
+        ],
+        "gpt-response": [
+            "STICK",
+            "POLE",
+            "DROP"
+        ]
+    },
+    {
+        "clue": "STRUCTURE",
+        "words": [
+            "SUB",
+            "DRESS",
+            "PIE",
+            "DECK",
+            "GAS",
+            "HAWK",
+            "DANCE",
+            "MARBLE",
+            "PYRAMID",
+            "SWITCH",
+            "STAR",
+            "SOUL"
+        ],
+        "intended_words": [
+            "SUB",
+            "DECK",
+            "PYRAMID"
+        ],
+        "gpt-response": [
+            "DECK",
+            "PYRAMID",
+            "STAR"
+        ]
+    }
+]
